@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Digital Bias
 locale:           en_US
 url:              
 
@@ -28,21 +28,21 @@ kramdown:
 owner:
   name: David Mitchell
   avatar: bio-photo.jpg
-  bio: "Describe your self."
+  bio: "Experienced Technologist, Outdoorsman, Entrepreneur, Lifelong Learner"
   email: david.c.mitchell@gmail.com
   disqus-shortname:
-  twitter: #digitalbias
-  facebook: #digitalbias
+  twitter: digitalbias
+  facebook: #mitchelld@acm.org
   google:
-    plus: #david.c.mitchell
-    analytics:
-    verify:
+    plus: #DavidMitchell-theDigitalbias
+    analytics: UA-256389-2
+    verify: 
     ad-client:
     ad-slot:
   bing-verify:
-  github: #digitalbias
+  github: digitalbias
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: digitalbias
   xing: #username
   instagram: #username
   lastfm: #username
