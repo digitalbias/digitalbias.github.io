@@ -1,14 +1,20 @@
 {% if page.image.feature %}
+{% assign banner_image = page.image %}
+{% else %}
+{% assign banner_image = site.data.banner_images[page.layout].image %}
+{% endif %}
+
+{% if banner_image %}
   <div class="image-wrap">
   <img src=
-    {% if page.image.feature contains 'http' %}
-      "{{ page.image.feature }}"
+    {% if banner_image.feature contains 'http' %}
+      "{{ banner_image.feature }}"
     {% else %}
-      "{{ site.url }}/images/{{ page.image.feature }}"
+      "{{ site.url }}/images/{{ banner_image.feature }}"
     {% endif %}
   alt="{{ page.title }} feature image">
-  {% if page.image.credit %}
-    <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
+  {% if banner_image.credit %}
+    <span class="image-credit">Photo Credit: <a href="{{ banner_image.creditlink }}">{{ banner_image.credit }}</a></span>
   {% endif %}
   </div><!-- /.image-wrap -->
 {% endif %}
