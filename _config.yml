@@ -2,7 +2,7 @@
 
 title:            Site Title
 locale:           en_US
-url:
+url:              
 
 
 # Jekyll configuration
@@ -26,21 +26,21 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: David Mitchell
   avatar: bio-photo.jpg
   bio: "Describe your self."
-  email:
+  email: david.c.mitchell@gmail.com
   disqus-shortname:
-  twitter: #username
-  facebook: #username
+  twitter: #digitalbias
+  facebook: #digitalbias
   google:
-    plus: #username
+    plus: #david.c.mitchell
     analytics:
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: #digitalbias
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
