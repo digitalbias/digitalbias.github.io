@@ -2,8 +2,8 @@
 
 title:            Digital Bias
 locale:           en_US
-url:              http://www.digitalbias.com
-
+# url:              http://www.digitalbias.com
+url:               http://localhost:4000
 
 # Jekyll configuration
 

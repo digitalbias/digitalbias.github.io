@@ -33,8 +33,8 @@ The following is a list I've been compiling on the various resources avaliable t
 - [FatFree](http://www.fatfreecrm.com/)
 - [OnePageCRM](http://www.onepagecrm.com/)
 - [SalesBox](http://salesbox.com/)
+- [Bitrix24](https://www.bitrix24.com)
 
 ## Communication
 - [Slack](https://slack.com/): Chat
 - [Asana](https://asana.com/): Project team work collaboration 
-
