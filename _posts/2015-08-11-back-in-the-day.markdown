@@ -3,6 +3,7 @@ layout: post
 title: Back in the Day
 excerpt: I've enjoyed the time, and while summer is coming to a close, I can honestly say, I've had one fun-filled summer I'll never forget and could never have done if it hadn't been for getting let go.
 tags: [intro]
+comments: true
 image:
   feature: deer_creek_mountains.jpg
 date: 2015-08-11T21:51:54-06:00

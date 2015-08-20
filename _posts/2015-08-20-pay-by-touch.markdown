@@ -5,6 +5,7 @@ modified:
 categories: 
 excerpt: I've dug up an interesting post I made back in 2003 about Pay By Touch. It has very striking similarities to payment situations today.
 tags: [apple pay, google pay, payment systems]
+comments: true
 image:
   feature: deer_creek_mountains.jpg
 date: 2015-08-20T14:03:05-06:00
