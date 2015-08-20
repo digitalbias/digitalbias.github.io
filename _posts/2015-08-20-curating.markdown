@@ -4,7 +4,7 @@ title: Curating
 modified:
 categories: 
 excerpt: I've been curating posts from my older blog. Here are a couple short tips I think may still be relevant.
-tags: [eclipse, jvm, old post, motley fools]
+tags: [eclipse, jvm, old post, motley fools, EA]
 image:
   feature: deer_creek_mountains.jpg
 date: 2015-08-21T12:35:35-06:00
