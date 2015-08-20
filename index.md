@@ -6,7 +6,7 @@ tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: white_rim.jpg
 ---
-My name is David Mitchell and I do freelance work under the business name of [Black Water Software][blackwater]. My speciality is in Ruby and Rails web application development, but I also have experience setting up networks, servers and configuring a number of different software solutions. Lately my focus has shifted to helping small businesses navigate the quagmire of different IT solutions out there and help them get off on the right foot so they don't have to worry about the IT part of their business and instead can focus on serving their customers. 
+My name is David Mitchell and I do freelance work under the business name of [Black Water Software][blackwater]. My specialty is in Ruby and Rails web application development, but I also have experience managing software development teams, setting up networks, servers and configuring a number of different software solutions. Lately my focus has shifted to helping small businesses navigate the quagmire of different IT solutions out there and help them get off on the right foot so they don't have to worry about the IT part of their business and instead can focus on serving their customers. 
 
 My business is to help others succeed in theirs.
 
@@ -22,7 +22,7 @@ If you are interested in keeping up on content or updates to this website and Bl
 <div id="mc_embed_signup">
 <form action="//nstarglobal.us5.list-manage.com/subscribe/post?u=a607239de170cb0609926bbcd&amp;id=0fa9193701" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-    <h2>Sign up to receive updates and special offers from us!</h2>
+    <h2>Sign up to receive updates, special content or to hire me!</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
     <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
