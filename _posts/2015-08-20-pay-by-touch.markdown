@@ -35,9 +35,13 @@ My final concern would involve privacy policy changing.  I rather not have them 
 #### Comment Posted by: Pete Bartolik on October 17, 2003 09:31 AM
 
 Hi Dave, good questions. I work with Pay By Touch on its communications programs, so let me try to answer them:
+
 -- Yes, the reader does in fact present you with choices on which account to pay from. Whatever accounts you registered would be presented as options.
+
 -- Pricing will be based on savings realized by merchants.
+
 -- On privacy, the company is committed to not revealing any information. 
+
 Question from me -- what store were you referring to?
 
 [apple_pay]: http://www.apple.com/apple-pay/
