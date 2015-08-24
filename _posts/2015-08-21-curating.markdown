@@ -23,8 +23,6 @@ This was a useful tip one of the guys here at work discovered: If you wish to ru
 eclipse -vm {path_to_jvm}/javaw.exe
 ~~~
 
-
-
 [wayback]: https://web.archive.org/
 [blog]: https://web.archive.org/web/*/blog.opencg.org
 [ea]: https://web.archive.org/web/20030216061226/http://www.fool.com/specials/2003/03021104sp.htm

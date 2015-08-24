@@ -1,0 +1,91 @@
+---
+layout: post
+title: XML DB (2003)
+modified:
+categories: 
+excerpt: I've dug up an interesting post I made back in 2003 about the SourceForge project "XML DB"
+tags: [xml db, sax parser, dom parser, webface, sco]
+comments: true
+image:
+  feature: deer_creek_mountains.jpg
+date: 2015-08-25T12:57:04-06:00
+---
+
+I originally posted this article on 3 December 2003 and find it interesting to see what I was working on and excited about. What I find interesting about the article was where my frame of mind was at the time.
+
+Back in 2003 I was working on an IDE for a product called [WebFace][webface]. WebFace was years before it's time and was designed to be a pure in-your-browser desktop replacement using JavaScript. The idea was that a person could use our IDE to craft XML files which would be read in by the framework and rendered as a UI within the browser. Developers would write event handlers in JavaScript which would be embedded with the XML (in CDATA tags), which would respond to events in the browser.
+
+You've got to remember, this was before Ember, Angular, React, Dojo or any of the other JavaScript frameworks out now. It was "Your Desktop on the Web." If memory serves correctly, WebTop was one of our competitors as was [Convea][convea]. This was back in the day before "Web 2.0" or HTML5. Instead it was called DHTML (the "D" ment "Dynamic"). Now days there aren't that many sites that are **not** dynamic.
+
+Anyway, I digress.
+
+I was working on the IDE. It was both a standalone Java Swing app as well as a plugin for Eclipse. And I needed to parse XML maniuplate it in the event handlers in the IDE and then rewrite it back in a clean format which would be recognied by the framework.
+
+Working with XML at the time was a major pain. There were basically two kinds of XML parsers I could have used: SAX or DOM. SAX would have required me to do parse the doc every time a person made a change, while the DOM parsers were always monkeying around with the end XML in odd ways.
+
+I settled on [XML DB][xmldb] to help.
+
+I haven't updated the text of the article at all. It could be wildly out of date by now, but it was relevant at the time. 
+
+Another point I should mention. If you google "XML DB" you will likely find [XML DB][oracle] by Oracle. I'm not talking about that product, but instead the SourceForge library I linked to above.
+
+So, on with the older article.
+
+### XML DB
+
+Now, I'm usually reluctant in talking about what I'm working on at my job, just because I want to make absolutely sure that I'm leaking any kind of information, but I think this new technology that I've been working with is something useful that other people may want to consider using. So here goes...
+
+Working with XML files and having to manipulate them is really a pain in the neck.  The biggest problem with working with XML files is just that...It is XML, a structured data format, and it is a file.
+
+So the quandry come in when you want to create an application that manipulates the XML file based on the data structures, but you still want to maintain the formatting, whitespace and other structure of the file itself.
+
+Manipulating the XML is a fairly easy task.  Throw the information into either a SAX or a DOM structure, and you can then make all the changes you want.  However the problem is that now you loose the formatting you used to have when you go back and try and spit out any changes you have made.
+
+Going at it from the other way isn't that much easier either.  If you decide that keeping the formatting is the best way to go, then you end up having to parse the file and keep location information on the file for any changes you make.  Real pain.
+
+In steps XML DB. Using the XML DB API I can treat an XML file as the data structure that it is, and still maintain the formatting and whitespace that is important for many other applications.  What I've found really nice about it is that I can query using xpath and update the file as if it were a database.  It's proven to be very useful in the small experiment I've applied it on.  There was a small but with the implementation I was using, Xindice, but once one of the guys here found the problem, it has been really nice, and has been worth the initial pain.
+
+The best place that I found for the XUpdate syntax are the use cases for XUpdate.
+
+Finally, a couple of notes on the Xindice implementation as it stands today:
+
+When using the embedded Xindice database driver, be sure to turn compression on for the database, otherwise you will experience what appears to be thread issues. 
+
+If you execute an update (either insert or append) and you want to make sure the XML is "clean," then be sure to eliminate all the white space from your insert of update commands.  For example, if you want an element that looks like this: 
+
+~~~ xml
+<this id='1' />
+~~~
+
+then the query should look like
+
+~~~ xml
+<insert-after select='parent-of-this/'><element name='this'><attrbute name='id'>1</attribute></element></insert-after>
+~~~
+
+instead of something that looks more like this:
+
+~~~ xml
+ <insert-after select='parent-of-this/'>
+  <element name='this'>
+   <attrbute name='id'>1</attribute>
+  </element>
+ </insert-after> 
+~~~
+
+If you don't do it this way, then the xml will look something more like the following:
+
+~~~ xml
+<this id="1">      </this>
+~~~
+
+Which is, IMHO, ugly.
+
+Also, if you get your selection query wrong, you most likely will see something like a &lt;updateParseTree&gt; node at the end of your file with the contents of whatever it was that you were trying to insert into the document....so be sure to get the select part of any insert or update correct.  Deletes are okay because they just delete or not, but if what you are trying to delete doesn't exist, then it just ignores the delete.
+
+Anyway, I thought that I'd share some of my thoughts about the XML DB and how it has helped me, without going into many details, and still show a couple of the gotchas so that others don't have to run up against the same problems I did when working with this particular implementation.
+
+[webface]: http://www2.sys-con.com/itsg/virtualcd/webservices/archives/0306/barbash/index.html
+[xmldb]: http://xmldb-org.sourceforge.net/
+[oracle]: http://www.oracle.com/technetwork/database/database-technologies/xmldb/overview/index.html
+[convea]: https://web.archive.org/web/20030922054816/http://www.convea.com/
