@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "Tools of the trade"
+date:   2013-10-05 23:05:00
+categories: tools
+---
+There are a number of tools I find I rely on throught out the day. My intention is to make a list of them and talk about the pros and cons for each one in a separate post. My hope is that by sharing my experience with each one, I can better see for myself why I like one tool over another and also share why I may or may not be considering moving to another tool.
+
+So, the list:
+
+* [Mac OS X/Mac Book Air][osx]
+* [Sublime Text 3][sublime]
+* [nvALT][nvalt]
+* [Marked][marked]
+* [Alfred][alfred]
+* [GeekTool][geek]
+* [1Password][pass]
+* [Scrivener][scriv]
+* [PlainText][text]
+* [Ulysses/Daedalus][ulysses]
+* [Things][things]
+* [Total Terminal][total]
+* [Homebrew][brew]
+* [git][git]
+* [ruby][ruby]
+* [YNAB][ynab]
+
+[geek]: http://projects.tynsoe.org/en/geektool/
+[ulysses]: http://www.ulyssesapp.com/
+[osx]: http://www.apple.com/osx/
+[sublime]: http://www.sublimetext.com/
+[nvalt]: http://brettterpstra.com/projects/nvalt/
+[alfred]: http://www.alfredapp.com/
+[pass]: https://agilebits.com/onepassword
+[scriv]: http://www.literatureandlatte.com/scrivener.php
+[text]: http://www.hogbaysoftware.com/products/plaintext
+[things]: http://culturedcode.com/things/
+[total]: http://totalterminal.binaryage.com/
+[brew]: http://brew.sh/
+[git]: http://git-scm.com/
+[ruby]: https://www.ruby-lang.org/en/
+[ynab]: http://www.youneedabudget.com/
+[marked]: http://markedapp.com/
