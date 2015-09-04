@@ -10,7 +10,8 @@ My name is David Mitchell and I do freelance work under the business name of [Bl
 
 My business is to help others succeed in theirs.
 
-If you are interested in keeping up on content or updates to this website and Black Water Software, please signup for the email list below.
+Email subscribers receive posts a week earlier than those who are subscribed to the [RSS feed]({{site.url}}/feed.xml). You can also see [previous posts][posts] by clicking on the "posts" link above.
+
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
@@ -22,7 +23,7 @@ If you are interested in keeping up on content or updates to this website and Bl
 <div id="mc_embed_signup">
 <form action="//nstarglobal.us5.list-manage.com/subscribe/post?u=a607239de170cb0609926bbcd&amp;id=0fa9193701" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-    <h2>Sign up to receive updates, special content or to hire me!</h2>
+    <h2>Sign up to receive updates or to hire me!</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
     <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
@@ -50,3 +51,4 @@ If you are interested in keeping up on content or updates to this website and Bl
 <!--End mc_embed_signup-->
 
 [blackwater]: http://www.blackwatersoftware.com
+[posts]: {{site.url}}/posts/
