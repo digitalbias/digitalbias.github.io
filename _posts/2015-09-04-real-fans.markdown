@@ -1,0 +1,75 @@
+---
+layout: post
+title: Real Fans
+categories: writing
+excerpt: A long time fan of Science Fiction/Fantasy speaks up on the Hugo Awards of 2015
+tags: [Hugo Award, true fans, sad puppies, science fiction, fantasy, real fans]
+comments: true
+image:
+  feature: deer_creek_mountains.jpg
+date: 2015-09-04T15:02:07-06:00
+---
+I'm going to take a break from my regular technical/business based blogging to talk about something that is near and dear to my heart: Science Fiction and Fantasy.
+
+While I know that it's been sometime since the Hugo award ceremony has taken place, everything written about it seems to have been from the perspective of people who are almost insiders into Hugos and the science fiction fantasy community in general.
+
+## A Bit of Background
+
+For starters me talk a little bit about my background. I have been a science fiction and fantasy geek since I was 11 years old. I started reading Tolkien, Asimov, Herbert, Card, David Eddings, Terry Brooks, Margaret Weiss, Tracy and Laura Hickman, Susan Cooper, Raymond E Feist, A.C. Crispin and Anne McCaffrey. And that is the short list. 
+
+Recently we've rearranged things within our house which necessitated a move of the many books I have from one location to another. During that process, I thought it would be interesting to stack up all the books that I by genre. I also thought it would be an interesting exercise since by doing this I could determine in a more quantitative way, what topics are most interesting to me.
+
+![The stacks]({{ site.url }}/assets/images/library_stacks.jpg)
+
+When all was said and done, the "number" of _physical books_ I have ended up as follows:
+
+1. Science Fiction/Fantasy - 5 Stacks.
+2. Religion - 2 Stacks
+3. Programming - 1 Stack
+4. Role Playing Books - 1/2 Stack
+5. Writing - 1/3 Stack
+6. Sports - 1/3 Stack
+7. General Business - 1/3 Stack
+8. Finance - 1/4 Stack
+9. Personal Productivity - 1/4 Stack
+10. Reference Books - 1/4 Stack
+11. Outdoors - 1/4 Stack
+12. Classics- 1/4 Stack
+13. Politics - 5 Books
+
+(Incidently, Brandon Sanderson alone is a stack -- second one from the left in the back)
+
+If I were to include in this list and account for the number of books I have electronically, I suspect the Writing and General Business books would be closer to a 1/2 stack each, but then Science Fiction/Fantasy Stack would soar to 8 stacks.
+
+So why talk about this odd exercise? Because I think it gives a good feel for where I'm coming from. I read a lot. And of the stuff I read, I read a majority of Science Fiction and Fantasy. I consider myself a fan of the genre and have been a fan of it for over 30 years.
+
+## World Con and the Hugo Award
+
+Years ago Brandon Sanderson made the suggestion that many of us who are taking his creating writing class also sign up for a world con membership. While it took me a while before I actually did sign up, I haven't regretted the decision to become a supporting member now for many years. If anything it's giving me exposure to new books and authors that I normally would not have found out about if it hadn't been for their nominations. I like hearing about new authors and when I find an author I like, I tend to follow what they publish for years.
+
+Besides finding about new authors, as a supporting member [^supporting] of the world con I can be involved in the award process for an award called the "Hugo Award", "science fiction’s most prestigious award."[^hugo] This award is then presented at a ceremony held annually at the World Science Fiction Convention. 
+
+As a supporting member I don't go to the actual event itself. I don't have the time. I have a family and a job and any of the vacation time I have is usually spent on them. Yet, I still read a lot during the year and try and keep my eye out for new books which may be interesting. I don't have time to read all the books that are published in the field. Nor do I have time to get through all the works that are nominated for the Hugo awards in the time frame we are giving to read them before having to vote. Sometimes, if I'm lucky, I will have read at least one or two of the books which had been nominated when the nominations are finally released, however that's not always the case and I find myself **trying** to make a best effort to read as much of the novels as I can before voting closes. I really want to informed enough to vote for the author I enjoyed the most and want to give every nominee a fair chance at the award. That means I try and read every work, in every category, before voting.
+
+Participating in the nomination process is one way to get books I have read on to the list of work to be considered for Hugo awards, But I also appreciate it when people who have a greater audience publish lists of books they have read they feel are worthy of consideration. There have been times where I have looked at some of those lists and seen books I have read and thought "Oh yeah! I hadn't even thought about that person or that book being eligible for Hugo." 
+
+## Deserving Authors (IMHO)
+
+One such person I think should have a Hugo is Jim Butcher who's Harry Dresden series has put urban fantasy on the map for many people. Yet until this year he had yet to even receive a nomination let alone the award itself. Another is Patrick Rothfuss who, while he takes a long time to put a book out, has such large raving fan base that, if people were more active in the Hugo process, he would win by a landslide. I can't help but wonder if there some factors I don't understand keep people like these from receiving the awards.
+
+I suspect many works which are nominated are books that many world con members have been talking about among themselves but are not widely known to a more general readership. Those books end up getting a lot of votes and leave people like myself scrambling to read a huge body of work before voting closes.
+
+I'm not saying there's some kind of secret cabal. I have more faith in people than that. Instead I think the award represents such a small subset of people that it has a general tendency to be rather insular in both nominations and voting than what would be representative of the SciFi community as a whole. It is still too unknown to be an accurate representation of the community.
+
+## Conclusions About 2015
+
+I can't help but think the publicity which has surrounded the Hugo war nomination and awarding process this year has been "a good thing" because it has heightened the awareness around the Hugo award. I also hope this publicity helps to get more fans like myself involved in what feels to me like an award that is been rather unknown to the general public. Based on the number of votes cast this year, I know there are more people with a love for science fiction than are represented by the voting, and if the Hugo is really a fan award, then the more people who know about it, the better. 
+
+Some people involved with the Hugo Award have complained about nominating works as a block of people. To some extent, in the history of the Hugos, there have always been people or groups who have promoted books and authors they like and I don't know how you can get rid of that kind of behavior without ruining the integrity of the award itself. If it is truly an award which is given by the fans then there are always going to be some groups of people who will nominate a work or body of works which they as a group enjoy. 
+
+I don't think we can get away from groups promoting their own works and both groups this year who were at the forefront of the heated arguments we're basically arguing over their rights to promote works they feel represent the best of Science Fiction and Fantasy for the year. I don't think it's wrong they should be able to do that, and I think the more people become aware of the award and become involved, the more it will eventually marginalize the views of both groups in the end. 
+
+And in the end, we will have an award which is a reflection of what fans of the genre like.
+
+[^hugo]: A direct quote from the hugo award site. http://www.thehugoawards.org/about/
+[^supporting]: http://www.thehugoawards.org/i-want-to-vote/
