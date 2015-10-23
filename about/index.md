@@ -9,7 +9,9 @@ image:
   credit: DavidCMitchell
 ---
 
-David Mitchell is a solid technical leader with experience in managing highly effective teams in completing projects on time, solving problems creatively, and following through on commitments while helping the team maintain a good work-life balance and high morale.
+My name is David Mitchell and I do freelance work under the business name of [Black Water Software][blackwater]. My specialty is in Ruby and Rails web application development, but I also have experience managing software development teams, setting up networks, servers and configuring a number of different software solutions. Lately my focus has shifted to helping small businesses navigate the quagmire of different IT solutions out there and help them get off on the right foot so they don't have to worry about the IT part of their business and instead can focus on serving their customers. 
+
+Email subscribers receive posts a week earlier than those who are subscribed to the [RSS feed]({{site.url}}/feed.xml). You can also see [previous posts][posts] by clicking on the "posts" link above.
 
 Using the [Clifton Strengths Finder][strengths], David's top five strenghts are:
 
@@ -24,8 +26,8 @@ Using the [Clifton Strengths Finder][strengths], David's top five strenghts are:
 - Deliberative
     + "People who are especially talented in the Deliberative theme are best described by the serious care they take in making decisions or choices. They anticipate the obstacles."
 
-What does all that mean to you?
-
-It means that when David makes a committment to you, he sticks with it. He is constantly looking for the best technology solutions for running a business. He evaluates it and picks the best solution for the task at hand. If he's wrong, he's willing to admit it and make corrections to his evaluations. You can trust him in his recommendations, and if he doesn't have a good solution, he'll tell you instead of leading you along.
+{% include _mailchimp.html %}
 
 [strengths]: http://www.strengthsfinder.com/home.aspx
+[blackwater]: http://www.blackwatersoftware.com
+[posts]: {{site.url}}/posts/
