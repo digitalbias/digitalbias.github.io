@@ -1,0 +1,88 @@
+---
+layout: post
+title: Learn Quickly with a System
+modified:
+categories: learning, sq3r, memory
+excerpt: Learning is something we have to learn about and do deliberately.
+tags: []
+comments: true
+image:
+  feature: deer_creek_mountains.jpg
+date: 2015-11-03T08:17:49-07:00
+---
+
+I'm pretty focused lately on learning things. It makes sense. I've a pile of over 15 books I want to get through and if I don't come up with a system to learn what they have to teach me, I'm going to get behind. I don't know if other people have to deal with this problem, but there is so much to learn and do that if I don't have a system to quickly and effectively digest the material, then I will never get to that material and it will be wasted time and money for me and possibly anxiety and added stress because I will be constantly telling myself "I should really read/study that."
+
+In order to help me tackle this problem, I've started pulling out books I read a while back and going through them to see what suggestions they had. Both [Your Memory][memory] and [Pragmatic Thinking and Learning][learning] have some great content and ideas on how to apply systems and techniques to helping obtain skills and knowledge. Both sources talk about the [SQ3R][sq3r] learning system which makes sense because from what I can tell, it is one of the most common and well known of the learning systems out there.
+
+The image below (which just links to a pinned image), shows the 5 steps in using SQ3R.
+
+![Survey, Question, Read, Recite, Review][sq3r_image]
+
+## SQ3R For Dave
+
+I admit, I' something of a [completionist][completionist]. When I see something or determine that I want to do something, I want to see it through to the end. This includes learning about a subject or reading a book. The problem is that when I start on something like that I always consider myself something of a slacker if I loose interest in the book or topic. That can be a problem when there are too many books and not enough time in the day. I believe SQ3R can help me.
+
+In the past I've tried to apply it, but have not been willing to spend the time in order to even learn the system in depth enough to apply it. I'm usually more of a SR kind of person (Survey, Read). One of the things I think can really help is understanding that you can just Survey, Question and if your questions are answered with that brief amount of exposure, than you're done and can move on.
+
+That concept alone is liberating.
+
+So, after a quick read of the SQ3R in both books, here are some of the key take aways I wanted to share which may help somebody trying to apply SQ3R in their learning.
+
+### S is for Survey
+
+- Read the preface
+- Read the Table of Contents
+- Read the Chapter Summaries (usually at the end of each chapter)
+- Skim the ending chapter (it's usually a good summary of all the points of the entire book)
+
+### Q is for Question
+
+- Skim the whole book, looking for headings which pop out at you that you are interested in learning about.
+- Write down your questions with an idea of knowing what you are looking to learn
+
+### R is for Read
+
+- Just read it, no note taking.
+
+### R is for Recite
+
+- Reciting stuff will help you ingrain it into your memory
+- Having a partner is best
+- Coming up with your own questions for them to answer helps you learn the material just as much as answering questions they ask you
+
+### R is for Review
+
+- Review the material each day for a week for the first week, then once a week for a while
+- You will never know the material forever, and must refresh occasionally
+
+## Some additional tips
+
+[Your Memory][memory] also had a couple of tips on how to improve learning.
+
+- Space your learning out over time.
+  - Taking breaks during and mixing subjects up is a good way of letting it all "sink in" between times when you tackle it.
+  - It's best to learn a subject over multiple days with a review both before and after each study session.
+  - If you can't do the day thing, than the [25 minute pomodoro technique][pomodoro] would be a good way to break up study sessions.
+- Whole or Parts
+  - There are times when learning a topic is best learned as a whole or breaking it down into parts.
+  - The topic and length of the material will determine which approach to take, but usually a mix of the two could be most effective.
+  - Learning the whole thing helps with knowing how everything fits together
+  - Parts lets you get deeper and gives feedback sooner
+  - Whole is best when your learning sessions are spaced out over extended periods of time.
+
+## Conclusion
+
+While I'm no expert at SQ3R, my studies of it recently have made me more aware of how well it could help me get through the mound of books I want to read and I'm looking forward to applying it with more discipline now than I have in the past.
+
+Do any of you have experience with SQ3R? How has it worked for you? Do you have experience with other learning systems? Did they work? How do they compare with SQ3R?
+
+I'm always interested in hearing what others have to say about these questions. Feel free to leave a comment below.
+
+
+[memory]: http://www.amazon.com/dp/1569246297/?tag=digitalbias-20
+[learning]: http://www.amazon.com/dp/1934356050/?tag=digitalbias-20
+[sq3r]: https://www.google.com/search?q=SQ3R
+[sq3r_image]: https://s-media-cache-ak0.pinimg.com/736x/6e/a4/1c/6ea41c81ab4860cbfa7b6c93a3c4ff17.jpg
+[completionist]: http://dictionary.reference.com/browse/completionist
+[pomodoro]: https://en.wikipedia.org/wiki/Pomodoro_Technique
