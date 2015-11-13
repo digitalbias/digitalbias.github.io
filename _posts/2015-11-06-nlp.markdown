@@ -1,0 +1,41 @@
+---
+layout: post
+title: NLP
+categories: personal development
+excerpt: Words have power so
+tags: []
+comments: true
+image:
+  feature: deer_creek_mountains.jpg
+date: 2015-11-06T16:37:48-07:00
+---
+
+Depending on who you talk to, NLP could either mean "Natural Language Processing" or "Neuro-Linguistic Programming." Natural Language Processing is the technology surrounding Siri. Computer programmers and scientists writing software so it understands what a person is saying and then analyzing those sounds and interpreting them into words. Nero-Linguistic Programming is a technique and study of how the words we use determines our thoughts and actions and then using words to change behaviors.
+
+While they both deal with language, they are wildly different topics. The first sits in the computer science realm, while the second sits in psychology. Seeing as I'm a computer guy, I'm going to focus on the second. Yup, the psychology one.
+
+## Neuro-Linguistic Programming.
+
+A quick read of the wikipedia article on [NLP][nlp_wiki] will show that it was created in the 1970s by Richard Bandler and John Grinder. Their wild claims about how NLP changed peoples and how they could "^^^^" pushed NLP into the realm of pseudo-science and has led to a number of detractors and naysayers.
+
+Sure, there are wild claims about how it has changed peoples lives and made them turn around completely. I'm not sure how much I trust those results, but I do believe our words have an impact in our thoughts. What we do with those thoughts is up to us.
+
+Years ago I was really excited about Tom Clancy's books. I read The [Hunt For Red October][hunt] and continued with each of his books until [Clear and Present Danger][danger]. I enjoyed the action in those books, but there was a side effect to me when reading those books. I found my thoughts were often laced with profanity.
+
+For those who know me, I don't swear. It's just a personal boundary I've placed on myself. This September, when I dropped a 50 pound table on my toe, breaking it, I never swore. My thoughts just don't run in those circles. Yet, when reading those books, I found those words were much more on the tip of my tongue.
+
+## "No, but" "Yes, and"
+
+Recently I've been made aware of some of the words I use have a negative effect or connotation in the conversations and I'm in. For example, more often than not when I have another idea to share with somebody that might be a little different from something they've just expressed, all usually say "No, but."
+
+Interesting thing about saying "No, but" is that you basically invalidate or put down the opinion or the idea that person just expressed and elevated your own or at least attempted to. Words have a powerful influence on the relationships that you have with other people and doing this actually impact your ability to communicate and generate consensus for the opinions that you've expressed.
+
+A better  way of interjecting your own thoughts or ideas into the conversation after somebody has just expressed there's is to use "yes, and" instead. In this way you are building upon the idea or the opinion that the person before you has just expressed instead of putting it down.  in this way you are more likely to garner support for your idea or even just Garner an open mind for them to consider what you said. With "no, but" you're shutting them down before they even have a chance to hear what you have to say.
+
+ so in the past month I have been attempting to cut the phrase no but out of my language and instead using yes and as I communicate with other people. I'm sure there're other phrases that I use that have the same effect and impact on conversations, but I am probably not aware of what they are.
+
+ Are there phrases or words you can think of that you use in your daily life that may have similar impact to "no, but." If so please share them below.
+
+[nlp_wiki]: https://en.wikipedia.org/wiki/Neuro-linguistic_programming
+[hunt]: http://www.amazon.com/dp/0425240339/?tag=digitalbias-20
+[danger]: http://www.amazon.com/dp/0425122123/?tag=digitalbias-20
