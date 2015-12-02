@@ -1,0 +1,62 @@
+---
+layout: post
+title: Belief
+categories: principles of success, belief
+excerpt: When working toward a goal, even the nebulous goal of “Success” in a specific area, one of the first things we have to do is believe in that goal.
+tags: [principles of success, belief]
+comments: true
+image:
+  feature: deer_creek_mountains.jpg
+date: 2015-12-01T20:31:34-07:00
+---
+
+When working toward a goal, even the nebulous goal of “Success” in a specific area, one of the first things we have to do is believe in that goal.
+
+![sunset][photo] [^photo_attribution]
+
+When we first have the idea, it’s easy to see what we want and the energy to achieve it is high. I find I have a lot of enthusiasm for the idea and dive right in, trying to learn and do everything I can at the start. Too often this may be the wrong thing because if I hit it hard and heavy, I end up burning out and quickly loose the enthusiasm and eventually abandon the goal all together.
+
+At the same time, having the idea and just sitting on it does the same thing. I get nothing done, and the spark soon dies because of a lack of attention to the idea. What’s needed is a solid framework or set of habits which help me keep the goal front and center, while also keeping me from over indulging and loosing interest.
+
+Thankfully when properly used affirmations and visualization can help bolster confidence and provide a concrete vision of outcomes necessary to achieve your goals.
+
+## Affirmations
+
+Affirmations are, in essence, sentences which are spoken aloud to help ingrain in your mind and heart values and beliefs. Affirmations are a bit difficult for me, personally. I find I’m more likely to discount positive self promotion than I should, and yet, when repeated over and over again, I have found affirmations to help in focusing the mind on a specific outcome.
+
+And that is the key: Repetition.
+
+What’s more, as I have practiced more recently with the technique of affirmations, I have found I need to repeat them to myself over and over multiple times each time I recite them. In his book, The Success Principles, Jack Canfield tells the story of Ruben Gonzalez when he was training with the U.S. Olympic Team in Lake Placid New York. He had experienced a very difficult day and called a friend of his to tell him he was done. Through the power of affirmations, repeated over five times while on the phone, Ruben changed his thinking and changed his life, going on to compete in three winter games.[^olympics]
+
+Jack also suggest the following tips in order to formulate effective affirmations.[^affirmations]
+
+- Start with the words “I am"
+- Use the presence tense
+- Affirm what you want, not what you don’t want
+- Keep it brief
+- Make it specific
+- Include an action word ending in “-ing"
+- Include one dynamic emotion or feeling word
+- Make it for yourself, not others
+- Add “or something better” at the end
+
+## Visualization
+
+Visualization is also know as mental rehearsal or creative visualization and refers to the practice of picturing in your mind the outcomes you want to happen in vivid detail before you arrive in those situations. Athletes do this often before games and competitions and many successful people have leveraged it as a tool to help them in achieving their goals.
+
+I have found visualization is most effective when I have a quiet space to sit and close my eyes. Then I picture the outcome I want, along with as many senses as I can employ. If it’s a speaking assignment, then I visualize the feel of the podium under my hands, the smell of the room, the temperature, the faces of the people looking back at me, and the energy and excitement I feel as I talk about the assigned subject with confidence and enthusiasm.
+
+One of the key points to visualization is to make sure you also visualize the positive emotions. If in the example above, I were to also visualize feeling nervous and anxious while delivering the talk, then the visualization would be detrimental to my performance and lead to a very different outcome than the one I want.
+
+## Conclusion
+
+Applying the practices of affirmations and visualizations in your daily routines helps instill the confidence and the belief in yourself and your goals. Henry Ford once said, “Whether you think you can or you think you can’t — you’re right.”
+
+The power of daily habits was recently brought home to me as I watched an episode of Doctor Who, titled “Heaven Sent.” In it, the Doctor is trapped in a castle, surrounded by an ocean. The only way for him to escape from the castle for him to break through a 20 foot thick of clear rock. He only succeeds by wearing down the rock wall over the course of billions of years.
+
+Our daily habits are the same. The progress may seem slow and it may appear we are not making any progress, however of the course of months or even years, we can also wear down the barriers which are keeping us from our goals, until finally over time we will find we have worn through those barriers so they are no longer there and we have achieved our desires.
+
+[photo]: /images/post_images/sunset.jpg
+[^photo_attribution]: Vijay Kalakoti, Sunset in Shenandoah 1, Some Rights Reserved, https://creativecommons.org/licenses/by-nd/2.0/
+[^olympics]: The Success Principles, Jack Canfield, 2005, p.38-39
+[^affirmations]: The Success Principles, Jack Canfield, 2005, p.75-77
