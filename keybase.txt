@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/digitalbias
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.digitalbias.com
+  * I am digitalbias (https://keybase.io/digitalbias) on keybase.
+  * I have a public key with fingerprint 8797 59FB 81C0 FC66 5213  877B 1C3F 6F24 2652 5289
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01200b1248ceba3a5d4cdb00ed58421086eb98e272f47737811ec67ef10e7bdd0e960a",
+            "fingerprint": "879759fb81c0fc665213877b1c3f6f2426525289",
+            "host": "keybase.io",
+            "key_id": "1c3f6f2426525289",
+            "kid": "01015263057ef99475a6e324904de2c9a961303db93365e7ff0cb4b10c13851fe3d40a",
+            "uid": "57f3b61214e0f0c70c9cdff6e6d4c719",
+            "username": "digitalbias"
+        },
+        "service": {
+            "hostname": "www.digitalbias.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1453914898,
+    "expire_in": 157680000,
+    "prev": "21ceebe8210a2782513b996770f7e2f1e5b5440fc75aa07bb598d65eb76a1b7c",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.49
+Comment: https://keybase.io/crypto
+
+yMNzAnicbVJrTFRHGF3KgkqCUmqWDVCF61aEEHLfjwWxkBhSWypdorUpFe/cO3e5
+CHfX3bs8pFtjwAoomkLXIqKYBhOM1helLkVEFG1VVKzFQtA2TahoQlVKa1Es6SzR
+pD86fyYzc875zpzv6wsPNoQFxa5wWJbabDVBV3sPegxr26YjKzDgkMsxawW2Ec5u
+sEiGbj1/oypjVgwnSBwHBEnzEgQiJTIyLckAx6HM8DRJ4DwLgcBDkiMVmuMojicI
+KLEcVAgcckCWcSiwuIglY4qq2aHL6VI1HcnynMAxggJ4QsIViWUZkqB4jgOERCms
+QtIkumFIXkDEAoc7wEDmgOiGKaoD3aFD/qy9/8G/9I0TDMlSOIO8CALNMSILKZIW
+cFqGpCSIAktQOCUDgaJYBnKKgkuABgQuISMMoUBKpmd9e2blGE6hAEuQBA1xhORw
+SZBkRWEhi/LgiEBdjxu6NLEYIrSs2lVdLAKq6Ma8yRh6KFElGMg28JkXoNLS0pT/
+AFMkRzFScbocukNyFCFAga47rQG+Xu6cJUCQ/0IqH6iajAJFhBLocqsODbMSCCnp
+akCboBlKIGhe4JMxWOZUXTBfDSAYjuVxtAJlYAmSJAkJQgB51EiR5HiSISggCCzH
+4QoHSYWADGBoGnUIxSfiHACMwMsoLsCxIgE4CQt8bpPmwKyoki7akaRbtWui7nFB
+zHu+N89oCAozhIa8Ehg0Q9i8iJfjd2t8wbTxycilFeaBxJrpjKatH/2cHuFs9C9L
+l0/cM582GWsXjXoPg+HXGtueH/DUHY367pHlrQvvdZkSj/luuMc8ccv0zoZ6c8OO
+PMwUndwTMdMcuqW9ccBb117bs2/e5ay2oX/SZpbnTBxQQ0ypWHf1s9wYan3vQHxK
+x4bMufVlPluhHpN3aXPFUGv04NEfE/yWuoRI38Lr/WWbq9cfwU7mZieeC/2Vv7MX
+zg/q6jzlz/AbtJ1dhedbU/mOxX9cnD6UvXTcdqjw76l7575MMi+ec/bbyfA50uG7
+r3o70+pX+0xnxFRDX/iTR5R2bfn9gmLrD/Rkzs5xeaA/eMrlT7CZ48aUd3MeJ/mC
+G8k7a4qHIiu7tr3e07x6/prGa3uPHxxcgpfYV+04xaQXfLb1/gN75qe/0bd7z96a
+JKVtXw32ME/1sXX79wzX/35BiDJ/Mmlh097fnk1vn/zlqj/jobZyUYM4UnSSwHKl
+v1oK7pbt4rSVUfX7gBxvXPD42JDrjSORmSdi/jx9w1tp9rWLt1Ntm96uyovVY4fj
+Sx7sH62enlpivNi66s1qtuqh9aZldLjG0mLyTaxtqFzXQz+dMHpv7sr6UL3i+njP
+59QHSU1x5bu/jk0M6X7neK3kyu0aad1wvf9K88Lo79WfWophZvZg3/Ps7i9mqqK0
+Z5eD51acaRod3jLRMfXNUNa/Fz/A7w==
+=ku3f
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/digitalbias
+
+==================================================================
