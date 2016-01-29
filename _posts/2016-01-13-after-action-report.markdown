@@ -42,5 +42,5 @@ So here's looking to next year. I'm excited to see what 2016 brings.
 
 [bye]: https://bestyearever.me/
 [mh]: http://michaelhyatt.com/
-[holiday_scape]: /images/post_images/montreal_holiday_panorama.png
+[holiday_scape]: /images/post_images/montreal_holiday_panorama.jpg
 [^1]: Montreal holiday panorama by Jazmin Million, https://www.flickr.com/photos/jazminmillion/6534524781
