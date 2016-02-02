@@ -9,7 +9,7 @@ url:              http://www.digitalbias.com
 
 permalink:   /:categories/:title/
 markdown:    kramdown
-highlighter: pygments
+highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
@@ -36,26 +36,17 @@ owner:
   google:
     plus: #DavidMitchell-theDigitalbias
     analytics: UA-256389-2
-    verify: 
+    verify:
     ad-client:
     ad-slot:
   bing-verify:
   github: digitalbias
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: digitalbias
-  xing: #username
   instagram: #username
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
   steam: #username
-  dribbble: #username
   youtube: #username
-  soundcloud: #username
-  weibo: #username
   flickr: #username
-  codepen: #username
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
