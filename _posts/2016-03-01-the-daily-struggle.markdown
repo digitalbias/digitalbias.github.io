@@ -3,7 +3,7 @@ layout: post
 title: The Daily Struggle
 modified:
 categories:
-excerpt:
+excerpt: Due to a lack of direction on my part, I'm looking for feedback on what would be most useful to people who read this blog.
 tags: []
 comments: true
 image:
