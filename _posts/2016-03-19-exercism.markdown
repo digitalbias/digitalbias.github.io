@@ -1,0 +1,56 @@
+---
+layout: post
+title: Exercism
+modified:
+excerpt: exercism can help you level-up your programming skills
+tags: []
+comments: true
+image:
+  feature: deer_creek_mountains.jpg
+date: 2016-03-19T11:22:47-06:00
+---
+
+Most software developers who have been around for a while will tell you that learning a new programing language is pretty easy. Ultimately all you are learning is just syntax and most compilers and development environments can help you with those things. What is more difficult in leaning any new programming language is learning the libraries and tools out there that can make your life easier and make you as a development more productive.
+
+What most developers won't tell you is that there is another thing that is more difficult to learn that sometimes takes a long time and that is learning the idioms and traditions around a language.
+
+For example, most languages have the concept of a loop built in to them. So, something like this is very common in beginning Java programming:
+
+{% highlight java %}
+for(int i = 0; i < 100; i++) {
+  System.out.println("Hello, World!");
+}
+{% endhighlight %}
+
+For somebody coming from the Java world and wanting to do a similar thing within Ruby, you might see something like the following:
+
+{% highlight ruby %}
+i=0
+while i < 100
+  puts 'Hello, World!'
+  i+=1
+end
+{% endhighlight %}
+
+While that may work and the syntax is correct, it's not really the way most ruby developers would do it. One, simple way would be:
+
+{% highlight ruby %}
+100.downto(1) { puts 'Hello, World!' }
+{% endhighlight %}
+
+Recently I found a resource which, if used well, could help developers become more familiar with the different ways of doing things the "Java" way or the "Ruby" way or whatever your language preference is. The resource is called [exercism][exercism].
+
+## exercism.io
+
+[Exercism][exercism] contains a series of language tracks which a person can choose to follow. When following these tracks a developer is given a problem to solve. They are given some tests which will verify the code works and then they are invited to submit their solution to a central web server where it will be posted and then people can comment on their solution and provide suggestions on how to make it better or more in line with the common practices of the other language developers.
+
+In this way a person can learn the language and then also receive feedback on their solutions and learn the way other users of the language code so they are more in line with professional standards for the language.
+
+One other thing. You cannot see other people's solutions to the tracks until you have taken a crack at it and submitted your own solution first. This way you go through the exercise of trying to learn how to solve the problem first, before being able to see what others have done. A very good approach in my opinion.
+
+I played around with it for a bit in the Ruby track for the first couple exercises and found I learned some things they language can do which I was unaware of. I also started on the Go track, but want to run through a few more of the Ruby exercises before doing any more there.
+
+Overall, I'm impressed with the project and I'd like to make it more a part of my weekly self-improvement exercises as I try and level-up my Ruby skills.
+
+[exercism]: http://exercism.io/
+[image]: http://exercism.io/icons/logo.svg
