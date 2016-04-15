@@ -1,0 +1,33 @@
+---
+layout: post
+title: Habits
+excerpt:
+comments: true
+image:
+  feature: deer_creek_mountains.jpg
+date: 2016-04-13T04:00:00-06:00
+---
+I recently learned about something called [the habit journal][journal] and it's been a great additional to my routine so far. Habits in and of themselves are neither good or bad, they just 'are.' We are the ones that attach those labels, based on a number of criteria. We may call a habit 'bad' because it may harm us or those around us (smoking for example). Or we may call another habit bad because it is distasteful (like picking your nose). We may call other habits good because they are good for our health, or show good manners, etc.
+
+The habits themselves though, are not good or bad. They just exist as habits and it is up to us to determine if they lead to results we want.
+
+And **that** is the point. Habits may be little things, but over time they create a lasting pattern which in turn becomes a part of our character. The question we then should be asking ourself, "Is this something which will help me become the person I want to be?" If we can answer "Yes" then it's a habit we want to keep around (and it typically one of those 'good' habits). If 'No', then we face a different dilemma: how to 'break' the habit.
+
+Getting rid of a habit is difficult. Replacing a habit is easier. Much easier.
+
+If you have ever had a song going through your head for an extended period of time, you know how hard it is to get rid of it. The best, and easiest solution is to find another song to replace it. Preferably one that you will enjoy. Getting 'rid' of a habit is the same.
+
+It is much more effective to find a new habit you want to replace than to try and abstain from the activity you are trying to stop. [The habit journal][journal] helps with the habit creation process by giving you a daily place to record and review all the habits you are interested in keeping up to date. Most habit forming methods look at the habits as something you do from now until the day you die. Instead, the habit journal, takes the habit creation process and says, 'if i takes at least 21-30 days to create a habit, then lets put a process into place that will allow us to create a habit, review our progress and then evaluate how we are doing.'
+
+I love this idea. Breaking the habit creation process into manageable chunks with periodic reviews makes sense. At these checkpoints you can then evaluate how the habit is doing and if you are getting what you need out of it. If you are not, then you can adjust the habit or throw it out completely.
+
+That's every four weeks. You also do a review every week, but it's a bit different.
+
+Every week you spend some time reviewing what habits you are trying to create and determine if there are any adjustments you need to make in order to incorporate those habits every day. You don't make decisions on if they habits are the right ones, you just determine if they are getting done and how to make sure they do. You are in the execution phase. The four week review if more the strategic focused reflection, where you decide if this is really the direction you want to go.
+
+I like the split in focus and think it's the right mix for people who have been so focused on the TODO lists that they have lost sight or rarely step back and take a more strategic view of life and what they want out of it.
+
+As of this writing, the habit journal is "out of print," however if you are really interested in learning more about it, you can try out the [Udemy course][udemy] and can download an electronic version of the habit journal for yourself.
+
+[journal]: http://www.thehabitjournal.com/
+[udemy]: https://www.udemy.com/thehabitjournal/learn/v4/overview
