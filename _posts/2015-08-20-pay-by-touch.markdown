@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: Pay by Touch
 modified:
-categories: 
+categories:
 excerpt: I've dug up an interesting post I made back in 2003 about Pay By Touch. It has very striking similarities to payment situations today.
 tags: [apple pay, google pay, payment systems]
 comments: true
@@ -29,7 +29,7 @@ What about vendors?  Since this is free to the customers, that I bet the vendors
 
 There is one store here locally, that looks really cool, but I stoped going to becuase they don't accept credit cards.  My guess is because it is expensive.  If this is the same thing, then I don't see how this changes anything.
 
-Now, there are things that I do like about this.  It is convinient.  I always have my finger with me.  If it were ever to become ubiquitous, then I would not have to carry around cards that could be stollen or lost.  Finally, I like the idea that they store a hash instead of the actual information about the fingerprint.  That's nice to know. 
+Now, there are things that I do like about this.  It is convinient.  I always have my finger with me.  If it were ever to become ubiquitous, then I would not have to carry around cards that could be stollen or lost.  Finally, I like the idea that they store a hash instead of the actual information about the fingerprint.  That's nice to know.
 
 My final concern would involve privacy policy changing.  I rather not have them selling my information to other orginizations.
 
@@ -41,7 +41,7 @@ Hi Dave, good questions. I work with Pay By Touch on its communications programs
 
 -- Pricing will be based on savings realized by merchants.
 
--- On privacy, the company is committed to not revealing any information. 
+-- On privacy, the company is committed to not revealing any information.
 
 Question from me -- what store were you referring to?
 

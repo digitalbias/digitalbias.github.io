@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Learn Quickly with a System
 modified:
 categories: learning, sq3r, memory

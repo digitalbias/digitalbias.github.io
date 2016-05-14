@@ -1,15 +1,15 @@
 ---
-layout: post
+layout: single
 title: Curating
 modified:
-categories: 
+categories:
 excerpt: I've been curating posts from my older blog. Here are a couple short tips I think may still be relevant.
 tags: [eclipse, jvm]
 image:
   feature: deer_creek_mountains.jpg
 date: 2015-08-21T12:35:35-06:00
 ---
-I'm going through the [Wayback Machine][wayback] for my [old blog][blog] and seeing what kinds of information was there that could be useful here. Some of it was just random stuff that was interesting at the time (like the fact that [the Motly Fools were interested in EA as a stock][ea]), but some of it was much more relevant to the topic of this blog. Those things I intend to share. 
+I'm going through the [Wayback Machine][wayback] for my [old blog][blog] and seeing what kinds of information was there that could be useful here. Some of it was just random stuff that was interesting at the time (like the fact that [the Motly Fools were interested in EA as a stock][ea]), but some of it was much more relevant to the topic of this blog. Those things I intend to share.
 
 Here are today's (small) finds:
 
@@ -26,4 +26,3 @@ eclipse -vm {path_to_jvm}/javaw.exe
 [wayback]: https://web.archive.org/
 [blog]: https://web.archive.org/web/*/blog.opencg.org
 [ea]: https://web.archive.org/web/20030216061226/http://www.fool.com/specials/2003/03021104sp.htm
-

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: I'm Working for Others
 categories:
 excerpt:

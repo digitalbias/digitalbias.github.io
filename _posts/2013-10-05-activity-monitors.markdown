@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Activity Monitors"
 date:   2013-10-05 23:31
 categories: health

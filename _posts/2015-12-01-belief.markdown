@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Belief
 categories: principles of success, belief
 excerpt: When working toward a goal, even the nebulous goal of “Success” in a specific area, one of the first things we have to do is believe in that goal.

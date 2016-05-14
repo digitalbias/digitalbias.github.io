@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: NLP
 categories: personal development
 excerpt: Words have power so

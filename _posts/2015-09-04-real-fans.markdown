@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Real Fans
 categories: writing
 excerpt: A long time fan of Science Fiction/Fantasy speaks up on the Hugo Awards of 2015
@@ -15,7 +15,7 @@ While I know that it's been sometime since the Hugo award ceremony has taken pla
 
 ## A Bit of Background
 
-For starters me talk a little bit about my background. I have been a science fiction and fantasy geek since I was 11 years old. I started reading Tolkien, Asimov, Herbert, Card, David Eddings, Terry Brooks, Margaret Weiss, Tracy and Laura Hickman, Susan Cooper, Raymond E Feist, A.C. Crispin and Anne McCaffrey. And that is the short list. 
+For starters me talk a little bit about my background. I have been a science fiction and fantasy geek since I was 11 years old. I started reading Tolkien, Asimov, Herbert, Card, David Eddings, Terry Brooks, Margaret Weiss, Tracy and Laura Hickman, Susan Cooper, Raymond E Feist, A.C. Crispin and Anne McCaffrey. And that is the short list.
 
 Recently we've rearranged things within our house which necessitated a move of the many books I have from one location to another. During that process, I thought it would be interesting to stack up all the books that I by genre. I also thought it would be an interesting exercise since by doing this I could determine in a more quantitative way, what topics are most interesting to me.
 
@@ -47,11 +47,11 @@ So why talk about this odd exercise? Because I think it gives a good feel for wh
 
 Years ago Brandon Sanderson made the suggestion that many of us who are taking his creating writing class also sign up for a world con membership. While it took me a while before I actually did sign up, I haven't regretted the decision to become a supporting member now for many years. If anything it's giving me exposure to new books and authors that I normally would not have found out about if it hadn't been for their nominations. I like hearing about new authors and when I find an author I like, I tend to follow what they publish for years.
 
-Besides finding about new authors, as a supporting member [^supporting] of the world con I can be involved in the award process for an award called the "Hugo Award", "science fiction’s most prestigious award."[^hugo] This award is then presented at a ceremony held annually at the World Science Fiction Convention. 
+Besides finding about new authors, as a supporting member [^supporting] of the world con I can be involved in the award process for an award called the "Hugo Award", "science fiction’s most prestigious award."[^hugo] This award is then presented at a ceremony held annually at the World Science Fiction Convention.
 
 As a supporting member I don't go to the actual event itself. I don't have the time. I have a family and a job and any of the vacation time I have is usually spent on them. Yet, I still read a lot during the year and try and keep my eye out for new books which may be interesting. I don't have time to read all the books that are published in the field. Nor do I have time to get through all the works that are nominated for the Hugo awards in the time frame we are giving to read them before having to vote. Sometimes, if I'm lucky, I will have read at least one or two of the books which had been nominated when the nominations are finally released, however that's not always the case and I find myself **trying** to make a best effort to read as much of the novels as I can before voting closes. I really want to informed enough to vote for the author I enjoyed the most and want to give every nominee a fair chance at the award. That means I try and read every work, in every category, before voting.
 
-Participating in the nomination process is one way to get books I have read on to the list of work to be considered for Hugo awards, But I also appreciate it when people who have a greater audience publish lists of books they have read they feel are worthy of consideration. There have been times where I have looked at some of those lists and seen books I have read and thought "Oh yeah! I hadn't even thought about that person or that book being eligible for Hugo." 
+Participating in the nomination process is one way to get books I have read on to the list of work to be considered for Hugo awards, But I also appreciate it when people who have a greater audience publish lists of books they have read they feel are worthy of consideration. There have been times where I have looked at some of those lists and seen books I have read and thought "Oh yeah! I hadn't even thought about that person or that book being eligible for Hugo."
 
 ## Deserving Authors (IMHO)
 
@@ -63,11 +63,11 @@ I'm not saying there's some kind of secret cabal. I have more faith in people th
 
 ## Conclusions About 2015
 
-I can't help but think the publicity which has surrounded the Hugo war nomination and awarding process this year has been "a good thing" because it has heightened the awareness around the Hugo award. I also hope this publicity helps to get more fans like myself involved in what feels to me like an award that is been rather unknown to the general public. Based on the number of votes cast this year, I know there are more people with a love for science fiction than are represented by the voting, and if the Hugo is really a fan award, then the more people who know about it, the better. 
+I can't help but think the publicity which has surrounded the Hugo war nomination and awarding process this year has been "a good thing" because it has heightened the awareness around the Hugo award. I also hope this publicity helps to get more fans like myself involved in what feels to me like an award that is been rather unknown to the general public. Based on the number of votes cast this year, I know there are more people with a love for science fiction than are represented by the voting, and if the Hugo is really a fan award, then the more people who know about it, the better.
 
-Some people involved with the Hugo Award have complained about nominating works as a block of people. To some extent, in the history of the Hugos, there have always been people or groups who have promoted books and authors they like and I don't know how you can get rid of that kind of behavior without ruining the integrity of the award itself. If it is truly an award which is given by the fans then there are always going to be some groups of people who will nominate a work or body of works which they as a group enjoy. 
+Some people involved with the Hugo Award have complained about nominating works as a block of people. To some extent, in the history of the Hugos, there have always been people or groups who have promoted books and authors they like and I don't know how you can get rid of that kind of behavior without ruining the integrity of the award itself. If it is truly an award which is given by the fans then there are always going to be some groups of people who will nominate a work or body of works which they as a group enjoy.
 
-I don't think we can get away from groups promoting their own works and both groups this year who were at the forefront of the heated arguments we're basically arguing over their rights to promote works they feel represent the best of Science Fiction and Fantasy for the year. I don't think it's wrong they should be able to do that, and I think the more people become aware of the award and become involved, the more it will eventually marginalize the views of both groups in the end. 
+I don't think we can get away from groups promoting their own works and both groups this year who were at the forefront of the heated arguments we're basically arguing over their rights to promote works they feel represent the best of Science Fiction and Fantasy for the year. I don't think it's wrong they should be able to do that, and I think the more people become aware of the award and become involved, the more it will eventually marginalize the views of both groups in the end.
 
 And in the end, we will have an award which is a reflection of what fans of the genre like.
 

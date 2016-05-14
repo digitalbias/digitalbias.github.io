@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: Changing Your Direction
 modified:
-categories: 
+categories:
 excerpt: There are times in life when you need to take a bit of a break.
 tags: [site news, personal productivity, tech]
 comments: true

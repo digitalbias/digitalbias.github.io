@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 5 Steps to Success
 modified:
 categories: success, personal development

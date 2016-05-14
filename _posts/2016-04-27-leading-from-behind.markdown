@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Leading From Behind
 modified:
 categories:
@@ -22,7 +22,7 @@ For example, in Ender's Game, Ender is the outcast, the one who has been isolate
 
 One example of how this shows is when he questions Colonel Rath about their emails being blocked. It's something all the students are questioning, but Ender is willing to risk the displeasure of his superior officers in order to get answers. He leads the "launchies" by asking what all of them want to know but that none of them have the courage to do.
 
-And he pays the price for his insubordination. He is commanded to do 20 pushups, and when he continues to question, he is commanded to do another 20, all while his peers watch in silence. When the sergeant finally leaves after telling them all to go to bed, instead of instantly heading to their bunks, they look to Ender, who then tells them to get some sleep. He has become their leader and spokesman in front of the adults, and eventually becomes the defacto leader in every other respect.[^1]
+And he pays the price for his insubordination. He is commanded to do 20 pushups, and when he continues to question, he is commanded to do another 20, all while his peers watch in silence. When the sergeant finally leaves after telling them all to go to bed, instead of instantly heading to their bunks, they look to Ender, who then tells them to get some sleep. He has become their leader and spokesman in front of the adults, and eventually becomes the defacto leader in every other respect.[^defacto]
 
 One could argue that the adults made Ender the leader of that group, but if so, they did it by forcing him to become the leader by developing those skills necessary without putting him into a position of power. Instead he developed them on his own, and then they put him into a situation where he would learn from other leaders, both good and bad.
 
@@ -36,7 +36,7 @@ Instead I'm talking about the person who is usually a member of the group, but d
 
 It's an interesting concept and one that I've only recently become aware of, but that I think is worth exploring more. There are leaders all around us and I think some of the more lasting and influential leaders may be those who are leading from behind instead of those who are visible. When you think about it, one of the most influential people to ever walk the earth was a person with no political position and yet has influenced the world ever since he set foot on it.
 
-[1]: https://www.youtube.com/watch?v=fP8-L_fS0OI
+[^defacto]: Watch the video at https://www.youtube.com/watch?v=fP8-L_fS0OI
 [review]: https://hbr.org/2010/05/leading-from-behind/
 [small_business]:http://smallbusiness.chron.com/theory-leading-behind-76457.html
 [practical]: http://thepracticalleader.com/leading-from-behind-what-it-isand-what-it-is-not/

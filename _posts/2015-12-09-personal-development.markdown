@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Want success? Improve!
 categories: principles of success, personal development
 excerpt:

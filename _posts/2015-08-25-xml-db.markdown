@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: XML DB (2003)
 modified:
-categories: 
+categories:
 excerpt: I've dug up an interesting post I made back in 2003 about the SourceForge project "XML DB"
 tags: [xml db, sax parser, dom parser, webface, sco]
 comments: true
@@ -25,7 +25,7 @@ Working with XML at the time was a major pain. There were basically two kinds of
 
 I settled on [XML DB][xmldb] to help.
 
-I haven't updated the text of the article at all. It could be wildly out of date by now, but it was relevant at the time. 
+I haven't updated the text of the article at all. It could be wildly out of date by now, but it was relevant at the time.
 
 Another point I should mention. If you google "XML DB" you will likely find [XML DB][oracle] by Oracle. I'm not talking about that product, but instead the SourceForge library I linked to above.
 
@@ -49,9 +49,9 @@ The best place that I found for the XUpdate syntax are the use cases for XUpdate
 
 Finally, a couple of notes on the Xindice implementation as it stands today:
 
-When using the embedded Xindice database driver, be sure to turn compression on for the database, otherwise you will experience what appears to be thread issues. 
+When using the embedded Xindice database driver, be sure to turn compression on for the database, otherwise you will experience what appears to be thread issues.
 
-If you execute an update (either insert or append) and you want to make sure the XML is "clean," then be sure to eliminate all the white space from your insert of update commands.  For example, if you want an element that looks like this: 
+If you execute an update (either insert or append) and you want to make sure the XML is "clean," then be sure to eliminate all the white space from your insert of update commands.  For example, if you want an element that looks like this:
 
 ~~~ xml
 <this id='1' />
@@ -70,7 +70,7 @@ instead of something that looks more like this:
   <element name='this'>
    <attrbute name='id'>1</attribute>
   </element>
- </insert-after> 
+ </insert-after>
 ~~~
 
 If you don't do it this way, then the xml will look something more like the following:

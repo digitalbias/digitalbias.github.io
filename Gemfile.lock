@@ -146,7 +146,12 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-feed
+  jekyll-gist
+  jekyll-paginate
   jekyll-seo
+  jekyll-sitemap
+  jemoji
   octopress
   pygments.rb
 

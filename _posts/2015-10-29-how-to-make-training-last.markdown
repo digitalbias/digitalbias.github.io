@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: How to make a training class last
 modified:
 categories: development
@@ -33,13 +33,13 @@ Conferences are very much the same as classes, only even less focused. You only 
 
 Meet ups are another way to get some experience, but can suffer from crowd mentality and you could go for months and not get your specific questions solved.
 
-Reading books is a good way to get exposure to ideas, but, I've found books like the Design Patterns book to be a bit dry reading, and so I don't apply them as well as I could. Martin Fowler's [Refactoring book][refactoring] is good for the first half, but the second is also difficult to get through. 
+Reading books is a good way to get exposure to ideas, but, I've found books like the Design Patterns book to be a bit dry reading, and so I don't apply them as well as I could. Martin Fowler's [Refactoring book][refactoring] is good for the first half, but the second is also difficult to get through.
 
 I'm sure there are some good books out there, but I've yet to find one that helps me get the skills I need to make these principles stick. Reading is great, but it doesn't help one practice for any long term without applying other methods.
 
 One other possible way to obtain the necessary skills is to pair program. Pairing is good if you are in a company whose culture is open to it, but if you are on your own, a remote programmer, or are just uncomfortable with the idea of pair programming, it can be a little off putting. The other downside is that if both of the members of the pair are junior, learning the skills will involve a lot of thrashing. But then, I still believe the code would be better than if the two of them were on their own.
 
-In addition to the last five methods of acquiring a skill or specialized knowledge, I did think of a possible sixth alternative which I've decided to follow: The self study program. Using some resources Sandi suggested on the last day, I've decided to follow a self improvement program where I'm going through the [refactoring book][refactoring] and using some of the problems he outlines and trying to solve them on my own, with as little reference to the book as possible and then going back and seeing how he did the problems. 
+In addition to the last five methods of acquiring a skill or specialized knowledge, I did think of a possible sixth alternative which I've decided to follow: The self study program. Using some resources Sandi suggested on the last day, I've decided to follow a self improvement program where I'm going through the [refactoring book][refactoring] and using some of the problems he outlines and trying to solve them on my own, with as little reference to the book as possible and then going back and seeing how he did the problems.
 
 It's a different approach from just reading the book, but still lacks some of the real world application or feedback which could come from pairing or a conference.
 
@@ -47,12 +47,12 @@ One thing to note, however. I've already found some places where I disagree with
 
 The code I'm working through is in this [github repo][repo] with various branches for each of the various sections or logical breaks in the code.
 
-Before finishing this post I want to leave with some questions: 
+Before finishing this post I want to leave with some questions:
 
-- Between this and pairing, can you think of any other practical way to getting a new skill to stick? 
+- Between this and pairing, can you think of any other practical way to getting a new skill to stick?
 - What is your experience with trying to acquire a new skill? (it could be any skill).
-- How successful was it? 
-- Did you have a coach? 
+- How successful was it?
+- Did you have a coach?
 - How did that affect your ability to learn the new skill?
 
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Exercism
 modified:
 excerpt: exercism can help you level-up your programming skills
