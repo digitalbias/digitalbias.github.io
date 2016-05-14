@@ -1,12 +1,9 @@
 ---
 layout: single
 title: Systems
-modified:
 categories:
 excerpt:
 tags: []
 comments: true
-image:
-  feature: deer_creek_mountains.jpg
 date: 2016-03-29T16:03:06-06:00
 ---

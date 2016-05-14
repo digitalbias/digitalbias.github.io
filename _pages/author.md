@@ -39,3 +39,20 @@ Outlined, some writing has started.
 Outlined, but nothing written yet.
 
 <progress value="0" max="100"></progress>
+
+
+## Past Projects
+
+### Change Reaction
+
+**Single sentence description**: A science-fiction/super hero action story about a college freshman who is plunged into a world of corporate suppression and super-powers.
+
+Came up with the idea with two friends of mine in high school. We co-wrote a number of chapters. After years in the drawer I pulled out the idea and wrote it for NaNoWriMo in 2004.
+
+Status? Needs a lot of polish before it's even decent. There are parts when I just summarized what I wanted to happened instead of actually writing the scenes.
+
+### Imperial Champion
+
+**Single sentence description**: A fantasy thriller about a callow youth who struggles to prove his innocence after being framed for the murder of the emperor.
+
+I began writing this when I was in Brandon Sanderson's writing class at BYU in 2013. I worked through about 50% of the story and then found I had written myself into a bit of a corner. It's totally salvageable, but I lost interest and decided to give it a bit of a rest from it. When the first draft of Rift Walker is completed I'll return to this, reread it and then begin working on it again.
