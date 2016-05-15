@@ -10,6 +10,8 @@ He spent the next 20 years working for a variety of companies within the Salt La
 
 In addition to his experience with software development, David has also been an active volunteer with the Boy Scouts of America Utah National Parks Council in a number of different positions including Council Advancement Chairman and Vice President of Program.
 
+Together with his wife, David hosts a weekly podcast where they share tips, tricks and advice on how to raise and run an [organized family][organized_family].
+
 Dave specializes in Software Development, Development Process, Personal and Team Leadership.
 
 In his free time Dave plays games with his children, hikes, camps, plays soccer
@@ -24,6 +26,7 @@ In his free time Dave plays games with his children, hikes, camps, plays soccer
 * Certified Advanced Open Water Diver, [PADI][padi]
 * [Microsoft Certified Instructor][mci] (1997-2000)
 
+[organized_family]: http://www.organizedfamily.co
 [nstar]: http://www.nstarglobal.com
 [linkedin]: https://www.linkedin.com/in/digitalbias
 [aikikai]: http://www.aikikai.or.jp/eng/index.html
