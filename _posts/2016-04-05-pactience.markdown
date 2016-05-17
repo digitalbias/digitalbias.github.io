@@ -1,14 +1,9 @@
 ---
 layout: single
 title: Patience
-modified:
-categories: experience
 excerpt: Experienced players play the game differently
-tags: []
-comments: true
-image:
-  feature: deer_creek_mountains.jpg
-date: 2016-04-05T15:30:00-06:00
+categories: [experience]
+tags: [children, soccer]
 ---
 I've been watching a lot of children's soccer games lately and one thing has stuck out to me. It's really easy to distinguish the good players from the less experienced players. The less experienced players run around after the ball, chasing it around as it is kicked from one side to another. And, when they face off against another player, they jump in the air, kicking at the ball, while turning their back in case the other player happens to get a foot on the ball.
 

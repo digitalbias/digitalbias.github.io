@@ -1,13 +1,9 @@
 ---
 layout: single
 title: What I Want From Atom
-categories: editors, coding tools
 excerpt: Atom is a great editor, but I'm not quite ready to jump in with both feet just yet.
+categories: [editors, coding tools]
 tags: [coding, text editor, atom editor, sublime text, markdown]
-comments: true
-image:
-  feature: deer_creek_mountains.jpg
-date: 2015-11-18T21:22:31-07:00
 ---
 
 I really want [Atom][atom] to succeed as a mainstream text editor. I like the idea of an open sourced, powerful text editor that is extensible. I also like that it is something of a spiritual descendant of [Sublime Text][sublime]. The fact that it uses some of the most common technologies out there ([JavaScript][javascript] & [Chrome][chrome]) is also a great bonus.

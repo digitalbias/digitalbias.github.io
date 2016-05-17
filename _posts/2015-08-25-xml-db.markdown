@@ -1,14 +1,9 @@
 ---
 layout: single
 title: XML DB (2003)
-modified:
-categories:
 excerpt: I've dug up an interesting post I made back in 2003 about the SourceForge project "XML DB"
+categories: [coding]
 tags: [xml db, sax parser, dom parser, webface, sco]
-comments: true
-image:
-  feature: deer_creek_mountains.jpg
-date: 2015-08-25T12:57:04-06:00
 ---
 
 I originally posted this article on 3 December 2003 and find it interesting to see what I was working on and excited about. What I find interesting about the article was where my frame of mind was at the time.

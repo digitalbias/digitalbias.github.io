@@ -60,6 +60,8 @@ GEM
       mercenary (~> 0.3.3)
       rouge (~> 1.7)
       safe_yaml (~> 1.0)
+    jekyll-archives (2.1.0)
+      jekyll (>= 2.4)
     jekyll-coffeescript (1.0.1)
       coffee-script (~> 2.2)
     jekyll-feed (0.5.1)
@@ -116,11 +118,7 @@ GEM
       jekyll (~> 3.0)
     octopress-hooks (2.6.1)
       jekyll (>= 2.0)
-    posix-spawn (0.3.11)
     public_suffix (1.5.3)
-    pygments.rb (0.6.3)
-      posix-spawn (~> 0.3.6)
-      yajl-ruby (~> 1.2.0)
     rb-fsevent (0.9.7)
     rb-inotify (0.9.7)
       ffi (>= 0.5.0)
@@ -138,7 +136,6 @@ GEM
       ethon (>= 0.8.0)
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
-    yajl-ruby (1.2.1)
 
 PLATFORMS
   ruby
@@ -146,14 +143,9 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll-feed
-  jekyll-gist
-  jekyll-paginate
+  jekyll-archives
   jekyll-seo
-  jekyll-sitemap
-  jemoji
   octopress
-  pygments.rb
 
 BUNDLED WITH
    1.11.2

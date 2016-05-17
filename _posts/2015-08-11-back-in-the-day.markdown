@@ -2,11 +2,8 @@
 layout: single
 title: Back in the Day
 excerpt: I've enjoyed the time, and while summer is coming to a close, I can honestly say, I've had one fun-filled summer I'll never forget and could never have done if it hadn't been for getting let go.
+categories: [site news]
 tags: [intro]
-comments: true
-image:
-  feature: deer_creek_mountains.jpg
-date: 2015-08-11T21:51:54-06:00
 ---
 
 So, back in the day I had a blog. It was on [http://blog.opencg.org][opencg] and I was running [MovableType][moveabletype] (when it was free). I made a backup of the site and I even put it on a CD and a hard drive. I don't know where those went. Frankly I'm not so sure I care either. That was a long time ago and some of that stuff would be interesting to go back and look at, but it's no longer what I'm about.

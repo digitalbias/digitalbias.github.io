@@ -1,14 +1,8 @@
 ---
 layout: single
 title: After Action Report
-modified:
-categories:
-excerpt:
-tags: []
-comments: true
-image:
-  feature: deer_creek_mountains.jpg
-date: 2016-01-14T04:00:00-07:00
+categories: [personal productivity, productivity]
+tags: [after action report, best year ever, goals]
 ---
 I've been going through the [Best Year Ever][bye] course by [Michael Hyatt][mh]. On day two, he has you look over the last year and evaluate how it went. You are asked to evaluate what did well, what could you do to improve, and what were some setbacks you experienced. I enjoyed this exercise and found it very insightful. SO much so that I thought I would share what I learned.
 

@@ -1,13 +1,8 @@
 ---
 layout: single
 title: Want success? Improve!
-categories: principles of success, personal development
-excerpt:
+categories: [principles of success, personal development]
 tags: [principles of success, personal development]
-comments: true
-image:
-  feature: deer_creek_mountains.jpg
-date: 2015-12-09T07:15:16-07:00
 ---
 I recently heard a person say that anybody who is truly successul is pratically addicted to learning and improving. Couch the idea in whatever terms you want. "Personal Development", "Self Improvement", "Getting Better", or even "Continual Pratice". They all mean the same thing, consistant dedication to increating your abilities and knowledge so you are a better person than you were.
 

@@ -1,14 +1,9 @@
 ---
 layout: single
 title: Leading From Behind
-modified:
-categories:
 excerpt: Many people are under the impression that you need to be in charge in order to be a leader. They're wrong.
-tags: []
-comments: true
-image:
-  feature: deer_creek_mountains.jpg
-date: 2016-04-27T11:17:52-06:00
+categories: [leadership]
+tags: [leading from behind, leadership styles, opinion]
 ---
 Many people are under the impression that you need to be in charge in order to be a leader. They're wrong.
 

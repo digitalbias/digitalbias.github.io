@@ -1,13 +1,9 @@
 ---
 layout: single
 title: Belief
-categories: principles of success, belief
 excerpt: When working toward a goal, even the nebulous goal of “Success” in a specific area, one of the first things we have to do is believe in that goal.
+categories: [principles of success, belief]
 tags: [principles of success, belief]
-comments: true
-image:
-  feature: deer_creek_mountains.jpg
-date: 2015-12-01T20:31:34-07:00
 ---
 
 When working toward a goal, even the nebulous goal of “Success” in a specific area, one of the first things we have to do is believe in that goal.

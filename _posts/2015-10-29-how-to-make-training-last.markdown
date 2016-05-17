@@ -1,14 +1,9 @@
 ---
 layout: single
 title: How to make a training class last
-modified:
-categories: development
 excerpt: A reflection on the training O.C. Tanner received from Sandi Metz
+categories: [development]
 tags: [development, ruby, training]
-comments: true
-image:
-  feature: deer_creek_mountains.jpg
-date: 2015-10-29T21:37:07-06:00
 ---
 
 O.C. Tanner had [Sandi Metz][sandi_site] come in and train twelve of us for three days. I must admit, before the training I had never heard of Sandi, but then I'm not that plugged into the Ruby world. I've been more of a heads down kind of guy. I try and get my code working without consulting very many books, listening to conferences or anything like that, and honestly, that has been to my detriment. My skills with Ruby are not nearly as good as they could have been had I done so. And this training with Sandi opened my eyes to that lack.

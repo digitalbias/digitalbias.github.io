@@ -1,8 +1,8 @@
 ---
 layout: single
 title:  "Activity Monitors"
-date:   2013-10-05 23:31
-categories: health
+categories: [health]
+tags: [fitbit, jawbone, bias, pebble, pedometer]
 ---
 I did an analysis of the different health monitors out there before I ended up buying a [Fitbit One][one]. Here's the table showing the various features. Eventually I was narrowing it down to a couple of pieces of tech, so the table isn't complete. Still, it may be useful for somebody. It was done in multimarkdown, which is not completly supported by Redcarpet (or at least the version used by Jekyll).
 

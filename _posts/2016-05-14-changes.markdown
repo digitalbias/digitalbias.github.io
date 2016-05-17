@@ -1,6 +1,8 @@
 ---
 title: Changes
 date: 2016-05-14T10:27:21-06:00
+tags: [update]
+categories: [site news]
 ---
 I've been thinking this site needed a refresh. What you see is a newly minted and merged version of the site. I'm still using the same theme, but I've upgraded it and made adjustments to the layout of the site. When I started I liked having the banner images, but now that I'm a few years into it, think I prefer to have an image per post (if any image at all). So, for now, no banner images. It may change, but here we are anyway.
 

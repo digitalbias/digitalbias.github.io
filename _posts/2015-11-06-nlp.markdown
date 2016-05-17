@@ -1,13 +1,9 @@
 ---
 layout: single
 title: NLP
-categories: personal development
 excerpt: Words have power so
-tags: []
-comments: true
-image:
-  feature: deer_creek_mountains.jpg
-date: 2015-11-06T16:37:48-07:00
+categories: [personal development]
+tags: [language]
 ---
 
 Depending on who you talk to, NLP could either mean "Natural Language Processing" or "Neuro-Linguistic Programming." Natural Language Processing is the technology surrounding Siri. Computer programmers and scientists writing software so it understands what a person is saying and then analyzing those sounds and interpreting them into words. Nero-Linguistic Programming is a technique and study of how the words we use determines our thoughts and actions and then using words to change behaviors.

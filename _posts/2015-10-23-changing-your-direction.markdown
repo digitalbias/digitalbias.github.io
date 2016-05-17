@@ -1,14 +1,9 @@
 ---
 layout: single
 title: Changing Your Direction
-modified:
-categories:
 excerpt: There are times in life when you need to take a bit of a break.
-tags: [site news, personal productivity, tech]
-comments: true
-image:
-  feature: deer_creek_mountains.jpg
-date: 2015-10-23T14:35:11-06:00
+categories: [site news]
+tags: [update, personal productivity, tech]
 ---
 
 There are times in life when you need to take a bit of a break.

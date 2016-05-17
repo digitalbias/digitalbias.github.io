@@ -2,7 +2,8 @@
 layout: single
 title:  "Tools of the trade"
 date:   2013-10-05 23:05:00
-categories: tools
+categories: [development, software]
+tags: [tools, ide]
 ---
 There are a number of tools I find I rely on throught out the day. My intention is to make a list of them and talk about the pros and cons for each one in a separate post. My hope is that by sharing my experience with each one, I can better see for myself why I like one tool over another and also share why I may or may not be considering moving to another tool.
 

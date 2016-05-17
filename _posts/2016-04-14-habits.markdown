@@ -1,11 +1,8 @@
 ---
 layout: single
 title: Habits
-excerpt:
-comments: true
-image:
-  feature: deer_creek_mountains.jpg
-date: 2016-04-13T04:00:00-06:00
+categories: [habits, productivity]
+tags: [udemy]
 ---
 I recently learned about something called [the habit journal][journal] and it's been a great additional to my routine so far. Habits in and of themselves are neither good or bad, they just 'are.' We are the ones that attach those labels, based on a number of criteria. We may call a habit 'bad' because it may harm us or those around us (smoking for example). Or we may call another habit bad because it is distasteful (like picking your nose). We may call other habits good because they are good for our health, or show good manners, etc.
 

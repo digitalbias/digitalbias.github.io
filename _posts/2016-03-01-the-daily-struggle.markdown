@@ -1,14 +1,9 @@
 ---
 layout: single
 title: The Daily Struggle
-modified:
-categories:
 excerpt: Due to a lack of direction on my part, I'm looking for feedback on what would be most useful to people who read this blog.
-tags: []
-comments: true
-image:
-  feature: deer_creek_mountains.jpg
-date: 2016-03-01T09:02:34-07:00
+categories: [site news]
+tags: [update]
 ---
 I've been struggling lately with a number of things.
 

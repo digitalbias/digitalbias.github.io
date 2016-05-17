@@ -1,14 +1,9 @@
 ---
 layout: single
 title: 5 Steps to Success
-modified:
-categories: success, personal development
 excerpt: Success doesn't come easy, but there is a pattern.
-tags: []
-comments: true
-image:
-  feature: deer_creek_mountains.jpg
-date: 2015-11-25T20:43:59-07:00
+categories: [success, personal development]
+tags: [success]
 ---
 
 I’ve been studying a lot of things lately and one of the major things I’ve learned in this process is that success does not come immediately and it doesn’t come easy.

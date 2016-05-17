@@ -1,13 +1,9 @@
 ---
 layout: single
 title: Real Fans
-categories: writing
 excerpt: A long time fan of Science Fiction/Fantasy speaks up on the Hugo Awards of 2015
-tags: [Hugo Award, true fans, sad puppies, science fiction, fantasy, real fans]
-comments: true
-image:
-  feature: deer_creek_mountains.jpg
-date: 2015-09-04T15:02:07-06:00
+categories: [writing]
+tags: [hugo award, true fans, sad puppies, science fiction, fantasy, real fans]
 ---
 I'm going to take a break from my regular technical/business based blogging to talk about something that is near and dear to my heart: Science Fiction and Fantasy.
 

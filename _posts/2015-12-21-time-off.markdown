@@ -1,14 +1,8 @@
 ---
 layout: single
 title: Time Off
-modified:
-categories:
-excerpt:
-tags: []
-comments: true
-image:
-  feature: deer_creek_mountains.jpg
-date: 2015-12-21T08:59:31-07:00
+categories: [site news]
+tags: [update]
 ---
 Just a note. I'm taking the next two weeks off and will not be posting any articles here until the beginning of the new year.
 

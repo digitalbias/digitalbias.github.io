@@ -1,13 +1,10 @@
 ---
 layout: single
 title: Exercism
-modified:
-excerpt: exercism can help you level-up your programming skills
-tags: []
+excerpt: Exercism can help you level-up your programming skills
+categories: [coding]
+tags: [exercism]
 comments: true
-image:
-  feature: deer_creek_mountains.jpg
-date: 2016-03-19T11:22:47-06:00
 ---
 
 Most software developers who have been around for a while will tell you that learning a new programing language is pretty easy. Ultimately all you are learning is just syntax and most compilers and development environments can help you with those things. What is more difficult in leaning any new programming language is learning the libraries and tools out there that can make your life easier and make you as a development more productive.
