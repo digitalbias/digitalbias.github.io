@@ -2,7 +2,6 @@
 layout: single
 title: Real Fans
 excerpt: A long time fan of Science Fiction/Fantasy speaks up on the Hugo Awards of 2015
-categories: [writing]
 tags: [hugo award, true fans, sad puppies, science fiction, fantasy, real fans]
 ---
 I'm going to take a break from my regular technical/business based blogging to talk about something that is near and dear to my heart: Science Fiction and Fantasy.

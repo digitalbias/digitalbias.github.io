@@ -2,7 +2,6 @@
 layout: single
 title: Learn Quickly with a System
 excerpt: Learning is something we have to learn about and do deliberately.
-categories: [learning]
 tags: [sq3r, memory]
 ---
 I'm pretty focused lately on learning things. It makes sense. I've a pile of over 15 books I want to get through and if I don't come up with a system to learn what they have to teach me, I'm going to get behind. I don't know if other people have to deal with this problem, but there is so much to learn and do that if I don't have a system to quickly and effectively digest the material, then I will never get to that material and it will be wasted time and money for me and possibly anxiety and added stress because I will be constantly telling myself "I should really read/study that."

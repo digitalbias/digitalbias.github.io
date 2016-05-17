@@ -2,7 +2,6 @@
 layout: single
 title: Exercism
 excerpt: Exercism can help you level-up your programming skills
-categories: [coding]
 tags: [exercism]
 comments: true
 ---

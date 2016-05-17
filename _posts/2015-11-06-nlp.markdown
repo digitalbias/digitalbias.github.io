@@ -2,7 +2,6 @@
 layout: single
 title: NLP
 excerpt: Words have power so
-categories: [personal development]
 tags: [language]
 ---
 

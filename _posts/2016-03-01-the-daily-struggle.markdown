@@ -2,7 +2,6 @@
 layout: single
 title: The Daily Struggle
 excerpt: Due to a lack of direction on my part, I'm looking for feedback on what would be most useful to people who read this blog.
-categories: [site news]
 tags: [update]
 ---
 I've been struggling lately with a number of things.

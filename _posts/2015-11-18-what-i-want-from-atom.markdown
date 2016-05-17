@@ -2,7 +2,6 @@
 layout: single
 title: What I Want From Atom
 excerpt: Atom is a great editor, but I'm not quite ready to jump in with both feet just yet.
-categories: [editors, coding tools]
 tags: [coding, text editor, atom editor, sublime text, markdown]
 ---
 

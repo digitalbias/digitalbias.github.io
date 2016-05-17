@@ -1,7 +1,6 @@
 ---
 layout: single
 title: Time Off
-categories: [site news]
 tags: [update]
 ---
 Just a note. I'm taking the next two weeks off and will not be posting any articles here until the beginning of the new year.

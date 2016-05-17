@@ -2,7 +2,6 @@
 layout: single
 title: Pay by Touch
 excerpt: I've dug up an interesting post I made back in 2003 about Pay By Touch. It has very striking similarities to payment situations today.
-categories: [software]
 tags: [apple pay, google pay, payment systems]
 ---
 Pay By Touch was a company that provided a service which would allow you to pay for purchases with just your finger. Here we are, 12 years later and we're almost there with [Apple Pay][apple_pay]. The problems I saw back in the day still exist, which makes sense why Apple and other smart phone vendors are doing an end round with the phone. Many people in the US now have a smart phone, so it's **almost** as ubiquitus as fingers, but the buy in from both vendors and consumers still exists.

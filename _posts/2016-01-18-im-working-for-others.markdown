@@ -1,7 +1,6 @@
 ---
 layout: single
 title: I'm Working for Others
-categories: [work]
 tags: [unemployment, opinions]
 ---
 I totally expect people to be offended by what I say here. It's a given, especially on a day like today, when we as Americans celebrate Martin Luther King Jr's mission to liberate people from oppressive practices which were prevalent in his day and ensure civil rights were granted to all people. His goal was to remove the oppression prevalent in his day.
