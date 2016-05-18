@@ -3,6 +3,8 @@ title: Team Development
 date: 2016-05-17T19:47:52-06:00
 tags: [leadership, team development]
 ---
+http://bit.ly/1TiYC4P
+
 How teams move from one stage of team development to another is something of a curiosity to me. Unfortunately, it's sometimes difficult to see when you are in the thick of it, but much easer to notice when you are an outsider or if you have that ability to extract yourself from the situation and survey the situation as if you were watching.
 
 If you are unfamiliar with Tuckman's stages of group development the idea is this: Teams can go through any of five stages as they attempt to achieve a goal. These stages are Forming, Storming, Norming, Performing, and Adjourning.
@@ -32,7 +34,7 @@ All these activities help us get to know the other people on the team and helped
 
 For the last few months we have been delivering product features at an amazing rate. Far faster than the product team was expecting, and it's been good to be a part of the team changes, but I didn't realize how far we had progressed through the team development stages until this week.
 
-That realization occurred to me as we came together this week on Monday and discussed what had happened since the last time we had all been face to face (which was Wednesday). I had looked into a documentation technology and one of the other team members had looked into data warehouses and data lakes. Together we expressed the pain we all felt in these two different areas and shared what we wanted to do in order to alleviate that pain.
+That realization occurred to me as we came together on Monday and discussed what had happened since we had last been face to face (which was Wednesday). I had looked into a documentation technology and one of the other team members had looked into data warehouses and data lakes. Together we expressed the pain we all felt in these two different areas and shared what we wanted to do in order to alleviate that pain.
 
 Then our boss walked in.
 
@@ -44,7 +46,7 @@ There was none.
 
 He nodded and said, "Whatever you guys think is right, I'm good with that." It was at this point I realized how far we had come and I stepped back and looked. Sure we had had some challenges, and there are still times when some of us have bad days, but overall, as a team, we have a good consensus and it's amazing to look at it and see how far we have progressed.
 
-The real key now is to keep the performance as a team going. Will we be able to maintain the output? I'm not sure. But what is more important is not the output, but how the it's achieved. Looking at the code that is delivered now, you can tell there is a high standard of craftsmanship in it, and the team is pushing for higher levels of quality.
+The real key now is to keep the performance as a team going. Will we be able to maintain the output? I'm not sure. But what is more important is not the output, but how it's achieved. Looking at the code that is delivered now, you can tell there is a high standard of craftsmanship, and the team is pushing for higher levels of quality.
 
 And that is a sign of a team that cares about the product and can achieve good things.
 
