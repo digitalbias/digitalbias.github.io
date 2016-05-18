@@ -3,7 +3,7 @@ title: Team Development
 date: 2016-05-17T19:47:52-06:00
 tags: [leadership, team development]
 ---
-How they move from one stage of team development to another is something of a curiosity to me. Unfortunately, it's sometimes difficult to see when you are in the thick of it, but much easer to notice when you are an outsider or if you have that ability to extract yourself from the situation and survey the situation as if you were watching.
+How teams move from one stage of team development to another is something of a curiosity to me. Unfortunately, it's sometimes difficult to see when you are in the thick of it, but much easer to notice when you are an outsider or if you have that ability to extract yourself from the situation and survey the situation as if you were watching.
 
 If you are unfamiliar with Tuckman's stages of group development the idea is this: Teams can go through any of five stages as they attempt to achieve a goal. These stages are Forming, Storming, Norming, Performing, and Adjourning.
 
