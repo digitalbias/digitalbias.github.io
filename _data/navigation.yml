@@ -12,8 +12,8 @@ main:
   - title: Writing
     url: /author/
 
-  - title: About
-    url: /about/
-
   - title: Subscribe
     url: /subscribe/
+
+  - title: About
+    url: /about/
