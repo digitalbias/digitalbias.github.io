@@ -5,7 +5,9 @@ tags: [systems, habits]
 ---
 Systems are a hard thing to tie down. Ultimately they are just processes which you have in place to help you manage your work load. They could be as complex as the approval process for the US National Budget, or as simple as how you pay your bills.
 
-In 'The Systems Mindset' Sam Carpenter makes the argument that when everything in your life is systematized it because much easier. All you then have to do it keep the systems running. If the systems are not in place, then what you really have is an inefficient system.
+![gears][gears]
+
+In ['The Systems Mindset'][mindset] Sam Carpenter makes the argument that when everything in your life is systematized it because much easier. All you then have to do it keep the systems running. If the systems are not in place, then what you really have is an inefficient system.
 
 I enjoyed the book, but after reading it I was left wanting. For my part I still struggle with identifying the systems I have in my life and applying what I learned in his book to my daily use.
 
@@ -46,3 +48,9 @@ It's a bit lengthy when you look at it, but that process keeps the two of us awa
 I'm sure there are other processes in the home, but we've never documented them, and maybe that is the place to start. Documenting the processes you have in your life may make it easier to see what other things out there involve a system.
 
 Looking at the one above, I can see some places for improvement, and **that** is really the goal behind having a systems mindset.
+---
+The picture in the post is titled "Gears" and is by Thomas Claveirole. You can see the photo on [flickr][flickr].
+
+[mindset]: http://www.thesystemsmindset.com/
+[image]: /images/post_images/gears.png
+[flickr]: https://www.flickr.com/photos/thomasclaveirole/463202335
