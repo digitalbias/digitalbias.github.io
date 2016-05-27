@@ -1,0 +1,48 @@
+---
+layout: single
+title: Systems
+tags: [systems, habits]
+---
+Systems are a hard thing to tie down. Ultimately they are just processes which you have in place to help you manage your work load. They could be as complex as the approval process for the US National Budget, or as simple as how you pay your bills.
+
+In 'The Systems Mindset' Sam Carpenter makes the argument that when everything in your life is systematized it because much easier. All you then have to do it keep the systems running. If the systems are not in place, then what you really have is an inefficient system.
+
+I enjoyed the book, but after reading it I was left wanting. For my part I still struggle with identifying the systems I have in my life and applying what I learned in his book to my daily use.
+
+In other words, I still do not have "The Systems Mindset."
+
+The question is then, "how do you develop the systems mindset?"
+
+I don't know. And **that** is the real problem. Without knowing how to move from point A to point B, then I may never develop that way of thinking. I can see the use of it, but the book itself is a good primer on the benefits, but I could really have done with something that helped with a bit more of the personal details on how to apply that way of thinking.
+
+That being said, I still know there are systems in my life that are working. It's just a matter of identifying other areas where I could make improvements which leaves me flustered.
+
+For example: We have a system in place for paying bills in our family.
+
+---
+## Mitchell Family Bill Paying System
+
+1. Mail comes in from mailbox
+2. Amy sorts mail and puts any bills on Dave's desk
+3. When Dave next comes to his desk, he puts a task in 'Things' with a due date to process bills
+4. Dave puts bills in a box labeled 'TODO'
+5. When the alert appears for the scheduled bill paying appointment, Dave goes to his desk, grabs the bills from the 'TODO' box
+6. Dave opens the bank website and enters the amounts from the bills for those that are paid via the bank site, and submits them
+7. Dave writes down the date and bank confirmation number on the bill and places it in a pile to the side of his desk
+8. Dave grabs the check book and stamps from Amy's desk
+9. Dave pulls out those bill which are paid via check or debit card and fills out the bill and checks as necessary, tearing off the stubs and placing them in the appropriate envelope with a stamp (if needed)
+10. Dave writes the date on the portion of the bill that is not mailed and places it in the same pile as the ones paid via the web
+11. When all the bills are paid, Dave takes the stamps, checkbook and pile of bills and puts the stamps and checkbook back in their appropriate spots on Amy's desk.
+12. The bills are placed in Amy's inbox.
+13. When Amy finds the time, she processes her inbox, including the bills. She pulls out the file for the year, which has 12 papers stapled at the top for each month.
+14. Amy starts up the family expense tracking software (YNAB) on her computer
+15. Amy looks at each bill and enters the bill along with the category in the software, makes a note on the bill when it was entered into the software and then sets it into a processed stack.
+16. Once all the bills are entered into the software, Amy separates the bills by what month they were paid in and staples them to the appropriate paper in the file folder.
+17. The bill folder is then returned to the filing cabinet
+---
+
+It's a bit lengthy when you look at it, but that process keeps the two of us aware of where our money is being spent in the home and we then have a better feel for how we are doing over all financially as a family.
+
+I'm sure there are other processes in the home, but we've never documented them, and maybe that is the place to start. Documenting the processes you have in your life may make it easier to see what other things out there involve a system.
+
+Looking at the one above, I can see some places for improvement, and **that** is really the goal behind having a systems mindset.

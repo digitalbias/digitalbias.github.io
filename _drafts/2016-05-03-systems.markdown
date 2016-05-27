@@ -1,9 +1,0 @@
----
-layout: single
-title: Systems
-categories:
-excerpt:
-tags: []
-comments: true
-date: 2016-03-29T16:03:06-06:00
----
