@@ -22,7 +22,7 @@ Below you can see what I'm currently working on and where they are at. I'll upda
 
 **Single sentence description**: A science fiction-fantasy thriller about a twenty-something man who teams up with justice wielding dimension hoppers to rescue his brother's abducted newborn baby.
 
-<progress value="56796" max="75000"></progress>
+<progress value="65420" max="75000"></progress>
 
 ### Growing in Faith
 
