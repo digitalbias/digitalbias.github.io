@@ -1,7 +1,7 @@
 ---
-title: Trust
+title: Conversation
 date: 2016-06-07T16:57:02-06:00
-tags: [systems, habits]
+tags: [leadership, communication]
 ---
 I was listening to a [podcast episode][podcast] recently and one of the things the hosts discussed made me think about conversations I've been in and reasons for how I react in conversations. As I looked back through the years, I think I have given the impression that I'm a negative person. Yet, I don't think of myself as such, and I hope those around me don't think I am. Usually when in a discussion I'm usually looking for things that can trip us up. Possible problems which may arise. I'm not looking for a reason to kill the idea, but rather my primary motivation is to look at the negative possibilities and see what plans can be put into place in order to prevent them from happening.
 
