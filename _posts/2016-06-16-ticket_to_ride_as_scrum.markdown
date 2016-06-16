@@ -41,4 +41,4 @@ Plus it's a great excuse to pull out the game and play.
 
 ----
 
-[^1]: The image of people playing Ticket to Ride is used curtsey of a Creative Commons Attribution ShareAlike 3.0 license and was created by Matěj Baťha and can be found on the [Ticket to Ride Wikipedia article][wikipedia].
+[^1]: The image of people playing Ticket to Ride is used courtsey of a Creative Commons Attribution ShareAlike 3.0 license and was created by Matěj Baťha and can be found on the [Ticket to Ride Wikipedia article][wikipedia].
