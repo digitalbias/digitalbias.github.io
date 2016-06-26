@@ -2,7 +2,6 @@
 layout: single
 title: Ticket To Ride as Scrum
 tags: [agile methods, scrum, games, ticket to ride]
-
 ---
 [Ticket to Ride][ticket] is a popular game by [Days of Wonder][dow]. In it you try to create a connections with your train lines from one city to another. You create the connections by placing colored train cars on the connection points between cities until you have a traceable route from your starting city to your destination city. The longer the route the more points you earn.
 

@@ -32,6 +32,8 @@ Outlined, some writing has started.
 
 <progress value="5" max="100"></progress>
 
+<script async id='_ck_69719' src='https://forms.convertkit.com/69719?v=5'></script>
+
 ### SOLID Finances
 
 **Single sentence description**: A principle centered book on how to organize your finances so you can weather the storms of life.
