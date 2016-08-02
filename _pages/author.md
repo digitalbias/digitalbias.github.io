@@ -16,13 +16,13 @@ I'd also like to write up an article on what I use and how I do my writing. Tool
 
 Below you can see what I'm currently working on and where they are at. I'll update these every month, just to keep this fresh.
 
-**Last update:** 2016 May 14
+**Last update:** 2016 August 2
 
 ### Rift Walker
 
 **Single sentence description**: A science fiction-fantasy thriller about a twenty-something man who teams up with justice wielding dimension hoppers to rescue his brother's abducted newborn baby.
 
-<progress value="65420" max="75000"></progress>
+<progress value="81854" max="75000"></progress>
 
 ### Growing in Faith
 

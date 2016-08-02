@@ -1,0 +1,22 @@
+---
+layout: single
+title: Book Review - Son of Justice
+tags: [book_review]
+---
+A while back I picked up a [Logitech K760][logitech] keyboard. It's standard sized wireless, solar keyboard and it's been one of the best keyboards I could get.
+
+As far as keyboards go, I don't care much about them. You press the keys and characters appear on your screen. So what? And generally I could care less, however when I was looking I had a couple of criteria:
+
+1. Full sized. I have one of those Logitech keyboard cases for my iPad mini and while it will get me by in a pinch, I always feel cramped when typing on it and can't wait to get into a position where I can use something else.
+2. I didn't want to be constantly worrying about batteries everywhere I went. I've had this keyboard now for a number of years and I've never had an incident where I couldn't take it out and just start typing. No battery problems and less resistance to writing.
+3. I don't want to carry around an extra piece of gear. Some could say I failed on this because if I already have the small keyboard case for the mini and then I also take the keyboard, then I've failed. And you would be right.
+
+Where I really make up the difference is when I have multiple devices. For example when I work from home I have my personal laptop and the work laptop, in addition to my iPad. Usually I've have something running on the personal laptop (like music or a podcast) and then I'll do my work on the work laptop, but if, for some reason, I need to do something on the personal laptop, all I have to do is press F1 on the keyboard and I'll be connected to the personal laptop. When I'm done, F3 takes me back to the work laptop. Easy.
+
+Incidentally, F2 is for the iPad and I'm using it right now as I type on the train because my hands were getting sore with the mini keyboard.
+
+So, as far as keyboards are concerned it's not all that fancy except for that one feature, but overall, that's the thing I used to most and I'm thankful I got it.
+
+Now all I need is a mouse that can switch just as easily between machines.
+
+[logitech]: http://www.amazon.com/dp/B007VL8Y2C/?tag=digitalbias-20
