@@ -17,6 +17,7 @@ gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
+future                   : false # Don't show future posts
 comments:
   provider               : "disqus" # false (default), "disqus", "facebook", "google-plus", custom"
   disqus:
