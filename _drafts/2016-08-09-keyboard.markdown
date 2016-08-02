@@ -1,7 +1,7 @@
 ---
 layout: single
-title: Book Review - Son of Justice
-tags: [book_review]
+title: Logitech k760 Keyboard
+tags: [technology]
 ---
 A while back I picked up a [Logitech K760][logitech] keyboard. It's standard sized wireless, solar keyboard and it's been one of the best keyboards I could get.
 
