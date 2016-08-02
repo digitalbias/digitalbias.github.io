@@ -1,7 +1,7 @@
 ---
 layout: single
-title: Book Review: Son of Justice
-tags: [book review]
+title: Book Review - Son of Justice
+tags: [book_review]
 ---
 This is really just a quick look at the book and the impressions on it. It's not a full review. I never read those things and feel like if I can get a quick idea about a book, then that's good enough for me. Usually I read a quick couple paragraphs about a book, read the synopsis on Amazon and determine if the book is for me or not. This is intended to be "one of those couple paragraph" reviews you would read to help you.
 
