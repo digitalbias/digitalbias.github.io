@@ -1,0 +1,22 @@
+---
+layout: single
+title: Discord
+tags: [communication]
+---
+This month I ran across a tool I think will make things much easier at work. [Discord][discord] is a chat application much like [Slack][slack] with a couple of different twists.
+
+Slack is designed primarily as a chat application, allowing people to type in it and have conversations in a large group. While discord also allows this, the major different with slack is that it provides the ability to hook in other pieces of software. When something happens, that 'integration' or 'bot' can then post a message to a chat channel, letting everybody know what is happening.
+And example from work is, when somebody is ready to have people look over their code so it can be merged into the main code base, they create a pull request. When that happens, a bot posts a message to a specific channel for that project and the developers can click on the link and review the code.
+
+Very nice and very easy to use, and it's a great tool for what it was built for. It does have a problem. Voice.
+
+Our team was looking for something we could use that would allow us to be online all the time in a chat channel and talk via voice whenever we wanted to, instead of relying on the text (which does not always work). We tried the voice abilities in Slack, but latency and quality of the connection was not that great, and when we added more than one person to the call, there were lots of problems.
+
+This is where [Discord][discord] comes in.
+
+Discord was designed as a replacement to TeamCity and other gamer voice chat systems. When playing a game it is much easier to interact with other players over voice instead of typing. You need your hands for other things, like mashing the keyboard. With that in mind, they designed a system that can work in a browser or over a dedicated app. What I like about it is that the voice quality is good and, unlike other solutions, it works via http (if you run it in the browser) so there is no worries about it being blocked by the firewall rules (at least for now).
+
+On the downside, it does not have any integrations like Slack, which is disappointing. If it had both, I think we would drop slack in a heartbeat.
+I'm looking forward to fiddling around with it and putting it through its paces a bit more.
+
+[discord]: https://discordapp.com/
