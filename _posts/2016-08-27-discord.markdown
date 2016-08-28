@@ -19,4 +19,5 @@ Discord was designed as a replacement to TeamCity and other gamer voice chat sys
 On the downside, it does not have any integrations like Slack, which is disappointing. If it had both, I think we would drop slack in a heartbeat.
 I'm looking forward to fiddling around with it and putting it through its paces a bit more.
 
+[slack]: http://slack.com
 [discord]: https://discordapp.com/
