@@ -1,0 +1,16 @@
+---
+layout: single
+title: Farmbot
+tags: [technology]
+---
+There have been a number of interesting technologies I've seen this month, but the most interesting thing I've seen has been the [farmbot][farmbot]. Interchangeable attachments, it waters, weeds, and plants the food. Apparently you can control it from a remote computer and you can 3D print many of the pieces yourself if something fails. It's a cool bit of engineering and technology using the [RasberryPi 3][pi] along with other components.
+
+Would I get one?
+
+No.
+
+At $3,000 it's more of a curiosity for me and I marvel in the thought that has gone into it. However, it's not a product I would actually buy. I just don't have the space, time or inclination to maintain something like this, but I think it's kind of cool. Kind of along the lines of [aquaponics storage container structures][containers].
+
+[farmbot]: https://farmbot.io/
+[pi]: https://www.raspberrypi.org/
+[containers]: http://www.designboom.com/architecture/growup-box-an-aquaponic-shipping-container-farm/
