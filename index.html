@@ -6,17 +6,31 @@ header:
   caption:
   cta_label: "<i class='fa fa-clock-o'></i> Get your inbox to zero now!"
   cta_url: "https://app.convertkit.com/landing_pages/93821?v=6"
-layout: archive
-excerpt: 'Spend more time doing what you love. Get productivity and technology recommondations now. Try it out by starting with the email inbox to zero course.'
-author_profile: true
+title: Are you buried?
+layout: splash
+excerpt: 'Spend more time doing what you love. Get productivity and technology recommondations. Try it out by starting with the email inbox to zero course.'
+author_profile: false
 note: The picture is from https://unsplash.com/@danielkcheung
+feature_row:
+  - image_path: post_images/stages_of_team_development.png
+    alt: "teams"
+    title: "Team Development"
+    excerpt: "Learn about the Stages of Team Development"
+    url: "/team-development/"
+    btn_label: "Learn More"
+  - image_path: post_images/gears.jpg
+    alt: "make training last"
+    title: "Make Your Training Last"
+    excerpt: "You've spent time learning, find out how to make it last"
+    url: "/how-to-make-training-last/"
+    btn_label: "Learn More"
+  - image_path: trooper-beach.jpg
+    alt: "Be Productive with Paper"
+    title: "Be Productive with Paper"
+    excerpt: "Find out how to get out from under all the paper you have"
+    url: "/personal_productivity_paper/"
+    btn_label: "Learn More"
 ---
-{% include base_path %}
+{% include feature_row id="intro" type="center" %}
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
-
-{% for post in paginator.posts %}
-  {% include archive-single.html %}
-{% endfor %}
-
-{% include paginator.html %}
+{% include feature_row %}
