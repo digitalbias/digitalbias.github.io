@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Patience
 excerpt: Experienced players play the game differently
 tags: [children, soccer]

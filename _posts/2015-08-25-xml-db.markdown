@@ -1,5 +1,4 @@
 ---
-layout: single
 title: XML DB (2003)
 excerpt: I've dug up an interesting post I made back in 2003 about the SourceForge project "XML DB"
 tags: [xml db, sax parser, dom parser, webface, sco]

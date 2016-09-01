@@ -1,5 +1,4 @@
 ---
-layout: single
 title:  "Tools of the trade"
 date:   2013-10-05 23:05:00
 tags: [tools, ide]

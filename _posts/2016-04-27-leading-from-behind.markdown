@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Leading From Behind
 excerpt: Many people are under the impression that you need to be in charge in order to be a leader. They're wrong.
 tags: [leading from behind, leadership styles, opinion]

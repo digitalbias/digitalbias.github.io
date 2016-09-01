@@ -1,5 +1,4 @@
 ---
-layout: single
 title: The Daily Struggle
 excerpt: Due to a lack of direction on my part, I'm looking for feedback on what would be most useful to people who read this blog.
 tags: [update]

@@ -1,5 +1,4 @@
 ---
-title: Changes
 date: 2016-05-14T10:27:21-06:00
 tags: [update]
 ---

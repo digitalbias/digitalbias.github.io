@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Logitech k760 Keyboard
 tags: [technology]
 ---

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Time Off
 tags: [update]
 ---

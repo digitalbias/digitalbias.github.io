@@ -1,5 +1,4 @@
 ---
-layout: single
 title: How to make a training class last
 excerpt: A reflection on the training O.C. Tanner received from Sandi Metz
 tags: [development, ruby, training]

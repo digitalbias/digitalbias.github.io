@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Belief
 excerpt: When working toward a goal, even the nebulous goal of “Success” in a specific area, one of the first things we have to do is believe in that goal.
 tags: [principles of success, belief]

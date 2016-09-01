@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Learn Quickly with a System
 excerpt: Learning is something we have to learn about and do deliberately.
 tags: [sq3r, memory]

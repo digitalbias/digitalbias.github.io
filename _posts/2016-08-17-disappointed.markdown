@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Disappointed
 tags: [disappointed, github, jekyll]
 ---

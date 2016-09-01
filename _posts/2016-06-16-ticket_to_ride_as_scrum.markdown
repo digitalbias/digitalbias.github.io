@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Ticket To Ride as Scrum
 tags: [agile methods, scrum, games, ticket to ride]
 ---

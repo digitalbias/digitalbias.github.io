@@ -1,5 +1,4 @@
 ---
-layout: single
 title: 5 Steps to Success
 excerpt: Success doesn't come easy, but there is a pattern.
 tags: [success]

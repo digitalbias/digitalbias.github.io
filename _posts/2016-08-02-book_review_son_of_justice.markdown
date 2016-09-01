@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Book Review - Son of Justice
 tags: [book_review]
 ---

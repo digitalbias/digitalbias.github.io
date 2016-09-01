@@ -1,5 +1,4 @@
 ---
-layout: single
 title: I'm Working for Others
 tags: [unemployment, opinions]
 ---

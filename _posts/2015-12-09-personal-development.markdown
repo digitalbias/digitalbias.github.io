@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Want success? Improve!
 tags: [principles of success, personal development]
 ---

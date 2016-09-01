@@ -1,5 +1,4 @@
 ---
-layout: single
 title:  "Activity Monitors"
 tags: [fitbit, jawbone, bias, pebble, pedometer]
 ---

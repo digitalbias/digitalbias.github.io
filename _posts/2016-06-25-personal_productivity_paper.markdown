@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Personal Productivity with paper
 tags: [personal productivity, productivity, paper, GTD, getting things done]
 ---

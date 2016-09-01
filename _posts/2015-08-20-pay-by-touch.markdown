@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Pay by Touch
 excerpt: I've dug up an interesting post I made back in 2003 about Pay By Touch. It has very striking similarities to payment situations today.
 tags: [apple pay, google pay, payment systems]

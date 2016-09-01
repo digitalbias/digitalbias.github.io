@@ -1,5 +1,4 @@
 ---
-layout: single
 title: After Action Report
 tags: [after action report, best year ever, goals]
 ---

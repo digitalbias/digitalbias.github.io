@@ -1,5 +1,4 @@
 ---
-layout: single
 title: The Five Stages of Pull Requests
 tags: [coding, github]
 ---

@@ -1,5 +1,4 @@
 ---
-title: Team Development
 date: 2016-05-17T19:47:52-06:00
 tags: [leadership, team development]
 ---
