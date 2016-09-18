@@ -4,6 +4,8 @@ tags: [jobs, division of responsibility, time management]
 ---
 I think one of the biggest things people struggle with is managing their time. This is especially true when you consider all the responsibilities a person has in a low to mid level management job. More often than not, a person in a low level management position not only has a responsibility to take care of the day-to-day operations of a team, but they are also expected to produce work similar to the team they manage.
 
+![divide][divide]
+
 That can be a daunting task.
 
 One thing I have found that helps with that kind of responsibility and workload is to divide and conquer.
@@ -33,3 +35,7 @@ Organizing your days this way can have a number of benefits.
 3. _Manage interruptions_. As people get used to the idea that certain tasks are done at certain times of the week, they can plan for it and group similar meetings on the same days. If possible even scheduling similar rooms and people so there is less travel and wasted time.
 
 Would it be easy? No. I think there are lots of organizations where this would be almost impossible to implement. However, I also believe that some form of this would be possible in just about any organization as long as the benefits were communicated well.
+
+---
+[divide]: /images/post_images/divide_and_conquer.jpg
+Image is "Divide and Conquer" by ""-Nicola-""
