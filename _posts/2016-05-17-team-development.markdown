@@ -2,12 +2,13 @@
 date: 2016-05-17T19:47:52-06:00
 tags: [leadership, team development]
 ---
+![Teamwork][teamwork]
+
 How teams move from one stage of team development to another is something of a curiosity to me. Unfortunately, it's sometimes difficult to see when you are in the thick of it, but much easer to notice when you are an outsider or if you have that ability to extract yourself from the situation and survey the situation as if you were watching.
 
 If you are unfamiliar with Tuckman's stages of group development the idea is this: Teams can go through any of five stages as they attempt to achieve a goal. These stages are Forming, Storming, Norming, Performing, and Adjourning.
 
 ![stage of team development][image]
-
 
 As a team _forms_, they have high morale, but not much of an idea of what they are doing or where they are going.
 
@@ -46,5 +47,9 @@ He nodded and said, "Whatever you guys think is right, I'm good with that." It w
 The real key now is to keep the performance as a team going. Will we be able to maintain the output? I'm not sure. But what is more important is not the output, but how it's achieved. Looking at the code that is delivered now, you can tell there is a high standard of craftsmanship, and the team is pushing for higher levels of quality.
 
 And that is a sign of a team that cares about the product and can achieve good things.
+----
+Lego image is ["Imperial Star Destroyer taking shape"][destroyer] by Reiterlied
 
 [image]: /images/post_images/stages_of_team_development.png
+[teamwork]: /images/post_images/taking_shape.jpg
+[destroyer]: https://www.flickr.com/photos/reiterlied/16564714516

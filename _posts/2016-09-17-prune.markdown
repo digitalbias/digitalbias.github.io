@@ -2,9 +2,9 @@
 title: Prune
 tags: [pruning, projects, todo lists, getting things done]
 ---
-Darren Hardy [recently suggested][daily] looking at your life and pruning five things from your life. The idea is that to improve your personal productivity you need to cut back on those things in your life that are taking up your time and energy so you can focus on the more important parts of your life. With that energy being focused there instead of all the things that may be draining it, you are able to have greater success and make larger strides in your life.
+![farming][farming]
 
-![rose][rose]
+Darren Hardy [recently suggested][daily] looking at your life and pruning five things from your life. The idea is that to improve your personal productivity you need to cut back on those things in your life that are taking up your time and energy so you can focus on the more important parts of your life. With that energy being focused there instead of all the things that may be draining it, you are able to have greater success and make larger strides in your life.
 
 Since February I have done just that.
 
@@ -25,6 +25,8 @@ If you follow these steps then you will find you won’t get distracted from you
 After you do this exercise, let me know how it goes. I’d be interested to hear about what project you’re working on and how you are progressing. I know that because of my example another friend of mine is working on a book of his own and has written over 55K words on it already! I’d love to hear more stories like this.
 
 ---
-[rose]: /images/post_images/rose.jpg
+The picture is ["The Simple Life"][flickr] by Kenny Louie
+
+[farming]: /images/post_images/farming.jpg
 [daily]: http://www.darrendaily.com/find-your-five/
-The picture is "Rose" by the "Abaconda Management Group"
+[flickr]: https://www.flickr.com/photos/kwl/4574642827

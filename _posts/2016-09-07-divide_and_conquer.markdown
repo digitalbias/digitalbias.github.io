@@ -2,9 +2,9 @@
 title: Divide and Conquer
 tags: [jobs, division of responsibility, time management]
 ---
-I think one of the biggest things people struggle with is managing their time. This is especially true when you consider all the responsibilities a person has in a low to mid level management job. More often than not, a person in a low level management position not only has a responsibility to take care of the day-to-day operations of a team, but they are also expected to produce work similar to the team they manage.
+![Overwhelm][overwhelm]
 
-![divide][divide]
+I think one of the biggest things people struggle with is managing their time. This is especially true when you consider all the responsibilities a person has in a low to mid level management job. More often than not, a person in a low level management position not only has a responsibility to take care of the day-to-day operations of a team, but they are also expected to produce work similar to the team they manage.
 
 That can be a daunting task.
 
@@ -37,5 +37,7 @@ Organizing your days this way can have a number of benefits.
 Would it be easy? No. I think there are lots of organizations where this would be almost impossible to implement. However, I also believe that some form of this would be possible in just about any organization as long as the benefits were communicated well.
 
 ---
-[divide]: /images/post_images/divide_and_conquer.jpg
-Image is "Divide and Conquer" by ""-Nicola-""
+Lego image is ["The Lego Overflow"][overflow] by Reiterlied
+
+[overwhelm]: /images/post_images/overflow.jpg
+[overflow]: https://www.flickr.com/photos/reiterlied/26988338644

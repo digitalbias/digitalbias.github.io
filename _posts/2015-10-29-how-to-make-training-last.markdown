@@ -3,6 +3,7 @@ title: How to make a training class last
 excerpt: A reflection on the training O.C. Tanner received from Sandi Metz
 tags: [development, ruby, training]
 ---
+![Making it last][image]
 
 O.C. Tanner had [Sandi Metz][sandi_site] come in and train twelve of us for three days. I must admit, before the training I had never heard of Sandi, but then I'm not that plugged into the Ruby world. I've been more of a heads down kind of guy. I try and get my code working without consulting very many books, listening to conferences or anything like that, and honestly, that has been to my detriment. My skills with Ruby are not nearly as good as they could have been had I done so. And this training with Sandi opened my eyes to that lack.
 
@@ -47,6 +48,13 @@ Before finishing this post I want to leave with some questions:
 - How successful was it?
 - Did you have a coach?
 - How did that affect your ability to learn the new skill?
+
+
+---
+Lego image is ["Bye Bye Belgium"][byebye] by Reiterlied
+
+[image]: /images/post_images/leaving.jpg
+[byebye]: https://www.flickr.com/photos/reiterlied/29076749462
 
 
 [sandi_site]: http://www.sandimetz.com/
