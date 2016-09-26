@@ -16,21 +16,23 @@ I'd also like to write up an article on what I use and how I do my writing. Tool
 
 Below you can see what I'm currently working on and where they are at. I'll update these every month, just to keep this fresh.
 
-**Last update:** 2016 August 2
+**Last update:** 2016 September 26
 
 ### Rift Walker
 
 **Single sentence description**: A science fiction-fantasy thriller about a twenty-something man who teams up with justice wielding dimension hoppers to rescue his brother's abducted newborn baby.
 
-<progress value="81854" max="75000"></progress>
+First draft: <progress value="95500" max="95500"></progress>
+
+I'm taking the month of October off from working on Rift Walker to work on other projects. I'll come back to it in November to edit it.
 
 ### Growing in Faith
 
 **Single sentence description**: A gospel-centered book on practical ways we can increase our faith in Jesus Christ.
 
-Outlined, some writing has started.
+Outlined. Started working on it as soon as the first draft of Rift Walker was complete. This is the current active writing project.
 
-<progress value="5" max="100"></progress>
+<progress value="7567" max="30000"></progress>
 
 <script async id='_ck_69719' src='https://forms.convertkit.com/69719?v=5'></script>
 
@@ -45,16 +47,20 @@ Outlined, but nothing written yet.
 
 ## Past Projects
 
-### Change Reaction
-
-**Single sentence description**: A science-fiction/super hero action story about a college freshman who is plunged into a world of corporate suppression and super-powers.
-
-Came up with the idea with two friends of mine in high school. We co-wrote a number of chapters. After years in the drawer I pulled out the idea and wrote it for NaNoWriMo in 2004.
-
-Status? Needs a lot of polish before it's even decent. There are parts when I just summarized what I wanted to happened instead of actually writing the scenes.
-
 ### Imperial Champion
 
 **Single sentence description**: A fantasy thriller about a callow youth who struggles to prove his innocence after being framed for the murder of the emperor.
 
 I began writing this when I was in Brandon Sanderson's writing class at BYU in 2013. I worked through about 50% of the story and then found I had written myself into a bit of a corner. It's totally salvageable, but I lost interest and decided to give it a bit of a rest from it. When the first draft of Rift Walker is completed I'll return to this, reread it and then begin working on it again.
+
+Once the first editorial pass is done on Rift Walker I'll do an editorial pass on this and see what I can do to make it workable.
+
+### Change Reaction
+
+**Single sentence description**: A science-fiction/super hero action story about a college freshman who is plunged into a world of corporate suppression and human augmentation.
+
+Came up with the idea with two friends of mine in high school. We co-wrote a number of chapters. After years in the drawer I pulled out the idea and wrote it for NaNoWriMo in 2004.
+
+Status? Needs a lot of polish before it's even decent. There are parts when I just summarized what I wanted to happened instead of actually writing the scenes.
+
+Fiction-wise, this will probably be the third book I tackle, after Rift Walker and Imperial Champion. I expect it to be somewhere around 80K words.

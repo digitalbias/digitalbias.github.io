@@ -4,6 +4,18 @@ sitemap: true
 permalink: /about/
 title: About
 ---
+I'm something of a productivity and self improvement nerd (in addition to just being a general sci-fi/fantasy nerd). I played D&D in High School, collected comic books and hung out with the rest of the people in my school who were interested in that kind of stuff. I ran track and cross country as well, but my real interest was just in reading books and imagining new worlds with my friends.
+
+I was so into the nerd culture that my friends and I designed comic books and other science fiction stories which still bounce around in my brain, looking for a way to get out. [I still work on some of those ideas](/author) and I split my time between reading science-fiction/fantasy books and reading self-help/productivity/business books.
+
+Just to give you an idea, in High School I was reading Terry Brooks, David Eddings, Stephen Covey and Stephen Hawking. And that doesn't include Stan Lee . So, ya, nerd.
+
+Which brings me to today.
+
+Yup. Pretty much the same books, just branching out and reading people like Dan Wells, Brandon Sanderson, Jim Butcher and then reading other things from people like Tony Robbins, Jack Canfield and Pat Flynn.
+
+## Brief History
+
 Dave grew up as the child of an US Air Force officer and spent the first 14 years of his life traveling from one air force base to another. Eventually he settled down in Utah after graduating from BYU with a Bachelors in Computer Science.
 
 He spent the next 20 years working for a variety of companies within the Salt Lake and Utah counties including as a partner in [nStar Global Services][nstar]. For a full resume you can look at his [linkedin profile][linkedin].
