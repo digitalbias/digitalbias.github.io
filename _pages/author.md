@@ -30,9 +30,9 @@ I'm taking the month of October off from working on Rift Walker to work on other
 
 **Single sentence description**: A gospel-centered book on practical ways we can increase our faith in Jesus Christ.
 
-Outlined. Started working on it as soon as the first draft of Rift Walker was complete. This is the current active writing project.
+Started writing as soon as the first draft of Rift Walker was complete. This is the current active writing project.
 
-<progress value="7567" max="30000"></progress>
+<progress value="9683" max="30000"></progress>
 
 <script async id='_ck_69719' src='https://forms.convertkit.com/69719?v=5'></script>
 
