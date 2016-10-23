@@ -2,6 +2,8 @@
 title: Adding Colored Clips
 tags: [productivity, continual improvement, gamification]
 ---
+![colored clips][image]
+
 An update on where the task game has been going.
 
 For starters I did some more reading and then just decided to get moving on some of the mechanics. I figure if I just keep iterating on the ideas I'll come up with something I enjoy. So, this week did a few things and tracked my progress.
@@ -27,3 +29,5 @@ That's the three major colors. The last color, grey, is reserved for regular tas
 I have a last color, purple, that I can use for something (like maybe the 'power up'), but I'm keeping it in reserve in case something comes up. I don't want to have to go back and find more colors of paper clips if I come up with more stuff.
 
 So, that's an update so far. Just playing though it every day to see if it motivates me or not. So far...meh, but I think that's because it's not fully baked yet.
+
+[image]: /images/post_images/colored_clips.jpg
