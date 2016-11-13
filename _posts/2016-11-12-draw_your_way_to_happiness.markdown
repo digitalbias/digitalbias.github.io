@@ -2,6 +2,8 @@
 title: Draw Your Way to Happiness
 tags: [productivity, continual improvement]
 ---
+![going over the map][image]
+
 I'm always on the look for something that can make significant changes in how I do things. Wether it's a tool, an app, or just a new method or way of doing things, if I think it can help, I'll give it a try.
 
 For the last month I've been been trying something new that I am convinced can make a remarkable impact in achieving goals and making a difference in your life and in the life of those around you. It's called a life map.
@@ -31,5 +33,10 @@ Do I still have a mission statement? Yes. But now I have a way of making it have
 
 If you haven't already read the [The Four Maps of Happy Successful People][maps], I suggest you do so and try drawing the maps for a month. If you have already started reading the book and drawing the maps, I'd love to hear hour it is working for you in the comments.
 
+---
+The image is "On the map of Gotheburg ii" by Kristina Alexanderson. You can find it on [flickr][flickr]
+
 [habits]: http://www.amazon.com/dp/B00GOZV3TM/?tag=digitalbias-20
 [maps]: http://www.amazon.com/dp/B01HP7TYDE/?tag=digitalbias-20
+[image]: /images/post_images/map.jpg
+[flickr]: https://www.flickr.com/photos/kalexanderson/5023917952
