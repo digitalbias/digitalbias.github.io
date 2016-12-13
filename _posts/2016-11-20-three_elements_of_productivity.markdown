@@ -1,6 +1,10 @@
 ---
 title: What are the 3 key elements of any productivity system?
 tags: [productivity, systems]
+image_path: post_images/gears.jpg
+alt: "Systems"
+excerpt: "Identify the three elements of your system, and see how well you are really doing."
+btn_label: "Read It Now"
 ---
 ![Gears][image]
 

@@ -1,6 +1,10 @@
 ---
 title: Capture Tasks
 tags: [productivity, continual improvement]
+image_path: post_images/captured.jpg
+alt: "Capture"
+excerpt: "Capturing tasks is the first step to productivity"
+btn_label: "Read It Now"
 ---
 ![captured][image]
 

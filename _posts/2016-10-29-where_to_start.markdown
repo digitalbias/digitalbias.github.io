@@ -1,7 +1,13 @@
 ---
 title: Where to Start?
 tags: [productivity, continual improvement]
+image_path: /post_images/alice_cheshire_cat.jpg
+btn_label: "Read It Now"
+alt: "Alice Getting Directions"
+excerpt: "One of the most difficult things about personal productivity and improvement is knowing where to start."
 ---
+![cat][image]
+
 One of the most difficult things about personal productivity and improvement is knowing where to start.
 
 There are usually a lot of things one wants to improve or do better at. It could be eating better, it could be spending more time with the family, you may want to exercise more or do better at meditation or spiritual practices.
@@ -47,3 +53,5 @@ If you have been feeling stuck and have lacked direction, I would suggest you ta
 [alice_book]: http://www.gutenberg.org/files/11/11-h/11-h.htm
 [alice_image]: /images/post_images/alice_cheshire_cat.jpg
 [four_maps]: http://www.amazon.com/dp/0997103310/?tag=digitalbias-20
+
+[image]: /images/post_images/alice_cheshire_cat.jpg

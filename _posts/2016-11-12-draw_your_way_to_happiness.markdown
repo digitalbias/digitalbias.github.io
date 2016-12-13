@@ -1,6 +1,10 @@
 ---
 title: Draw Your Way to Happiness
 tags: [productivity, continual improvement]
+image_path: post_images/map.jpg
+alt: "Draw Youself to Happiness"
+excerpt: "Drawing can help you connect with your inner desires and help you plan your life and day."
+btn_label: "Read It Now"
 ---
 ![going over the map][image]
 

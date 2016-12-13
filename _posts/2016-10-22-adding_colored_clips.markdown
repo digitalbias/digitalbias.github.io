@@ -1,6 +1,10 @@
 ---
 title: Adding Colored Clips
 tags: [productivity, continual improvement, gamification]
+image_path: post_images/colored_clips.jpg
+alt: "Colored Clips"
+excerpt: "Part 3 of designing a game to make tasks fun"
+btn_label: "Read It Now"
 ---
 ![colored clips][image]
 

@@ -1,6 +1,10 @@
 ---
 title: Never Be Late Again
 tags: [productivity, continual improvement]
+image_path: post_images/killing_time.jpg
+alt: "Productivity"
+excerpt: "Your values determine your how to manage your time."
+btn_label: "Read It Now"
 ---
 ![killing time][image]
 
