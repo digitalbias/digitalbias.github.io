@@ -3,7 +3,7 @@ title: Review Your Process
 tags: [productivity, process]
 image_path: post_images/notepad.jpg
 alt: "Review Your Process"
-excerpt: "The last, critical, step to a productivity system is reviewing"
+excerpt: "Outside the three major processes, this one additional practice can have the greatest impact in your productivity and in your life."
 btn_label: "Learn More"
 ---
 ![goal][image]
