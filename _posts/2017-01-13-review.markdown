@@ -1,30 +1,60 @@
 ---
 title: Review Your Process
 tags: [productivity, process]
-image_path: post_images/basketball_hoop.jpg
+image_path: post_images/notepad.jpg
 alt: "Review Your Process"
 excerpt: "The last, critical, step to a productivity system is reviewing"
 btn_label: "Learn More"
 ---
 ![goal][image]
 
-While there are only three necessary processes for being productive, there are other which are still necessary if you want to operate at your peek performance. The next most important is the review.
+While there are only three necessary processes for being productive, there are other processes which are still necessary if you want to operate at the highest level. Next to the three essentials, the next most important is the review.
 
-There a couple of different reviews which can be performed as part of a productivity system. They are daily, weekly and yearly. Sure there are other timeframes which can be used, and some may be more preferable to others, but the three most common are the daily, weekly and yearly reviews.
+There are a couple of different types of reviews which can be performed as part of a productivity system. Each type centers around the time frame they are performed in, but they also have different purposes and involve different activities. The major reviews are the daily, weekly, quarterly and yearly reviews. There are other time frames which can be used, and some may be more preferable to others, but these three are the most common.
 
-Each review has its purpose and place in a framework.
+Will look at each review in turn and examine what is involved in the review and why you would want to incorporate into your system.
+
+## The Daily Review
 
 A daily review has two main goals:
 
-1. To review the past days activities
+1. Review the past days activities
 2. Plan the activities for the following day
 
-Some people may even break this up into two different meetings, but I have found that the best use of time and energy is to hold just one meeting. This allows you to see where you would like to improve and make plans for it while planning the activities for the following day. The daily review can be held at either the beginning or the end of the day, however the end of the day is better because the events of the day are fresh in your mind and the review is easier. Also, sleeping on the plans you have for the next day can help you assimilate it and allow for the unconscious mind to work on it throws you can hold. A week is just enough time to make significant progress on goals while still being a timeframe you can grasp. Anything longer than a week starts to get fuzzy and more difficult to manage. Goals that are broken down into week long sizes are more likely to succeed than those which are just broken down into months of even quarters.
+Some people may even break this up into two different meetings, but I have found that the best use of time and energy is to hold just one meeting. This allows me to see where I would like to improve and make plans for it while planning the activities for the following day. 
 
-Inevitably you end up working on those goals when it gets close to the deadline instead of working on them every day or achieving milestones every week. Doing a weekly review also gives you the opportunity to take a moment and make adjustments to the process itself. You can goo back and look at the daily reviews and the insights you have had each of those days and then plan for specific changes you want to make to the process. Things like when to do the daily review what to make a part of that daily review, what things to do in the morning or the evning when it is not a daily review (like just reading through the plan for the day). As you look over other people's ideas, you can decide in the weekly review if its something you wnat to make a part of your own routine. Determine how long you are going to experiment with that pratice and then when that time is up, review it in the weekly review to see if that is somethign you still want to do. The weekly review is more of the stratigic planning time, while the daily review is more tactical.
+The daily review can be held at either the beginning or the end of the day, however the end of the day is better because the events of the day are fresh in your mind and the review is easier. Also, sleeping on the plans you have for the next day can help you assimilate it and allow for the unconscious mind to work on it throughout the night. 
 
-If the daily review is where the tactical planning occurs and the weekly review is where you make your strategy, then the yearly review is the place where the visionary items are concieved and planned.
+I'll even perform the activities in the order listed above: review the current day, then plan for tomorrow. I can then roll over anything that may be important to tomorrow or just drop it if I don't think it's worth thinking about anymore.
 
-Many people are in the habit of making new years resolutions. I'm not that fond of the pratice but like the idea of setting goals and working toward them. DOing that on an annual basis is appropriate, but it doesnt' work as well unless you break it down and have regular reviews on either a quarterly or monthly basis. If you decide to hold an annual review, make sure to schedule regular monthly or quarterly reviews to help keep you accountable to those yearly goals and to help you make sdjustments throughout the year as needed so you can still hit that goal.
+## The Weekly Review
 
-While reviews are not a necessary paret of a producitibvy system, they can help provide feedback on the system itself and help provide times and oppriotinuityes to make adjustments to the overall plans you mayu have. In this way to don't juet get thigns done, but also make a bigger impact in what you do. You won't feel like a hampster on a treadmill; but isntaal feel like you are making a differentce and that the tasks you re doing have more mreaning instead of just checking off a box.
+A week is just enough time to make significant progress on goals while still being a time frame you can grasp. Anything longer than a week starts to get fuzzy and more difficult to manage. Goals that are broken down into week long sizes are more likely to succeed than those which are just broken down into months of even quarters. The weekly review helps you get a bit more strategic about what you are going to get done in the current week and, just like the daily review, carry over or abandon anything that didn't get done in the previous week. 
+
+Usually I'll schedule things for specific days and 'chunking' or 'theming' a day can help you keep the same focus and energy going for similar tasks. A weekly review can help you make sure you get the right amount of those themes in without leaving any important one out of your week.
+
+Finally, take some time during each weekly review to review your productivity system. Make adjustments and measure to see if those adjustments have helped, hindered or had no impact on your productivity.
+
+## The Yearly and Quarterly Reviews
+
+If the daily review is where the tactical planning occurs and the weekly review is where you make your strategy, then the yearly review is the place where the visionary items are conceived and planned. This is where you dream big and make plans for those goals that will stretch and grow you and the causes you are engaged in.
+
+Many people are in the habit of making new years resolutions. I'm not that fond of the practice, but it may not be for the reasons you may suppose. I think the idea of setting goals without having a plan is just a wish, and that is what I think of New Years Resolutions. More often than not, people focus on the end result but do it without a plan, and that is what leads a person to break those resolutions so soon after making them.
+
+Unlike New Years Resolutions, yearly goals have a plan and regular check-ins to make sure they are accomplished. Weekly and daily reviews can incorporate these check-ins to make sure you are making progress toward those yearly goals. These are the quarterly reviews.
+
+Quarterly reviews are there to give you a moment to reflect on the goals for the year, make adjustments and make sure you are making appropriate progress toward those goals. If you are not then they also give you an opportunity to reset expectations, double down on effort or abandon the goal all together. There is no shame or problem in abandoning a goal. A lot can change in three months and holding onto a goal that is no longer realistic does not do any good and is just a waste of energy. Better to know that after three months than after twelve.
+
+Make sure you schedule the quarterly and annual reviews so they are not on the same day as a weekly review. Instead make sure it is one of your themes for one of the days during the week. Then find a place were you can be undisturbed and review, honestly, how you are progressing. Brainstorm the metrics you will be using on a daily and weekly basis to measure your progress with [lead and lag indicators][lead_and_lag] and then create plans and milestones for each week or month that will show you, definitely, how you are doing in your progress toward that yearly goal.
+
+Write the plan down and review it at least each quarter. If you can review it more often if you need some of the reinforcement each week or month.
+
+## Conclusion
+
+While reviews are not a necessary part of a productivity system, they can help provide feedback on the system itself and help give you opportunities to make adjustments to the overall plans you may have. In this way to don't just get things done, but also make a bigger impact in what you do. You won't feel like a hamster on a treadmill. Instead you will feel like you are making a difference and that the tasks you're doing have more meaning instead of just checking off a box.
+
+---
+The image is 'Content writing' by Jesse Radonski. You can find it on [flickr][flickr]
+
+[flickr]: https://www.flickr.com/photos/freshfullyrad/7687693390
+[image]: post_images/notepad.jpg
