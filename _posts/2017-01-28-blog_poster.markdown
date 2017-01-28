@@ -10,7 +10,7 @@ btn_label: "Read Now"
 
 This site runs on something called [Github Pages][ghpages]. For those of you not familiar with Github Pages, it lets me post the content of my site to a place that hosts the code. They then take that code and convert it into a website. Once the initial setup is done, the process of posting new content is pretty straight forward.
 
-I decided to go this way because I didn't care if people saw the content of my site (that is what it's for after all) and I wanted something that was secure (it's as secure as my code repository), inexpensive (it's free), and fast (once the site is generated the pages don't change and are served up as fast as github can serve them up). Overall, it hits all the requirements, there is is a problem.
+I decided to go this way because I didn't care if people saw the content of my site (that is what it's for after all) and I wanted something that was secure (it's as secure as my code repository), inexpensive (it's free), and fast (once the site is generated the pages don't change and are served up as fast as github can serve them up). Overall, it hits all the requirements, but there is is a problem.
 
 Scheduling future posts.
 
