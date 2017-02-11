@@ -16,23 +16,24 @@ I'd also like to write up an article on what I use and how I do my writing. Tool
 
 Below you can see what I'm currently working on and where they are at. I'll update these every month, just to keep this fresh.
 
-**Last update:** 2016 September 26
+**Last update:** 2017 February 10
 
 ### Rift Walker
 
 **Single sentence description**: A science fiction-fantasy thriller about a twenty-something man who teams up with justice wielding dimension hoppers to rescue his brother's abducted newborn baby.
 
-First draft: <progress value="95500" max="95500"></progress>
-
-I'm taking the month of October off from working on Rift Walker to work on other projects. I'll come back to it in November to edit it.
+- First draft: <progress value="95500" max="95500"></progress>
+- First edit: <progress value="25" max="66"></progress>
 
 ### Growing in Faith
 
 **Single sentence description**: A gospel-centered book on practical ways we can increase our faith in Jesus Christ.
 
-Started writing as soon as the first draft of Rift Walker was complete. This is the current active writing project.
+Rift walker edit needs to complete before editing this.
 
-<progress value="9683" max="30000"></progress>
+- First draft: <progress value="30000" max="30000"></progress>
+- First edit: <progress value="0" max="66"></progress>
+
 
 <script async id='_ck_69719' src='https://forms.convertkit.com/69719?v=5'></script>
 
@@ -40,10 +41,10 @@ Started writing as soon as the first draft of Rift Walker was complete. This is 
 
 **Single sentence description**: A principle centered book on how to organize your finances so you can weather the storms of life.
 
-Outlined, but nothing written yet.
+Rift walker edit needs to complete before editing this.
 
-<progress value="0" max="100"></progress>
-
+- First draft: <progress value="100" max="100"></progress>
+- First edit: <progress value="0" max="66"></progress>
 
 ## Past Projects
 
