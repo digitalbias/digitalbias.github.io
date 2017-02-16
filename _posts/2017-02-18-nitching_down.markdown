@@ -1,12 +1,12 @@
 ---
 title: Niche Down?
-tags: [business, personal development, blogging]
-image_path: post_images/.png
+tags: [business, personal development, blogging, relationships]
+image_path: post_images/canyon.jpg
 alt: "Niche down?"
 excerpt: "Should you niche down or not?"
 btn_label: "Read the rest"
 ---
-![][image]
+![canyon][image]
 
 We're now past the first two months of the year. If you set some goals for the coming year, how are they doing? Are you on track to accomplish them or have you already decided they are not worth the effort? Or, are they still worth the effort but you've given up on them?
 
@@ -35,4 +35,4 @@ If you don't feel like you know where to start, I'm willing to lend a hand. Feel
 
 
 ---
-[image]: /images/post_images/
+[image]: /images/post_images/canyon.jpg
