@@ -1,12 +1,12 @@
 ---
 title: Buckle Down
 tags: [goals, getting things done, direction]
-image_path: post_images/.png
+image_path: post_images/push_the_world.jpg
 alt: "Get more out of life!"
 excerpt: "Sometimes you just need to double down and decide what you really want out of life"
-btn_label: "Read more"
+btn_label: "Read More"
 ---
-![][image]
+![pushing the world][image]
 
 We're now past the first two months of the year. If you set some goals for the coming year, how are they doing? Are you on track to accomplish them or have you already decided they are not worth the effort? Or, are they still worth the effort but you've given up on them?
 
@@ -34,4 +34,7 @@ If you don't feel like you know where to start, I'm willing to lend a hand. Feel
 
 
 ---
-[image]: /images/post_images/
+The image is 'Doing some Sisyphus work' by Kristina Alexanderson. You can find it on [flickr][flickr]
+
+[image]: /images/post_images/push_the_world.jpg
+[flickr]: https://www.flickr.com/photos/kalexanderson/7014655351
