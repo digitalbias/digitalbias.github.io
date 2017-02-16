@@ -32,7 +32,8 @@ So, here's my question: Do you have something in your life that keeps coming bac
 
 If you don't feel like you know where to start, I'm willing to lend a hand. Feel free to leave a comment below or use one of the contact methods on the side to drop me a line and I'll see what I can do to help you get unstuck.
 
-
-
 ---
+The image is 'Grand Canyon' by Paul Fundenburg. You can find it on [flickr][flickr]
+
+[flickr]: https://www.flickr.com/photos/fundenburg/2615404244
 [image]: /images/post_images/canyon.jpg
