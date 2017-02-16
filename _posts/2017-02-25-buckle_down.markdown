@@ -10,7 +10,7 @@ btn_label: "Read more"
 
 We're now past the first two months of the year. If you set some goals for the coming year, how are they doing? Are you on track to accomplish them or have you already decided they are not worth the effort? Or, are they still worth the effort but you've given up on them?
 
-Any of those responses is legitimate.
+Any of those is a legitimate response.
 
 If you are on track, then great! Here's a question though: Can you reach that goal any faster? If you had to get it done in a couple months, would you have the time and energy to do so?
 
