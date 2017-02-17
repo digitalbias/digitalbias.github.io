@@ -22,19 +22,17 @@ Some guys are really into sports, not me. I'd rather read a good, engaging book 
 
 I'm a bit of a nerd.
 
-Okay, maybe that's a bit of an understatement. I'm a big nerd. My family has refused to play [Star Wars Trivial Pursuit][trivial_pursuit] with me because I win every time. If there were a Marvel Superhero Trivial Pursuit I'd probably be banned from that game too. [D&D][dnd]? [Role Playing Games][drive_through]? [Computer Games][blizzard]? [Tolkien][tolkien]? Science Fiction and Fantasy books? You name it, I probably know more about that space than the average person off the street. Am I an expert in all of them? No. But I can hold my own in a nerd discussion.
+Okay, maybe that's a bit of an understatement. I'm a big nerd. My family has refused to play [Star Wars Trivial Pursuit][trivial_pursuit] with me because I win every time. If we owned a [Marvel Superhero Trivial Pursuit][marvel] I'd probably be banned from that game too. [D&D][dnd]? [Role Playing Games][drive_through]? [Computer Games][blizzard]? [Tolkien][tolkien]? [Science Fiction][dune] and [Fantasy books][brandon]? You name it, I probably know more about that space than the average person off the street. Am I an expert in all of them? No. But I can hold my own in a nerd discussion.
 
 But what does this have to do with personal connections?
 
-I frequently stop by a friendly local game store (FLGS in nerd-speak). While there I talk with the employees and the owner. We talk about the most recent happenings in the nerd scene (both local and national). So, when I hear about a cool new game or feature of a game I've played, when the people at the store say it's a good game, chances are I'll buy it.
+I frequently stop by a friendly local game store (FLGS in nerd-speak). While there I talk with the employees and the owner. We talk about the most recent happenings in the nerd scene (both local and national) and we talk about games. So, when I hear about a cool new game or feature of a game I've played, when the people at the store say it's a good game, chances are I'll buy it.
 
 Why?
 
 Because I trust them. Our interests and many of our values are the same. We have a personal connection and I trust their opinion and if they like it, chances are I will too.
 
-We are all salesmen in one way or another, even if all we are selling is an idea or opinion. These connections we have with other people is an important part of that "sales" process and it behooves us to make sure those are strong.
-
-Not because we are trying to make everybody think the same way as us, but because, even if a person disagrees, at least they will be willing to listen to us because of that connection.
+We are all salesmen in one way or another, even if all we are selling is an idea or an opinion. The connections we have with other people is an important part of that "sales" process and it behooves us to make sure those are strong. Not because we are trying to make everybody think the same way as us, but because, even if a person disagrees, at least they will be willing to listen to us because of that connection. And maybe, just maybe, we can influence them and thus the world to just a little better.
 
 So, the next time you don't feel like somebody is listening or giving you the time of day, ask yourself, "How's my connection with them?"
 
@@ -44,10 +42,13 @@ Chances are you need to do some more relationship building. And the best way to 
 [emotions]: https://www.psychologytoday.com/blog/inside-the-consumer-mind/201302/how-emotions-influence-what-we-buy
 [connection]: https://www.newvoicemedia.com/news/corporate/businesses-underestimate-impact-in-a-personal-connection-according-to-newvoicemedia-study
 [trivial_pursuit]: http://www.amazon.com/dp/B000050AWW/?tag=digitalbias-20
-[tolkien]:
+[marvel]: http://www.amazon.com/dp/B00V42YPLS/?tag=digitalbias-20
+[tolkien]: https://www.amazon.com/J.R.R.-Tolkien/e/B000ARC6KA/?tag=digitalbias-20
 [dnd]: https://dnd.wizards.com/
-[drive_through]:
-[blizzard]:
+[drive_through]: http://www.drivethrurpg.com
+[blizzard]: http://www.blizzard.com/
+[dune]: http://www.amazon.com/dp/0441172717/?tag=digitalbias-20
+[brandon]: https://www.amazon.com/Brandon-Sanderson/e/B001IGFHW6/?tag=digitalbias-20
 
 ---
 The image is 'Grand Canyon' by Paul Fundenburg. You can find it on [flickr][flickr]
