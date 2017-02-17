@@ -8,29 +8,46 @@ btn_label: "Read the rest"
 ---
 ![canyon][image]
 
-We're now past the first two months of the year. If you set some goals for the coming year, how are they doing? Are you on track to accomplish them or have you already decided they are not worth the effort? Or, are they still worth the effort but you've given up on them?
+I recently read the article ["Mile Wide, Mile Deep"][mile_wide] by Steve Pavlina and thought, "Yes!"
 
-Any of those responses is legitimate.
+In the article Steve explains the problem with the inch wide, mile deep approach people seem to promote. While the phrase "The Riches are in the Niches" may feel true, it does not convey everything a person should be pursuing.
 
-If you are on track, then great! Here's a question though: Can you reach that goal any faster? If you had to get it done in a couple months, would you have the time and energy to do so?
+Life is not about getting rich.
 
-In some cases we give up on goals because as we start working on them we realize that it's a "nice to have" but not worth the time it would take us to accomplish it. That's okay. Sometimes there are things that are just not as important to us and it's okay to drop them. However, we also need to be careful and not lump the things that ARE important to us and are just hard.
+It is, instead, about helping people, and the best way to do that is to connect. People don't purchase based on their intellect, but instead do it based on their [emotions.][emotions] And people are more likely to stay with you because of the [personal connection][connection] they feel they have with you.
 
-A critical part of this evaluation is asking yourself if it is something you really want.
+I know this is the case with me. Let me explain.
 
-There is something I have wanted to do since I was in my senior year in college. I wanted to get my MBA, but it never seemed like the right time. I was too busy or just didn't want to put in the effort to study for the GMAT. Or whatever excuse for what was going on in my life.
+Some guys are really into sports, not me. I'd rather read a good, engaging book than watch a football game on TV any day. I'd rather play a board game. I'm often heard that I would rather play a game then watch one any day.
 
-However, every couple years it pops back up on my radar as something I want to do. In my mind that means that, while I may have abandoned it at the time, it is still one of the core things I want to do, and I need to make the effort to make it a part of my life.
+I'm a bit of a nerd.
 
-Buckle down and just do it.
+Okay, maybe that's a bit of an understatement. I'm a big nerd. My family has refused to play [Star Wars Trivial Pursuit][trivial_pursuit] with me because I win every time. If there were a Marvel Superhero Trivial Pursuit I'd probably be banned from that game too. [D&D][dnd]? [Role Playing Games][drive_through]? [Computer Games][blizzard]? [Tolkien][tolkien]? Science Fiction and Fantasy books? You name it, I probably know more about that space than the average person off the street. Am I an expert in all of them? No. But I can hold my own in a nerd discussion.
 
-This year I've written the first draft of three books because I made up my mind that I wasn't going to keep putting things off and instead was going to work on my goals and not let anything get in the way. Has it been hard at time? Yes! But has it been worth it? For sure.
+But what does this have to do with personal connections?
 
-And now, because I've managed to get some of the smaller goals out of the way, bigger goals seem just that much more attainable.
+I frequently stop by a friendly local game store (FLGS in nerd-speak). While there I talk with the employees and the owner. We talk about the most recent happenings in the nerd scene (both local and national). So, when I hear about a cool new game or feature of a game I've played, when the people at the store say it's a good game, chances are I'll buy it.
 
-So, here's my question: Do you have something in your life that keeps coming back? If you do then make a plan and go after it.
+Why?
 
-If you don't feel like you know where to start, I'm willing to lend a hand. Feel free to leave a comment below or use one of the contact methods on the side to drop me a line and I'll see what I can do to help you get unstuck.
+Because I trust them. Our interests and many of our values are the same. We have a personal connection and I trust their opinion and if they like it, chances are I will too.
+
+We are all salesmen in one way or another, even if all we are selling is an idea or opinion. These connections we have with other people is an important part of that "sales" process and it behooves us to make sure those are strong.
+
+Not because we are trying to make everybody think the same way as us, but because, even if a person disagrees, at least they will be willing to listen to us because of that connection.
+
+So, the next time you don't feel like somebody is listening or giving you the time of day, ask yourself, "How's my connection with them?"
+
+Chances are you need to do some more relationship building. And the best way to do that is to have a wide range of interests or to at least be willing to listen and learn about something outside of your narrow niche.
+
+[mile_wide]: http://www.stevepavlina.com/blog/2016/12/mile-wide-mile-deep/
+[emotions]: https://www.psychologytoday.com/blog/inside-the-consumer-mind/201302/how-emotions-influence-what-we-buy
+[connection]: https://www.newvoicemedia.com/news/corporate/businesses-underestimate-impact-in-a-personal-connection-according-to-newvoicemedia-study
+[trivial_pursuit]: http://www.amazon.com/dp/B000050AWW/?tag=digitalbias-20
+[tolkien]:
+[dnd]: https://dnd.wizards.com/
+[drive_through]:
+[blizzard]:
 
 ---
 The image is 'Grand Canyon' by Paul Fundenburg. You can find it on [flickr][flickr]
