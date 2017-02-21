@@ -1,5 +1,5 @@
 ---
-title: Niche Down?
+title: Inoculate
 tags: [personal development, goals, willpower]
 image_path: post_images/syringe.jpg
 alt: "Do you have the power?"
@@ -10,7 +10,7 @@ btn_label: "Read the rest"
 
 # Inoculate Yourself
 
-One of the most difficult things to do is to stick with your goals when all the other people around you are doing things which go against what you are trying to accomplish. For example, if you are trying to eat more vegetables, but those around you are eating granola bars and chips, it’s hard to wolf down that carrot. It's a matter of will-power. And like a boulder being constantly beat upon by the surf, or solid granite riverbed, it will eventually be worn away through time and constant pressure. There is, however, you can avoid bing word down and instead make progress in your goal and, possibly, enlist the aid of those around you. 
+One of the most difficult things to do is to stick with your goals when all the other people around you are doing things which go against what you are trying to accomplish. For example, if you are trying to eat more vegetables, but those around you are eating granola bars and chips, it’s hard to wolf down that carrot. It's a matter of will-power. And like a boulder being constantly beat upon by the surf, or solid granite riverbed, it will eventually be worn away through time and constant pressure. There is, however, you can avoid bing word down and instead make progress in your goal and, possibly, enlist the aid of those around you.
 
 The way to help you resist temptations as they arise is to "inoculate yourself." But what, exactly, does this mean?
 
@@ -20,7 +20,7 @@ When we try and get ahead of a disease or a sickness like the flu, we will injec
 
 When first setting the goal, one way to help inoculate ourselves is to visualize the situations we believe we may encounter. Imagine them in detail. The smells, the sounds around and the feelings you will experience as you are assailed by the temptation. For example, if we use the example from above, we can visualize our friends eating donuts. Picture the frosting and the smell of the freshly baked donut. You will be tempted. Imagine how that feels. Can you see what it looks like when one of your friends holds the box in front of you, and the smell wafts up to you? The more details the better.
 
-Then, picture yourself declining. See how it feels. What do you say? How does it look? What if they pressure you? How do you respond in a graceful manner while still holding onto your goal? Picture what that goal is. Maybe it's 15% body fat. Maybe it's fitting into some nice clothes. Visualize yourself as having achieved that goal, and think of yourself achieving that goal in just the moment when they offer it to you. 
+Then, picture yourself declining. See how it feels. What do you say? How does it look? What if they pressure you? How do you respond in a graceful manner while still holding onto your goal? Picture what that goal is. Maybe it's 15% body fat. Maybe it's fitting into some nice clothes. Visualize yourself as having achieved that goal, and think of yourself achieving that goal in just the moment when they offer it to you.
 
 This is an inoculation.
 
