@@ -1,17 +1,21 @@
 ---
 title: Delegation
 tags: [leadership, delegation, criteria]
-image_path: post_images/chess.jpg
+image_path: post_images/handoff.jpg
 alt: "Delegate"
 excerpt: "How well do you delegate?"
 btn_label: "Read More"
 ---
 
-![pushing the world][image]
+![handing off the baton][image]
 
 Delegation.
 
-I must admit, this is a weakness of mine. I tend to either use the "fire and forget" approach or else I engage in the "I'll do it myself". Rarely do I actually employ the proper method of delegation. It takes a lot more work, but in the long run it's much more effective and can help you and your team get more done and grow in their abilities as well.
+Love it or hate it, it's something that makes teams, families and people work better and get more done. It allows you to focus on what you are the best at, and leverage the strengths of others.
+
+Unfortunately, most people are not very good at it. Myself included.
+
+I must admit, this is a weakness of mine. I tend to either use the "fire and forget" approach or else I engage in the "I'll do it myself" approach. Rarely do I actually employ the proper method of delegation. It takes a lot more work, but in the long run it's much more effective and can help you and your team get more done and grow in their abilities as well.
 
 Before describing the proper way of delegating, let's look at a couple of the incorrect ways people tend to delegate.
 
@@ -79,9 +83,9 @@ So, how does one delegate effectively?
 
 It begins long before we ever meet with the person to be delegated to. Going into that meeting we need to have a clear picture of the outcomes we want from the delegated task and, if necessary, we need to have the specific processes and contacts listed so the person can effectively accomplish the task. Only after all these things are in place to we meet with the person.
 
-When we meet with them we need to describe the task, the people who can help accomplish the task and what our expected outcomes are. Once all this has been provided, then we should ask if there are any questions and finally, when those have been answered, we need to set up regular followup meetings so we can be informed of the tasks progress. In the beginning stages of the delegation the follow up meetings should be frequent and then as you see they need less of your support or help, you can taper off on meeting with them and begin to just get status reports. You're not telling them how to perform the task in these meetings unless they ask, but instead you are following up to see how they are doing on the task and if there is anything they need from you,
+When we meet with them we need to describe the task, the people who can help accomplish the task and what our expected outcomes are. Once all this has been provided, then we should ask if there are any questions and finally, when those have been answered, we need to set up regular follow-up meetings so we can be informed of the tasks progress. In the beginning stages of the delegation the follow up meetings should be frequent and then as you see they need less of your support or help, you can taper off on meeting with them and begin to just get status reports. You're not telling them how to perform the task in these meetings unless they ask, but instead you are following up to see how they are doing on the task and if there is anything they need from you,
 
-Once the task is complete, a final meeting is useful to see what could be improved in the process. Did they need more contact or less from you? Overall how would they like you to be involved in future assignments? This is a chance to see how you are doing on your delegation with this individual. You will find that some people will want more involvement than others and that one style of delegation does not work for everybody. It will even change depending on the task with the same person. It's more fluid because different people have different levels of confidence and competence with different tasks. Be sure to ask how much involvement they would like from you when you start off and provide opportunities for them to get more involvement from you in your regular followups.
+Once the task is complete, a final meeting is useful to see what could be improved in the process. Did they need more contact or less from you? Overall how would they like you to be involved in future assignments? This is a chance to see how you are doing on your delegation with this individual. You will find that some people will want more involvement than others and that one style of delegation does not work for everybody. It will even change depending on the task with the same person. It's more fluid because different people have different levels of confidence and competence with different tasks. Be sure to ask how much involvement they would like from you when you start off and provide opportunities for them to get more involvement from you in your regular follow-ups.
 
 Your goal, when delegating, is to get the task done, but a secondary goal is to build up the people you are working with and hopefully make them more effective in their job while helping you with yours.
 
@@ -89,7 +93,7 @@ Your goal, when delegating, is to get the task done, but a secondary goal is to 
 [organizedfamily]: http://www.organizedfamily.co
 
 ---
-The image is 'Chess' by Eigenberg Fotografie. You can find it on [flickr][flickr]
+The image is 'BXP135677' by tableatny. You can find it on [flickr][flickr]
 
-[image]: /images/post_images/chess.jpg
-[flickr]: https://www.flickr.com/photos/damionroeien/11122262203
+[image]: /images/post_images/handoff.jpg
+[flickr]: https://www.flickr.com/photos/53370644@N06/4976497160/
