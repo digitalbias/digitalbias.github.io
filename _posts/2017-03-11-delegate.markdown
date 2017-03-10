@@ -15,7 +15,7 @@ Love it or hate it, it's something that makes teams, families and people work be
 
 Unfortunately, most people are not very good at it. Myself included.
 
-I must admit, this is a weakness of mine. I tend to either use the "fire and forget" approach or else I engage in the "I'll do it myself" approach. Rarely do I actually employ the proper method of delegation. It takes a lot more work, but in the long run it's much more effective and can help you and your team get more done and grow in their abilities as well.
+I tend to either use the "fire and forget" approach or else I engage in the "I'll do it myself" approach. Rarely do I actually employ the proper method of delegation. It takes a lot more work, but in the long run it's much more effective and can help you and your team get more done and help the other members of the team grow in their abilities as well.
 
 Before describing the proper way of delegating, let's look at a couple of the incorrect ways people tend to delegate.
 
@@ -29,11 +29,12 @@ There is no follow up, no check in, nothing. The assignee is left for themselves
 
 ## Do it Myself
 
-Another way to do delegation is to not do it at all. I find myself falling into this trap more often than not for a number of reasons. Many people have said, "focus on your strengths." If doing this task is not something you are good at, then why are you doing it? For me, I like to know how things work. Learning how it all works is good and I'm okay learning how it work up front, but after a while, if it's not a strength, then I really should off load it. That's a problem for me.
+Another way to do delegation is to not do it at all. I find myself falling into this trap more than any other approach for a number of reasons. Many people have said, "focus on your strengths." If doing this task is not something you are good at, then why are you doing it? For me, I like to know how things work. Learning how it all works is good and I'm okay learning how it works up front, but after a while, if it's not a strength, then I really should off load it. That's a problem for me. Usually I hold onto task for a couple reasons. Here are a few.
 
 ### 1. I want to save money
 
-If there is a thing I know I can do, I usually just do it. However, there are tasks out there which need to get done, which I know have services out there which can do the same thing for me, but I'm cheap and figure if I can do it, why pay somebody else to do it. Besides, how do I know they will do it the way I want them to.
+If there is a thing I know I can do, I usually just do it. However, there are tasks out there which need to get done, which I know have services out there which can do the same thing for me, but I'm cheap and figure if I can do it. The thought is "why pay somebody else to do it? Besides, how do I know they will do it the way I want them to."
+
 This is wrong thinking on my part. I should be focusing on my strengths and letting others take care of what they are good at. It may cost me more money, but the time I save is probably worth more than the time I spend on tasks that take me away from doing things I'm good at.
 
 Take our family organization podcast ([The Organized Family][organizedfamily]). I write the emails that go out, I schedule them, I edit and publish the podcast and I take the show notes and publish them to both the website as well as in an email. Usually the entire process takes me about two hours. That's two hours I could be focusing on reading and writing (two things I'm good at) instead of doing something I could have handed off to somebody else. What could be handed off?
@@ -45,6 +46,8 @@ Take our family organization podcast ([The Organized Family][organizedfamily]). 
 5. Creating the show notes
 
 If I were to just delegate those, that would leave me with writing the copy for the emails. For me that's something I like and something I think helps me connect with our audience. That's important to me and it's something only I should do. Everything else is not a strength of mine. Some of it could possibly even be automated and not need a humans involvement.
+
+It really should be delegated, but isn't because of money concerns.
 
 ### 2. I think somebody else wouldn't do it the right way
 
@@ -60,18 +63,27 @@ Close on the heels of 'doing it right' is not having the time to teach somebody.
 
 Chances are, if you are delegating to somebody who already has experience in this area, you won't have to teach them much. Just giving them the details may be sufficient. There are other instances where you may need to teach them the specifics related to how you do things, but again, if they are already experienced, this should be quick.
 
-There is another reason for 'teaching somebody else' and that is contingency planning. When you have taught somebody else how to do these tasks then you are multiplying yourself. Now there are 'two of you' who can perform this task. Depending on your mentality, this may be a good or a bad thing. Maybe you are afraid that your job will be threatened or that this person you are trained will supplant you in some way. And while that is certainly a possibility, if this is not one of your strong points, then why worry about it? You should be focused on the things you are good at and that you enjoy, not the things you not. The whole reason to off load some of these tasks was to make it so you can do what you are good at, and if you teach somebody how to do this, then you are going to be freed up to do what you alone excel at.
+There is another reason for 'teaching somebody else' and that is contingency planning. When you have taught somebody else how to do these tasks then you are multiplying yourself. Now there are 'two of you' who can perform this task. Depending on your mentality, this may be a good or a bad thing. 
 
-Finally, another reason to teach somebody how to do these tasks, or at least a reason to document it, is so that if something happens to you, somebody else is able to pick up where you left off and take care of the task in your absence. There are all kinds of reasons for you not being around. You could be on vacation, in a remote location, delayed from arriving in the office or unable to make it where you need to be in order to perform the task. The list could go on and on, but the point is that if the process is documented, then the work can still get done and you will look better for it because you provided a way to take care of it, even if you were unavailable. Most people are praised for enabling their peers in getting work done, and this is no different.
+Maybe you are afraid that your job will be threatened or that this person you trained will supplant you in some way. And while that is certainly a possibility, if this is not one of your strong points, then why worry about it? You should be focused on the things you are good at and that you enjoy, not the things you do not. The whole reason to off load some of these tasks was to make it so you can do what you are good at, and if you teach somebody how to do this, then you are going to be freed up to do what you alone excel at.
 
-When it comes time to teach somebody and delegate the task, you can hand off the documentation and ask for feedback as they go through the process. When they return with the document, you can take their suggestions and incorporate them into the new version.
+Finally, another reason to teach somebody how to do these tasks, or at least a reason to document it, is so that if something happens to you, somebody else is able to pick up where you left off and take care of the task in your absence. 
+
+There are all kinds of reasons for you not being around. You could be on vacation, in a remote location, delayed from arriving in the office or unable to make it where you need to be in order to perform the task. The list could go on and on, but the point is that if the process is documented, then the work can still get done and you will look better for it because you provided a way to take care of it, even if you were unavailable. Most people are praised for enabling their peers in getting work done, and this is no different.
+
+When it comes time to teach somebody and delegate the task, you can hand off the documentation and ask for feedback as they go through the process. When they return with the document, you can take their suggestions and incorporate them into the new version until it covers most cases.
+
 Does documenting your process take more time than just doing it yourself? Yes. I find myself avoiding documentation for just that reason. I just want to get the task done, but going through the documentation process also helps me see what I'm doing from a high level and I can then see where I can also make some improvements as well.
 
 ## Micromanage
 
-While I personally don't suffer from this particular temptation in delegation, I have been on the receiving end of it. Micromanagement is closely aligned to the "Do it myself" mentality. In this case we know we need to delegate and so we do, but then we hover or lurk while the person we have 'delegated' to performs the task. Instead of giving parameters and expectations we focus on making sure the person does the task with all the steps we expect. We cannot let go and instead focus on how and where the task is. This may stem from the thought that they need our help in order to get it right, or that they are incapable of doing it on their own without us.
+Another way people claim to delegate, but in reality do not, is when they micromanage.
 
-Instead of empowering the person the task was delegated to, we erode their confidence. If done over an extended period of time we hamper their growth and we either drive them away, make them resent us, or make them so dependent on us that they cannot do anything else without us. Eventually it becomes a self fulfilling prophecy and they become dependent on us for everything they do.
+While I personally don't suffer from this particular temptation in delegation, I have been on the receiving end of it. 
+
+Micromanagement is closely aligned to the "Do it myself" mentality. In this case we know we need to delegate and so we do, but then we hover or lurk while the person we have 'delegated' to performs the task. Instead of giving parameters and expectations we focus on making sure the person does the task with all the steps we expect. We cannot let go and instead focus on how and where the task is. This may stem from the thought that they need our help in order to get it right, or that they are incapable of doing it on their own without us.
+
+Instead of empowering the person the task was delegated to, we erode their confidence. If done over an extended period of time we hamper their growth and we either drive them away, make them resent us, or make them so dependent on us that they cannot do anything else without us. Eventually it becomes a self fulfilling prophecy and they become dependent on us for everything they do or they leave. Neither of which helps our long term goals. 
 
 ## Delegation
 
@@ -81,14 +93,15 @@ People are usually hired to help with a specific task or responsibility and usua
 
 So, how does one delegate effectively?
 
-It begins long before we ever meet with the person to be delegated to. Going into that meeting we need to have a clear picture of the outcomes we want from the delegated task and, if necessary, we need to have the specific processes and contacts listed so the person can effectively accomplish the task. Only after all these things are in place to we meet with the person.
+It begins long before we ever meet with the person to be delegated to. Going into that meeting we need to have a clear picture of the outcomes we want from the delegated task and, if necessary, we need to have the specific processes and contacts listed so the person can effectively accomplish the task. Then, after all these things are in place, we meet with the person.
 
-When we meet with them we need to describe the task, the people who can help accomplish the task and what our expected outcomes are. Once all this has been provided, then we should ask if there are any questions and finally, when those have been answered, we need to set up regular follow-up meetings so we can be informed of the tasks progress. In the beginning stages of the delegation the follow up meetings should be frequent and then as you see they need less of your support or help, you can taper off on meeting with them and begin to just get status reports. You're not telling them how to perform the task in these meetings unless they ask, but instead you are following up to see how they are doing on the task and if there is anything they need from you,
+In the meeting we describe the task, the people who can help accomplish the task and what our expected outcomes are. Once all this has been provided, we should ask if there are any questions and finally, when those have been answered, we set up regular follow up meetings so we can be informed of the tasks progress. In the beginning stages of the delegation for a specific type of task the follow up meetings should be frequent and, as you see a decrease in the amount support or help you need to provide, you can taper off on meeting with them and begin to just get status reports. You're not telling them how to perform the task in these meetings unless they ask, but instead you are following up to see how they are doing on the task and if there is any additional information or support they need from you.
 
-Once the task is complete, a final meeting is useful to see what could be improved in the process. Did they need more contact or less from you? Overall how would they like you to be involved in future assignments? This is a chance to see how you are doing on your delegation with this individual. You will find that some people will want more involvement than others and that one style of delegation does not work for everybody. It will even change depending on the task with the same person. It's more fluid because different people have different levels of confidence and competence with different tasks. Be sure to ask how much involvement they would like from you when you start off and provide opportunities for them to get more involvement from you in your regular follow-ups.
+Once the task is complete, a final meeting is useful to see what could be improved in the process. Did they need more contact or less from you? Overall how would they like you to be involved in future assignments? This is a chance to see how you are doing on your delegation with this individual. You will find that some people will want more involvement than others and that one style of delegation does not work for everybody. It will even change depending on the task with the same person. 
+
+It's more fluid because different people have different levels of confidence and competence with different tasks. Be sure to ask how much involvement they would like from you when you start off and provide opportunities for them to get more involvement from you in your regular follow up meetings. In some of those follow up meetings you may even incorporate some of these reflection questions to ensure you are providing the support they need throughout the task instead of letting it fail and evaluating in the end.
 
 Your goal, when delegating, is to get the task done, but a secondary goal is to build up the people you are working with and hopefully make them more effective in their job while helping you with yours.
-
 
 [organizedfamily]: http://www.organizedfamily.co
 
