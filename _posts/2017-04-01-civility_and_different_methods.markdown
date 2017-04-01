@@ -1,12 +1,12 @@
 ---
 title: Civility and Different Methods
 tags: [civility, culture, civilization]
-image_path: post_images/buildings.jpg
+image_path: post_images/atlas.jpg
 alt: "Civility"
 excerpt: "What are you doing to build up civilization?"
 btn_label: "Read More"
 ---
-![buildings][image]
+![atlas][image]
 
 My wife, Amy, and I host a podcast titled The Organized Family. On the podcast we talk about how we organize our family and try and juggle our schedules as well as the schedules of our five children. Recording these podcasts is a great chance for the two of us to talk about family issues, even before we get on the air. Some time ago as I was getting ready for bed, out of the blue, Amy made a comment about how our organization styles are quite different.
 
@@ -34,7 +34,7 @@ Chances are we all what the same thing: A better world for our children. We just
 We can be better than that and we should be.
 
 ----
-The image is 'Chess' by Eigenberg Fotografie. You can find it on [flickr][flickr]
+The image is 'Atlas' by Gabriela Fab. You can find it on [flickr][flickr]
 
-[image]: /images/post_images/chess.jpg
-[flickr]: https://www.flickr.com/photos/damionroeien/11122262203
+[image]: /images/post_images/atlas.jpg
+[flickr]: https://www.flickr.com/photos/59882593@N05/7889554070
