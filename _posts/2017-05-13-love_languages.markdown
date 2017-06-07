@@ -1,7 +1,7 @@
 ---
 title: 5 Love Languages
 tags: [appreciation, love]
-image_path: post_images/.jpg
+image_path: post_images/couple_toy.jpg
 alt: "Appreciation"
 excerpt: "Showing appreciation is not a one size fits all endeavor"
 btn_label: "Read More"
@@ -25,4 +25,7 @@ A more effective way to show appreciate for a person is to express appreciation 
 Ultimately showing appreciation means connecting with people on a deeper level than just a pat on the back. When we do this our interactions with people become more and you win and they feel more inclined to help us with were in a bind and just as we would feel more inclined to help them when they're in a bind. So, as you go about your day, look for how people feel appreciated and how you can best express that appreciation on multiple levels. You'll find you will connect with people on a deeper level and feel more fulfilled yourself.
 
 ----
-[image]: /images/post_images/sugar.jpg
+The image is "The Top 10 Ways to Improve Flickr" by Thomas Hawk. You can find it on [flickr][flickr].
+
+[image]: /images/post_images/couple_toy.jpg
+[flickr]: https://www.flickr.com/photos/thomashawk/5327432805
