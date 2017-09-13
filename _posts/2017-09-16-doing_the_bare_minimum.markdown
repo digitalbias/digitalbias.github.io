@@ -6,7 +6,7 @@ alt: ""
 excerpt: "Asking how much to need to do needs to be followed up with why you are asking that question in the first place."
 btn_label: "Read it!"
 ---
-![spiritual][image]
+![minimalist][image]
 
 "How much do I really need to do?"
 
