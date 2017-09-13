@@ -1,7 +1,7 @@
 ---
 title: Doing the bare minimum
 tags: [ productivity ]
-image_path: post_images/buddah_dog.jpg
+image_path: post_images/minimal_desktop.jpg
 alt: ""
 excerpt: "Asking how much to need to do needs to be followed up with why you are asking that question in the first place."
 btn_label: "Read it!"
