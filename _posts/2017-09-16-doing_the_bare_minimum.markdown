@@ -19,9 +19,9 @@ In some cases, as you look at the task at hand you may realize that you are not 
 When you ask yourself "How much do I really need to do?" be sure you are asking for the right reasons. Nobody is served when you shrink from hard stuff. Yourself included.
 
 ---
-The image is "Buddha Dog" by Hartwig HKD. You can find it on [flickr][flickr].
+The image is "A Minimal Mac Desktop" by John Dunne. You can find it on [flickr][flickr].
 
-[image]: /images/post_images/buddah_dog.jpg
-[flickr]: https://www.flickr.com/photos/h-k-d/4354787874
+[image]: /images/post_images/minimal_desktop.jpg
+[flickr]: https://www.flickr.com/photos/johndunne/3816660750
 
 [frog]: http://www.amazon.com/dp/1583762027/?tag=digitalbias-20
