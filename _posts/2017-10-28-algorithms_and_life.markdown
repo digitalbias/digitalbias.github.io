@@ -16,7 +16,6 @@ Another idea I picked up from the book dashed one of my preconceived notions: se
 
 Overall, I found the book fascinating and worth the time spent and even worth a second look and some more in-depth not taking just for the possibility of help it could provide with improving parts of my own life. If you ever get a chance, check it out.
 
-
 ---
 The image is "Control is an Option to Command" by Frederico Cintra. You can find it on [flickr][flickr].
 [image]: /images/post_images/control.jpg
