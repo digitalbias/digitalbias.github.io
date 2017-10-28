@@ -1,7 +1,7 @@
 ---
 title: Algorithms and Life
 tags: [notes, computers, productivity]
-image_path: post_images/control.png
+image_path: post_images/control.jpg
 alt: ""
 excerpt: "Computer algorithms have more to offer people than just ways to program comptuers."
 btn_label: "Read More"
@@ -18,6 +18,7 @@ Overall, I found the book fascinating and worth the time spent and even worth a 
 
 ---
 The image is "Control is an Option to Command" by Frederico Cintra. You can find it on [flickr][flickr].
+
 [image]: /images/post_images/control.jpg
 [flickr]: https://www.flickr.com/photos/fredcintra/2671822805
 
