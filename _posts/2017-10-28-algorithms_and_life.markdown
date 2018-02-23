@@ -21,5 +21,3 @@ The image is "Control is an Option to Command" by Frederico Cintra. You can find
 
 [image]: /images/post_images/control.jpg
 [flickr]: https://www.flickr.com/photos/fredcintra/2671822805
-
-
