@@ -12,5 +12,3 @@ excerpt: 'Spend more time doing what you love.<br/>Get productivity and technolo
 author_profile: false
 note: The picture is from https://unsplash.com/@danielkcheung
 ---
-
-{% include feature_row %}
