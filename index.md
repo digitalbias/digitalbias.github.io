@@ -1,6 +1,6 @@
 ---
 header:
-  overlay_image: trooper-artist.jpg
+  overlay_image: /images/trooper-artist.jpg
   overlay_color: "#5e616c"
   overlay_filter: rgba(0, 125, 255, 0.5)
   caption:
@@ -13,4 +13,4 @@ author_profile: false
 note: The picture is from https://unsplash.com/@danielkcheung
 ---
 
-{% include archive_row %}
+{% include feature_row %}

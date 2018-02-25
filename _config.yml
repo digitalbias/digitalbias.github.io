@@ -19,6 +19,7 @@ teaser                   : # filename of teaser fallback teaser image placed in 
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 future                   : false # Don't show future posts
+theme                    : minimal-mistakes-jekyll
 comments:
   provider               : "disqus" # false (default), "disqus", "facebook", "google-plus", custom"
   disqus:
@@ -81,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "David Mitchell"
-  avatar           : "bio-photo-dave.jpg"
+  avatar           : "/images/bio-photo-dave.jpg"
   bio              : "Experienced Technologist, Outdoorsman, Entrepreneur, Lifelong Learner"
   location         : "Lehi, UT"
   email            : david.c.mitchell@gmail.com
