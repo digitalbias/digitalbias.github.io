@@ -19,7 +19,8 @@ teaser                   : # filename of teaser fallback teaser image placed in 
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 future                   : false # Don't show future posts
-theme                    : minimal-mistakes-jekyll
+# theme                    : minimal-mistakes-jekyll
+remote_theme             : "mmistakes/minimal-mistakes"
 comments:
   provider               : "disqus" # false (default), "disqus", "facebook", "google-plus", custom"
   disqus:
