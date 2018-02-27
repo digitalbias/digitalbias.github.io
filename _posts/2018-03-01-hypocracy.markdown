@@ -22,12 +22,8 @@ In the other, a person is sincere, acknowledges they are weak, need help and the
 
 I think this is a major reason we are told not to judge others. We don't know a person's inner motivations. They could very well be trying as best they can and may still be failing to meet their expectations and ideals. Our job is not to judge but to reach out and help them as best we can. Love them and help them on their journey, just as we need help in our personal journey.
 
-
 ---
 The image is "17/365 ThePointer" by Gabe Austin. You can find it on [flickr][flickr].
 
 [image]: /images/post_images/the_pointer.jpg
 [flickr]:https://www.flickr.com/photos/gabaus/5770042200
-
-
-
