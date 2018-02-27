@@ -1,7 +1,7 @@
 ---
 title: Hypocracy
 tags: [religion]
-image_path: post_images/pointer.jpg
+image_path: post_images/the_pointer.jpg
 alt: ""
 excerpt: "What does it really mean to be a hypocrite?"
 btn_label: "Learn what"
@@ -26,7 +26,7 @@ I think this is a major reason we are told not to judge others. We don't know a 
 ---
 The image is "17/365 ThePointer" by Gabe Austin. You can find it on [flickr][flickr].
 
-[image]: /images/post_images/pointer.jpg
+[image]: /images/post_images/the_pointer.jpg
 [flickr]:https://www.flickr.com/photos/gabaus/5770042200
 
 
