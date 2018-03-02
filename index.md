@@ -4,11 +4,11 @@ header:
   overlay_color: "#5e616c"
   overlay_filter: rgba(0, 125, 255, 0.5)
   caption:
-  cta_label: "<i class='fa fa-clock-o'></i> Sign Up Now!"
+  cta_label: "Sign up for articles in you inbox"
   cta_url: "https://app.convertkit.com/landing_pages/93821?v=6"
-title: Are you buried?
+title: David C Mitchell
 layout: splash
-excerpt: 'Spend more time doing what you love.<br/>Get productivity and technology recommendations.<br/>Try it out by starting with the "Email Inbox to Zero" course.'
+excerpt: ''
 author_profile: false
 note: The picture is from https://unsplash.com/@danielkcheung
 ---
