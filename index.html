@@ -1,0 +1,20 @@
+---
+header:
+  overlay_image: /images/trooper-artist.jpg
+  overlay_color: "#5e616c"
+  overlay_filter: rgba(0, 125, 255, 0.5)
+  caption: "Learn. Teach. Do."
+  cta_label: "<i class='fa fa-envelope'></i> Sign up now"
+  cta_url: "https://app.convertkit.com/landing_pages/93821?v=6"
+title: David C Mitchell
+layout: splash
+excerpt: "There are three things I'm good at: Learning, Teaching and Doing. Sign up for the newsletter and learn something interesting every week."
+author_profile: false
+note: The picture is from https://unsplash.com/@danielkcheung
+---
+
+<div class="grid__wrapper">
+  {% for post in paginator.posts %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>

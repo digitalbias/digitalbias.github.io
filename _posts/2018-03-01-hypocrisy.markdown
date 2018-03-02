@@ -1,5 +1,5 @@
 ---
-title: Hypocracy
+title: Hypocrisy
 tags: [religion]
 image_path: post_images/the_pointer.jpg
 alt: ""
