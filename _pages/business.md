@@ -1,14 +1,14 @@
 ---
 layout: single
 sitemap: true
-permalink: /resources/
-title: Small Business Resources
-tags: [small business, resources, analysis]
-modified: 2015-08-18T14:53:07.573882-04:00
+permalink: /business/
+title: Business Resources
+tags: [business, resources, analysis]
 comments: true
-image:
-  feature: moro_bay.jpg
-
+header:
+  overlay_image: /images/business.png
+  overlay_filter: rgba(22,37,59,0.5)
+  caption: "Photo credit: [Business, by Groume](https://www.flickr.com/photos/groume/8565183215)"
 ---
 
 The following is a list I've been compiling on the various resources available to a small business and some of my thoughts on them. It's not intended to be comprehensive. Some solutions I've ignored because they are out of range of most small businesses either because of their complexity or their price point. If you think I've missed one, feel free to let me know and I'll include it here (even if it's in the list of those which were rejected).

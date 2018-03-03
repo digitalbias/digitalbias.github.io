@@ -1,10 +1,13 @@
 ---
 layout: single
 sitemap: true
-permalink: /author/
-title: Author Information
-tags: [writing]
+permalink: /writing/
+title: Writing
+tags: [writing, publishing]
 comments: true
+header:
+  overlay_image: /images/writing.png
+  caption: "Photo credit: [Cursive, by A. Birkan ÇAGHAN](https://www.flickr.com/photos/birkancaghan/24574037480)"
 ---
 Since I was in High School I've been writing one thing or another. I've only submitted to have anything I've written once, and that was because it was part of the assignment, however, I'm looking to change that.
 
