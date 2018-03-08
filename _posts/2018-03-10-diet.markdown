@@ -1,0 +1,28 @@
+---
+title: What kind of diet are you on?
+tags: [attitudes]
+image_path: post_images/food.png
+alt: ""
+excerpt: "We need to be judicious in what we decide to consume."
+btn_label: "Eat more"
+---
+![food][image]
+
+What kind of diet are you on?
+
+I’m not asking about what you eat. Instead I’m asking about what you are bring into your life. What kind of media are you consuming? What books are you reading? What people are you listening to? Who are you following on twitter, Facebook, Instagram? Are you even paying attention to those channels? Are you watching movies and TV? How much? Where are you getting your news? How much of that are you paying attention to? Who do you spend the most time with? What are their attitudes? What do they think about? What do they talk about?
+
+What you bring into you is what will impact you the most. If you want to be healthy then you need to focus on consuming things which will bring the best health.
+So, here is the big question: What will bring the best health? What kind of health? Are you looking to be happy? Positive? Then look for those people and things which focus on the positive. It doesn’t mean you shouldn’t be aware what is going wrong in the world. What you need to focus on is how people are talking about it.
+
+I often hear people say the world is evil and things are going downhill. There’s so much that is wrong in life. Yes, there is a lot happening in the world that is evil. People attacking athletes and trying to hack off their legs for no apparent reason. Others using nerve gas in a public area in an attempt to kill and father and his daughter. Widespread bombardments and missile strikes just add to the unrest.
+
+But that is not all that is happening in the world and if we just focus on these stories, then we would be unbalanced in our consumption. We need to remember, that in each of these stories there are good things happening. Surgeons are able to help athletes recover from these attacks and that people have donated money to help pay for rehabilitation. Police are investigating the cause of the attack and that their efforts will help contribute to measures to help keep people safe. And that their are efforts around the globe to provide relief to people suffering from wars. Organizations comprised of people like you and me and providing aid to those who have lost their homes and that refugees are provided new places to rebuild and improve their circumstances.
+
+We must remember that there is always another side to the stories we are told and look for both the good and bad and then focus on what we can do to help uplift and strengthen those around us in the best way we can.
+
+---
+The image was taken by Nam Ngo. You can find it on [flickr][flickr].
+
+[image]: /images/post_images/food.jpg
+[flickr]:https://www.flickr.com/photos/namsj/39770721125
