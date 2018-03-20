@@ -19,6 +19,7 @@ The following is a list I've been compiling on the various resources available t
 - [Xero](https://www.xero.com/us/)
 - [Wave](https://www.waveapps.com/)
 - [AndCo](https://www.and.co/)
+- [Manta](https://manta.life/) Specifically for invoicing
 
 ## Contracts
 - [Master Service Agreement - New Leaders](https://ac.newleaders.com/contracts/msa)
