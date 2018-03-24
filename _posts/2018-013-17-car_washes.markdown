@@ -6,7 +6,7 @@ alt: ""
 excerpt: "Why are there few clean cars?"
 btn_label: "Learn more"
 ---
-![food][image]
+![car][image]
 
 “Why are there so many cars that aren’t washed here?”
 
@@ -27,5 +27,5 @@ We wanted to have a paint color that hit the amount of dirt on the car because w
 ---
 The image, titled "car", was taken by A. You can find it on [flickr][flickr].
 
-[image]: /images/post_images/food.jpg
+[image]: /images/post_images/car.jpg
 [flickr]: https://www.flickr.com/photos/zenat_el3ain/4221408441
