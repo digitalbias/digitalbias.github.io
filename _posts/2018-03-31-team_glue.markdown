@@ -1,0 +1,27 @@
+---
+title: "Why are there few clean cars?"
+tags: [attitudes]
+image_path: post_images/car.png
+alt: ""
+excerpt: "Why are there few clean cars?"
+btn_label: "Learn more"
+---
+![car][image]
+
+What is is that keeps a team together? Why do people what to join a team and what is it that keeps them from going their separate ways? Or, in some cases, what makes it so they can’t wait to get away from one another?
+
+One of the things that keeps a team together are shared experiences. The thing is, these shared experiences have to be significant. They cannot be a part of the everyday experience. If you work in an office and push keys on a computer all day, that does not create a bond with you or the rest of the team. Instead you have to do something outside the normal everyday. Going to a park and throwing  a Frisbee around is a good excuse to connect to others. Or you could go to an escape room. Other activities could just be playing a game after hours or during lunch breaks. Any of these shared experiences is something that helps create a bond.
+
+There is another kind of shared experience that can create a bond: The shared trial. If the team has a tremendous deadline looming and has to pull out all the stops to make it happen, this can be a chance to build team spirit. Just don’t expect it to last. It may create a special bond, but if you don’t back it up with the less stressful, but meaningful experiences, then your team will still break up.
+
+And let’s face it, teams break up anyway. That’s the nature. You build the team to take care of a specific task and members of the team need to come and go as needed. What is important, is how they leave the team. Is it done in a way where they feel they were still valued or was there "bad blood" when they left? Who’s fault was that? Does it really matter?
+
+What matters is how you treat the person who left, because it sends a signal. Not to the person leaving, but to the people who are still on the team. "Will he treat me the same way if I leave?"
+
+Certainly a lot there to consider.
+
+---
+The image, titled "car", was taken by A. You can find it on [flickr][flickr].
+
+[image]: /images/post_images/car.jpg
+[flickr]: https://www.flickr.com/photos/zenat_el3ain/4221408441
