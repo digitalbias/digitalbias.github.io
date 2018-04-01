@@ -18,6 +18,8 @@ The following is a list I've been compiling on the various resources available t
 - [Harvest](https://www.getharvest.com/)
 - [Xero](https://www.xero.com/us/)
 - [Wave](https://www.waveapps.com/)
+- [AndCo](https://www.and.co/)
+- [Manta](https://manta.life/) Specifically for invoicing
 
 ## Contracts
 - [Master Service Agreement - New Leaders](https://ac.newleaders.com/contracts/msa)
@@ -44,3 +46,7 @@ The following is a list I've been compiling on the various resources available t
 - [Slack](https://slack.com/): Chat
 - [Asana](https://asana.com/): Project team work collaboration
 - [ImprovMX](https://improvmx.com/): Email Forwarding for an entire domain
+
+## Email Lists
+- [MailChimp](https://mailchimp.com/)
+- [ConvertKit](https://convertkit.com/)
