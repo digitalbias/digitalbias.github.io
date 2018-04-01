@@ -1,7 +1,7 @@
 ---
 title: "Conversion Rates"
 tags: [marketing]
-image_path: post_images/conversion.png
+image_path: post_images/conversion.jpg
 alt: ""
 excerpt: "What does a conversion rate tell me?"
 btn_label: "Learn more"

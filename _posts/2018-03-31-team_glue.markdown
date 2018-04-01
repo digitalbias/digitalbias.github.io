@@ -1,12 +1,12 @@
 ---
-title: "Why are there few clean cars?"
+title: "What keeps a team together?"
 tags: [attitudes]
-image_path: post_images/car.png
+image_path: post_images/glue.jpg
 alt: ""
-excerpt: "Why are there few clean cars?"
+excerpt: "What keeps a team together?"
 btn_label: "Learn more"
 ---
-![car][image]
+![glue][image]
 
 What is is that keeps a team together? Why do people what to join a team and what is it that keeps them from going their separate ways? Or, in some cases, what makes it so they can’t wait to get away from one another?
 
@@ -21,7 +21,7 @@ What matters is how you treat the person who left, because it sends a signal. No
 Certainly a lot there to consider.
 
 ---
-The image, titled "car", was taken by A. You can find it on [flickr][flickr].
+The image, titled "Glue", was taken by "Zhao !". You can find it on [flickr][flickr].
 
-[image]: /images/post_images/car.jpg
-[flickr]: https://www.flickr.com/photos/zenat_el3ain/4221408441
+[image]: /images/post_images/glue.jpg
+[flickr]: https://www.flickr.com/photos/kodomut/4654127816
