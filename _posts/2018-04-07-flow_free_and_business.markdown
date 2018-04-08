@@ -1,9 +1,9 @@
 ---
-title: "What keeps a team together?"
+title: "How Flow Free is like business?"
 tags: [attitudes]
 image_path: post_images/flow_free.png
 alt: ""
-excerpt: "What keeps a team together?"
+excerpt: "How Flow Free is like business?"
 btn_label: "Learn more"
 ---
 ![flow][image]
