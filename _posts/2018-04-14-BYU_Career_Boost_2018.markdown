@@ -8,8 +8,6 @@ btn_label: "Learn more"
 ---
 ![chess][image]
 
-"Your career is much like a chess game." That's what one of the presenters said when I was investigating schools for an MBA. I was undecided if I wanted to take the time and enroll in a program and spend that much money. Eventually I did and it has been well worth the time, money and effort.
-
 This weekend I attended the 2018 BYU Career Boost. A one day seminar where students and alumni come together and learn things they can do to improve in their career as well as get tips on interviewing, leadership and networking. It was a great day and I thought I would share what I learned in the keynotes as well as the breakouts I attended.
 
 Keynote 1:
