@@ -265,3 +265,6 @@ compress_html:
   ignore:
     envs: development
 
+head_scripts:
+  - https://code.jquery.com/jquery-3.3.1.min.js
+  - /assets/js/magnific.js
