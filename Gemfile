@@ -10,6 +10,8 @@ source "https://rubygems.org"
 # Happy Jekylling!
 gem "github-pages", group: :jekyll_plugins
 gem "minimal-mistakes-jekyll"
+gem "concurrent-ruby"
+gem "i18n"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
