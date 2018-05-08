@@ -18,8 +18,8 @@ Breakout 2: Receprocity Ring
 Industry Panel
 [![panel][career_boost_5]][career_boost_5]
 
-[career_boost_1]: /images/byu_career_boost_2018/career_boost_1.png
-[career_boost_2]: /images/byu_career_boost_2018/career_boost_2.png
-[career_boost_3]: /images/byu_career_boost_2018/career_boost_3.png
-[career_boost_4]: /images/byu_career_boost_2018/career_boost_4.png
-[career_boost_5]: /images/byu_career_boost_2018/career_boost_5.png
+[career_boost_1]: /images/mba_sketchnotes/byu_career_boost_2018/note_1.png
+[career_boost_2]: /images/mba_sketchnotes/byu_career_boost_2018/note_2.png
+[career_boost_3]: /images/mba_sketchnotes/byu_career_boost_2018/note_3.png
+[career_boost_4]: /images/mba_sketchnotes/byu_career_boost_2018/note_4.png
+[career_boost_5]: /images/mba_sketchnotes/byu_career_boost_2018/note_5.png
