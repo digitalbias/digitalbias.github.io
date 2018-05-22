@@ -25,16 +25,19 @@ title: EMBA 693R Razor's Edge
 
 [![note 10][note_10]][note_10]
 
+[![note 11][note_11]][note_11]
+
 [MBA Sketchnotes Index][index]
 
 [index]: /mba_notes/
-[note_1]: /images/mba_sketchnotes/razors_edge/note_1.png
-[note_2]: /images/mba_sketchnotes/razors_edge/note_2.png
-[note_3]: /images/mba_sketchnotes/razors_edge/note_3.png
-[note_4]: /images/mba_sketchnotes/razors_edge/note_4.png
-[note_5]: /images/mba_sketchnotes/razors_edge/note_5.png
-[note_6]: /images/mba_sketchnotes/razors_edge/note_6.png
-[note_7]: /images/mba_sketchnotes/razors_edge/note_7.png
-[note_8]: /images/mba_sketchnotes/razors_edge/note_8.png
-[note_9]: /images/mba_sketchnotes/razors_edge/note_9.png
-[note_10]: /images/mba_sketchnotes/razors_edge/note_10.png
+[note_1]: /images/mba_sketchnotes/emba_639R_razors_edge/note_1.png
+[note_2]: /images/mba_sketchnotes/emba_639R_razors_edge/note_2.png
+[note_3]: /images/mba_sketchnotes/emba_639R_razors_edge/note_3.png
+[note_4]: /images/mba_sketchnotes/emba_639R_razors_edge/note_4.png
+[note_5]: /images/mba_sketchnotes/emba_639R_razors_edge/note_5.png
+[note_6]: /images/mba_sketchnotes/emba_639R_razors_edge/note_6.png
+[note_7]: /images/mba_sketchnotes/emba_639R_razors_edge/note_7.png
+[note_8]: /images/mba_sketchnotes/emba_639R_razors_edge/note_8.png
+[note_9]: /images/mba_sketchnotes/emba_639R_razors_edge/note_9.png
+[note_10]: /images/mba_sketchnotes/emba_639R_razors_edge/note_10.png
+[note_11]: /images/mba_sketchnotes/emba_639R_razors_edge/note_11.png
