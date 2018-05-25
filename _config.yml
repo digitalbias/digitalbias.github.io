@@ -268,3 +268,4 @@ compress_html:
 head_scripts:
   - https://code.jquery.com/jquery-3.3.1.min.js
   - /assets/js/magnific.js
+  - /assets/js/ga_opt_out.ja
