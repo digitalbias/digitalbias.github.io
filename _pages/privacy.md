@@ -21,7 +21,12 @@ If you have opted in for one of the email lists, then you have said you want to 
 * I use Discord for comments. They keep track of your personal data. I just have an embedded form and feed here to their site. I don't keep track of any comments outside of their site.
 * I use GoogleAnalytics. It tracks a host of information. You are welcome to opt-out of what we collect by going clicking [this link.][opt_out].
 
+## Cookies
 
+Yup, we use them, but only in connection with what Google Analytics uses. This is a static site. Not much else happens here. 
 
+## Forms
+
+The only forms we have are related to the collection of email addresses so we can send out notofications and let you know if there may be something you are interested in that we've created. If you don't want those emails, you are welcome to unsubscribe from them. There should be a link at the bottom of the email when you get it. Click it.
 
 [opt_out]: javascript:gaOptout()
