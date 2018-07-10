@@ -16,6 +16,7 @@ These very attitudes undermine their ability to be effective change agents. If t
 I’ve met a lot of smart people in my life but the smartest ones seem to be those who know how to work with others and leverage the strengths of those around them to accomplish a worthwhile goal. Those people and the teams they lead end up being more effective in the long run than any other team or individual.
 
 And that’s smart.
+
 ---
 The image, titled "Partcipants at the the livestock and fish Ethiopia group wrokshop", was taken by "ILRI". You can find it on [flickr][flickr].
 
