@@ -68,3 +68,8 @@ Came up with the idea with two friends of mine in high school. We co-wrote a num
 Status? Needs a lot of polish before it's even decent. There are parts when I just summarized what I wanted to happened instead of actually writing the scenes.
 
 Fiction-wise, this will probably be the third book I tackle, after Rift Walker and Imperial Champion. I expect it to be somewhere around 80K words.
+
+## Project Ideas
+
+* Idiot IoT: Book that teaches how to use the Nerves to create simple but useful hardware based on the Raspberry Pi and the Beagle Boards
+* MBA Sketchnotes: A compilation of my notes and sketches from my time in the BYU MBA program.
