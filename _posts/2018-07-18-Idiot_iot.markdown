@@ -1,0 +1,30 @@
+---
+title: "Idiot IoT"
+tags: [attitudes]
+image_path: post_images/iot.jpg
+alt: ""
+excerpt: "An renewed interest in the IoT"
+btn_label: "Read about it"
+---
+![iot][image]
+
+I attended Open West 2018 and was fascinated with the ease at which we could build and program small internet connected devices. It made me want to get back into experimenting with the Raspberry Pi. I have a few (6 to be exact) and I’ve enjoyed playing with them and learning what I can and cannot do. 
+
+One of the things I learned at OpenWest was how easy it is to have these devices register and then receive information and notifications from an MCPP server. It’s easy to register an account with io.adafruit.com and then use that to do testing and trial work. When you are ready you can either got a pro account or install and host your own server (mosquito is an option).
+
+What are some things that can be created using some of these devices?
+I started looking at nerves and realized you can create an embedded web console into your device and then use that to configure the device. With that you can create a monitor for how your builds are doing. Connect the Pi to a couple of NeoPixels and you could display a status on each LED.
+
+DIY lawn monitoring using a soil monitor in places where you have trouble with water getting to. Then have it trigger the lawn watering if the level is too low.
+
+I used to run bee hives: You could monitor the temperature in there to make sure it wasn’t too hot or too cold. Connect the Pi to a simple cell module and you could have the hive anywhere you want. If you wanted to get really fancy you could then have a night camera that could track what they were doing…just have to be careful of them gumming it. Or just have the camera mounted on something outside the hive and watching for activity outside. Still a fascinating experiment.
+
+There are other ideas too. One thing I’ve thought about it creating a couple of courses where I teach some of the basics around nerves and how to connect the electronics to make it all work…because that has been the biggest problem for me, and I’m sure there are other people out there who could benefit as well.
+
+If you are interested in something like that, leave a comment below and I’ll see what I can do to post my experiments with nerves and running small projects with it and interacting with the world at large.
+
+---
+The image, titled "Workshop Internet of Things with Arduino", was taken by "WeMake Milano". You can find it on [flickr][flickr].
+
+[image]: /images/post_images/iot.jpg
+[flickr]: https://www.flickr.com/photos/wemake_cc/13847941843
