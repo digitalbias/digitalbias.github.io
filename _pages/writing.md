@@ -19,7 +19,15 @@ I'd also like to write up an article on what I use and how I do my writing. Tool
 
 Below you can see what I'm currently working on and where they are at. I'll update these every month, just to keep this fresh.
 
-**Last update:** 2017 February 10
+**Last update:** 2018 October 27
+
+### MBA Essentials
+
+**Single sentence description**: Sketchnotes with commentary on what I learned while earning my MBA.
+
+- First draft: <progress value="250" max="50"></progress>
+
+Hard to judge the progress, but I'm reviewing the images. I've completed three of the classes for the first semester. That leaves three more semesters to edit. You can sign up for a [sample chapter][mba_seeentials].
 
 ### Rift Walker
 
@@ -32,7 +40,7 @@ Below you can see what I'm currently working on and where they are at. I'll upda
 
 **Single sentence description**: A gospel-centered book on practical ways we can increase our faith in Jesus Christ.
 
-Rift walker edit needs to complete before editing this.
+I've sent this to an editor and I'm just waiting for her to get back to me.
 
 - First draft: <progress value="30000" max="30000"></progress>
 - First edit: <progress value="0" max="66"></progress>
@@ -73,3 +81,5 @@ Fiction-wise, this will probably be the third book I tackle, after Rift Walker a
 
 * Idiot IoT: Book that teaches how to use the Nerves to create simple but useful hardware based on the Raspberry Pi and the Beagle Boards
 * MBA Sketchnotes: A compilation of my notes and sketches from my time in the BYU MBA program.
+
+[mba_essentials]: /mba_essentials/
