@@ -20,12 +20,16 @@ In my effort to learn more about OKRs I came across [an article][every_day] that
 4. I feel uplifted after reading. I have a better attitude toward life. I felt the spirit
 5. I had some insights or felt some spiritual promptings while reading.
 
-Now, every day I ask the question, “How meaningful was my scripture study?” And then at the end of the week I can look at the average rank and ask, “Why was this my ranking? What kept it from being higher? What Can I do to improve my score for the following week?”
+Now, every day I ask the question, “How meaningful was my scripture study?” And then at the end of the week I can look at the average rank and ask, “Why was this my ranking? What kept it from being higher? What can I do to improve my score for the following week?”
 
 I can also use the same questions for each month and quarter. I think anything more than that it it would start to become less effective. I can’t change a year, except as I change weeks, months and quarters. But the real point is that you **can** measure intangibles aid you are willing to create specific criteria which will focus you on really important activities and actions so you can influence those activities.
+
+---
+Note: I mentioned the Live Inverview process in this post. I learned about that process in my MBA program. I've done sketchnotes of what I learned during that program and I'm working on compiling them into [book][sketchnote_book].
 
 ---
 The image above is one of my own creations based on data I have.
 
 [image]: /images/post_images/graph.png
 [every_day]: https://www.whatmatters.com/stories/okrs-for-every-day
+[sketchnote_book]: /mba_essentials/
