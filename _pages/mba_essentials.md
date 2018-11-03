@@ -23,6 +23,7 @@ And if you haven't been in the program? No problem. The text and pictures give a
 
 The current version contains one year of MBA lectures and notes distilled into an easy to read, searchable format. When you sign up you will get the chapter 1 sample in the following formats: ePub, Kindle & PDF. There are ePubs formated for the following devices: iBooks, Kobo, Nook, Google Play & a "Generic" format.
 
+Finally, as I get closer to publishing it, if there is enough interest I will publish a physical copy of the book as well.
 
 ### Sign up to stay informed
 
