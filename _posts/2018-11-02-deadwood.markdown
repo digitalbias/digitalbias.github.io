@@ -6,7 +6,7 @@ alt: "Deadwood at Dusk"
 excerpt: "Riding at dusk down a trail"
 btn_label: "Read now"
 ---
-![timp at dusk][dusk_timp]
+![timp at dusk][timp_dusk]
 
 A bit of a break from the regular fare. Instead a very short story.
 
@@ -27,7 +27,7 @@ Later, as I’m looking at the logs I see I did get a PR. Just not on deadwood.
 
 Maybe next time.
 
-[electric night][electric_night]
+![electric night][electric_night]
 
 ---
 The images in this post were taken by me on [my ride down Deadwood][tailforks].
