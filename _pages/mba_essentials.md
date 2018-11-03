@@ -13,7 +13,7 @@ _**Years of learning in a compact size**_
 #### Everybody is Busy
 You have very little time to dig through those notes you took ages ago. And then even after finding those notes, finding that bit of information you remember from class can be impossible. That's when you turn to the MBA Notebook.
 
-The MBA Notebook contains all notes and some brief descriptions for each of the topics taught in the BYU eMBA program in one easy to read volume. With both words and pictures, your memory can be jogged and you'll find your self quickly recalling what you learned in the program. You'll be on your way, taking those well honed skills and back into the work in no time.
+The MBA Notebook contains all notes and some brief descriptions for each of the topics taught in the MBA program in one easy to read volume. With both words and pictures, your memory can be jogged and you'll find your self quickly recalling what you learned in the program. You'll be on your way, taking those well honed skills and back into the work in no time.
 
 <img src="/images/lead_gen_2.png" style="max-width: 100%;height:309px;width:412.5px;display:inline">
 
