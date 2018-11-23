@@ -47,9 +47,15 @@ He nodded and said, "Whatever you guys think is right, I'm good with that." It w
 The real key now is to keep the performance as a team going. Will we be able to maintain the output? I'm not sure. But what is more important is not the output, but how it's achieved. Looking at the code that is delivered now, you can tell there is a high standard of craftsmanship, and the team is pushing for higher levels of quality.
 
 And that is a sign of a team that cares about the product and can achieve good things.
+
+----
+
+This is part 1 of what will be a 6 part series on the Team Development Model. You can read part 2,  [Best Pratices for the Forming Stage][forming].
+
 ----
 Lego image is ["Imperial Star Destroyer taking shape"][destroyer] by Reiterlied
 
 [image]: /images/post_images/stages_of_team_development.png
 [teamwork]: /images/post_images/taking_shape.jpg
 [destroyer]: https://www.flickr.com/photos/reiterlied/16564714516
+[forming]: /forming
