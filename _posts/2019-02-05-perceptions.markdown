@@ -10,7 +10,7 @@ btn_label: "Read now"
 
 One of the biggest struggles people trying to make a change struggle with is the support of others around them. They may have a bad habit they are trying to get over. Maybe they are trying to develop new abilities and skills. Maybe they have been taking classes at night and are trying to “level up” their career. In all these efforts, however, those of us around them may be holding them back.
 
-We see them for who they have been. We see them for the things they have been doing and our experiences with them. However, what we don’t see are the inner struggles, the efforts to change they are putting forth. Instead we treat them as they used to be and not as they either are or as they could be. However, in some cases we may not even b doing that.
+We see them for who they have been. We see them for the things they have been doing and our experiences with them. However, what we don’t see are the inner struggles, the efforts to change they are putting forth. Instead we treat them as they used to be and not as they either are or as they could be. However, in some cases we may not even be doing that.
 
 When we hire a person we hire them for a job. We assign them responsibilities and set them on their way. The challenge is that in some instances they may have taken a step back because they needed a break from the intensity they were struggling with in their previous position. When they have recovered we don’t see the person they were before they came to us, we just see what they were doing during the recovery. We fail to recognize what they were and what they could become. Instead we have a specific perspective of their abilities and we don’t think about what they could. We have limited them.
 
