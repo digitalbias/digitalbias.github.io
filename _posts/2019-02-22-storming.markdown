@@ -1,0 +1,29 @@
+---
+title: Best Pratices for the Storming Stage
+tags: [team development model, business, teams]
+image_path: post_images/stages_of_team_development_storming.png
+alt: "Storming"
+excerpt: "The first stage of team develpoment is storming and there are things we can do within this stage which can set us up for success in future stages."
+btn_label: "Read now"
+---
+![Storming][image]
+
+The second stage of team development is the storming phase. Many problems with teams are due to not adequately resolving the major issues which come up in this stage. Instead people get on the same page during the norming phase, but never fully develop into a cohesive unit because they fail to build the foundation in this stage that will allow them to fully address issues which may come up in this or future stages.
+
+This is the stage where the real work of team building happens. You need to establish, as a team, what norms and rules define you. How will you work together? How will you resolve differences? What is the reason you are even coming together in the first place and what are the overall vision, objectives and goals for this team?
+
+The most important things which can be created in this stage are not the goals and objectives. Often those are already determined by the mandate to create the team. Instead the most essential thing for the team to create is trust. Without a trust in one another you may get the work done, but the team will be dissatisfied and will, most likely, not produce their best work.
+Political infighting and backbiting can be some of the negative outcomes of never leaving this stage. In the beginning you are just “rubbed the wrong way” by a person. That’s fine as long as you either learn to accept it and move on or talk to the person and find a way to address it. Anything else ruins the relationship between the two team members and ultimately erodes the potential of the team.
+
+Early in my career I was part of a team that was developing some innovative products. We installed them into a couple of companies and had done some consulting work to augment that product work and help train people in how to use the technology. From the outside we looked like a highly functioning group, however, there was a lot of infighting. People regularly talked poorly about the guy running the company as well as about one another.
+
+These were very smart, intelligent and skilled people. They had great ideas and there was a lot of energy around what we were building. It was an awesome product and it had the potential to be a great team. However a majority of us were all “young and dumb” and didn’t realize that if we had worked on some fo the idiosyncrasies that annoyed one another we could have made a much bigger impact. We had let the small stuff become big enough that it impacted our ability to deliver and I think customers could tell.
+
+Getting it right in this stage is critical. This is where Crucial Conversations happen. This is where the foundations you should have set up in Forming are tested and proven out. This is where you gain clarity on what those roles and responsibilities are and who is going to take those on. This is also where you trudge through the mire and learn the skills you need to succeed. Most likely you will also require a mentor through this stage. Even mature teams could use the mentor if only to bounce ideas off of and provide an outside perspective.
+
+Finally, the mentor can regularly review with the team what the goal is, find out how everybody is doing and figure out what parts of the team need help and how that help can be most effective.
+
+When done right teams can build a solid foundation in the storming phase that will set them up for success later on in their development. If the team does not, issues raised in this stage can fester and ultimately cause rifts which will undermine both the effectiveness and efficiency of the team in the future.
+
+---
+[image]: /images/post_images/be_like_jack.jpg
