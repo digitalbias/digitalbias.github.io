@@ -31,7 +31,7 @@ This is part 3 of what will be a 6 part series on the Team Development Model. Yo
 
 ---
 
-[image]: /images/post_images/stages_of_team_development_storming.jpg
+[image]: /images/post_images/stages_of_team_development_storming.png
 
 [team_development_model]: /team-development/
 [forming]: /forming/

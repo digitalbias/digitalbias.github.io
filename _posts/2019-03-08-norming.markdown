@@ -1,7 +1,7 @@
 ---
 title: "Team Development: Norming"
 tags: [life, time, joy]
-image_path: post_images/stages_of_team_development_norming.jpg
+image_path: post_images/stages_of_team_development_norming.png
 alt: "Team Development: Norming"
 excerpt: "The third stage in the development of a team is norming."
 btn_label: "Read now"
@@ -30,7 +30,9 @@ This is part 3 of what will be a 6 part series on the Team Development Model. Yo
 
 ---
 
-[image]: /images/post_images/stages_of_team_development_norming.jpg
+[image]: /images/post_images/stages_of_team_development_norming.png
+[image]: /images/post_images/on_target.jpg
+
 
 [team_development_model]: /team-development/
 [forming]: /forming/
