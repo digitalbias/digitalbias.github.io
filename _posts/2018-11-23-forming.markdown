@@ -14,7 +14,7 @@ Team development and leadership is something I've been studying for many years. 
 In the [team development model][team_development_model], the first phase is “Forming”. This is when the members are assembling, being gathered together and when they are given their instructions or tasks to perform. When a team is forming they are excited about the job to be done and they are anxious about the new project. People are, for the most part, interested in what is going to be done and they are looking for how they will be contribute to the success of the project. The problem is that there is still uncertainty on what the project requirements are and how the individuals fit in.
 
 Clarity about the requirements is important. Having a clear, defined goal and defining the criteria on how the team will be judged as well as describing any measures which will be used to show progress on the project are also useful during this phase. Setting clear expectations on when they will report on their progress and how that will happen can make moving through this and other stages helpful.
-In addition to status checks and setting clear expectations, it is also important to let people know where they can go for help and clarification, what are good times to make that contact, and how quickly they can expect a response. 
+In addition to status checks and setting clear expectations, it is also important to let people know where they can go for help and clarification, what are good times to make that contact, and how quickly they can expect a response.
 
 In addition to letting people know about requirements, status reporting and where they can go for help, it is also useful to let people know what their roles are on the project. In some cases these roles will be assigned by the person or organization sponsoring the project. In other instances the teams will determine the division of responsibility. Usually the more formally this is done the better. If it is left as more of an ad-hoc exercise, then the team will languish in the early stages of this development model and may never become a high performing team.
 
@@ -23,8 +23,10 @@ Finally, in addition to determining roles, the last thing that should be worked 
 Once all these decisions have been made, the team should be ready to focus on the actual execution of the project. For the last part of the forming stage there may be some fumbling and experimentation but the overall sentiment of the group will be positive. Eventually the team will discover the problems of executing the project. At the point where they begin to feel more discouraged and frustrated, they have moved into the next phase: Storming.
 
 ---
+
 This is part 2 of what will be a 6 part series on the Team Development Model. You can read part 1, an brief [Overview of the Team Development Model][team_development_model]. Part 3 will be about the Storming phase.
 
 ---
+
 [image]: /images/post_images/stages_of_team_development_forming.png
 [team_development_model]: /team-development/

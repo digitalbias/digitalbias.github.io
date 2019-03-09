@@ -26,8 +26,11 @@ Finally, the mentor can regularly review with the team what the goal is, find ou
 When done right teams can build a solid foundation in the storming phase that will set them up for success later on in their development. If the team does not, issues raised in this stage can fester and ultimately cause rifts which will undermine both the effectiveness and efficiency of the team in the future.
 
 ---
+
 This is part 3 of what will be a 6 part series on the Team Development Model. You can read part 1, an brief [Overview of the Team Development Model][team_development_model] and part 2 [Forming][forming].
+
 ---
+
 [image]: /images/post_images/stages_of_team_development_storming.jpg
 
 [team_development_model]: /team-development/
