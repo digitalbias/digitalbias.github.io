@@ -1,0 +1,35 @@
+---
+title: "Team Development: Norming"
+tags: [life, time, joy]
+image_path: post_images/stages_of_team_development_norming.jpg
+alt: "Team Development: Norming"
+excerpt: "The third stage in the development of a team is norming."
+btn_label: "Read now"
+---
+![norming][image]
+
+While not completely aligned in their focus on the goal and how to get there,  teams in the norming stage are “over the hump” when it comes to major conflicts. They have established agreements on how they will work together, have a good idea of where they are going and team members better understand one anothers strengths and weaknesses. But there is a danger.
+
+Their new found peace after moving out of the storming stage can be destroyed if they let small things fester and grow and they can easily backslide into the storming stage. This is a delicate time and marks the transition time with one big question: Do they have what it takes to be a high functioning team?
+
+The two most critical things to success in this stage are communication and trust. Let's look at each of these in turn.
+
+Communication is an essential part of any team, but it cannot be just any kind of communication. When people are fighting and arguing they are “communicating in a sense of the word. The problem is that most of the communication is one way. The people are expressing their feelings, but not recieving what the other is saying except as fodder for how they will respond.
+
+The key to communication in high performing teams is honest, open communication where one side expresses their thoughts and opinions without feeling like it will be used against them. Each person in the team listens with the intent of understanding the other person. They want to hear the other side and are open and willing to change their viewpoint if the other person has a convincing enough case. They could be said to "have strong opionions, loosely held."
+
+High performing teams also have trust. After moving through the storming stage and coming to agreement on how you will operate as a team, now is the time to show you will abide by those agreements. The norming stage is when you show the other team members they can rely on you to do your part. It is also the stage where you show them that they can be open and honest with you without feel of recremination and retribution of any kind.
+
+If done correctly the trust built in this stage will help the team build confidence. Confidence that the person next to them will deliver what they need at the time they need it. Confidence that they have the teams best interests at heart. Confidence that as a team they can reach the objective. It’s all about the confidence and trust. But in this stage that trust is fragile. They have just come through a rough patch and while they have some trust, if it’s broken too many times in this stage, then they will fall back into the storming stage.
+
+Be careful. Be open. This is the time to double down on the communication and openness. To do otherwise would jeopardize the success of the project as a whole. And then what’s the point of having the team in the first place if that is the case?
+
+---
+This is part 3 of what will be a 6 part series on the Team Development Model. You can read part 1, an brief [Overview of the Team Development Model][team_development_model], part 2 [Forming][forming] and part 3 [Storming][storming].
+---
+
+[image]: /images/post_images/stages_of_team_development_norming.jpg
+
+[team_development_model]: /team-development/
+[forming]: /forming/
+[storming]: /storming/
