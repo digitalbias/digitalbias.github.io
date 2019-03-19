@@ -19,15 +19,17 @@ I'd also like to write up an article on what I use and how I do my writing. Tool
 
 Below you can see what I'm currently working on and where they are at. I'll update these every month, just to keep this fresh.
 
-**Last update:** 2018 October 27
+**Last update:** 2019 March 19
 
 ### MBA Essentials
 
 **Single sentence description**: Sketchnotes with commentary on what I learned while earning my MBA.
 
-- First draft: <progress value="250" max="50"></progress>
+- First draft: <progress value="250" max="300"></progress>
 
-Hard to judge the progress, but I'm reviewing the images. I've completed three of the classes for the first semester. That leaves three more semesters to edit. You can sign up for a [sample chapter][mba_seeentials].
+Hard to judge the progress, but I'm reviewing the images. I've completed three of the classes for the first semester. That leaves three more semesters to edit. You can sign up for a [sample chapter][mba_essentials].
+
+What is still left: I have 2 more images to update and then the text for every one of the classes with their descriptions still to do.
 
 ### Rift Walker
 

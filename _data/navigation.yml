@@ -3,17 +3,14 @@ main:
   - title: All Articles
     url: /year-archive/
 
-  - title: Business
-    url: /business/
-
-  - title: Outdoors
-    url: /outdoors/
+  - title: Presentations
+    url: /presentations/
 
   - title: Writing
     url: /writing/
 
-  - title: Play
-    url: /play/
+  - title: Business Resources
+    url: /business/
 
   - title: Subscribe
     url: /subscribe/
