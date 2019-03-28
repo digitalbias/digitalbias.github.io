@@ -44,8 +44,13 @@ The following is a list I've been compiling on the various resources available t
 
 ## Communication
 - [Slack](https://slack.com/): Chat
+- [Riot](https://about.riot.im/): Chat, similar to Slack
 - [Asana](https://asana.com/): Project team work collaboration
 - [ImprovMX](https://improvmx.com/): Email Forwarding for an entire domain
+
+## Media Tools
+- [Quicktime](http://): Screen, audio and camera recording software. Preinstalled on the Mac
+- [Loopback](https://rogueamoeba.com/loopback/): Can record audio from one source on the computer to another receiving source on the computer.
 
 ## Email Lists
 - [MailChimp](https://mailchimp.com/)
