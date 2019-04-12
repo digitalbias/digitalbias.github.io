@@ -14,6 +14,9 @@ The need for developer resources is only increasing and while you may like the n
 * [PowerPoint Presentation][ppt]
 * [Job Evaluation XLS][xls]
 
+It was also recorded. You can watch the [video] on YouTube.
+
 [keynote]: /files/next_move.key
 [ppt]: /files/next_move.pptx
 [xls]: /files/job_evaluation.xlsx
+[video]: http://bit.ly.com/next_move
