@@ -1,7 +1,7 @@
 ---
 title: Humor as a leadership trait
 tags: [humor, leadership]
-image_path: post_images/humor.png
+image_path: post_images/laughing.png
 alt: "Humor as a leadership trait"
 excerpt: "Humor is a powerful tool which every leader should develop"
 btn_label: "Read now"
@@ -21,7 +21,7 @@ Telling stories like that is a natural gift and while it is one I don’t have a
 Are there things in your life that if you were to change your perspective, would be better and could bring a little cheer into your life and the lives of those around you? If you are not naturally comedic, is there some way you can incorporate humor into your conversations that can help those you lead? I look forward to hearing how you have developed humor and how you use it in the comments below.
 
 ---
-The image, titled "On the map of Gotheburg ii", was taken by "Kristina Alexanderson". You can find it on [flickr][flickr].
+The image, titled "Laughing", was taken by "Eric Ward". You can find it on [flickr][flickr].
 
-[image]: /images/post_images/humor.jpg
-[flickr]: https://www.flickr.com/photos/kalexanderson/5023917952
+[image]: /images/post_images/laughing.jpg
+[flickr]: https://www.flickr.com/photos/a4gpa/155421589
