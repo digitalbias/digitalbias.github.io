@@ -1,7 +1,7 @@
 ---
 title: Why we don't need superheroes
 tags: [personal development, superheroes]
-image_path: post_images/heroes.jpg
+image_path: post_images/hulk.jpg
 alt: "Why we don't need superheroes"
 excerpt: "I love superheroes as a genre, but when it comes to real life, I think I'll take a pass."
 btn_label: "Read now"
@@ -26,7 +26,7 @@ Everything.
 If we rely on somebody else to keep us safe. To remove the trials and obstacles we encounter in our every day lives, then we are giving up the challenges. We are not overcoming the experiences which will help us grow and improve. We are abdicating growth and fulfillment for momentary happiness or at the very least a lack of pain. We are limiting ourselves and thus denying ourselves of our chance to become everyday heroes. And those are the things which are most inspiring. Everyday people who do extraordinary things and inspire us in our ability to stretch and say “If they can do that, maybe I can too.”
 
 ---
-The image, titled "6/365", was taken by "UmmZ". You can find it on [flickr][flickr].
+The image, titled "Dr Banner..Hulk shadow", was taken by "Leo Leung". You can find it on [flickr][flickr].
 
-[image]: /images/post_images/be_like_jack.jpg
-[flickr]: https://www.flickr.com/photos/34143066@N08/3825748813
+[image]: /images/post_images/hulk.jpg
+[flickr]: https://www.flickr.com/photos/mleung311/9149274460
