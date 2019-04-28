@@ -27,7 +27,7 @@ Below you can see what I'm currently working on and where they are at. I'll upda
 
 - First draft: <progress value="250" max="300"></progress>
 
-Hard to judge the progress, but I'm reviewing the images. I've completed three of the classes for the first semester. That leaves three more semesters to edit. You can sign up for a [sample chapter][mba_essentials].
+Hard to judge the progress, but I'm reviewing the images. I've completed three of the classes for the first semester. That leaves three more semesters to edit. You can sign up for a [sample chapter][mba_notebook].
 
 What is still left: I have 2 more images to update and then the text for every one of the classes with their descriptions still to do.
 
@@ -84,4 +84,4 @@ Fiction-wise, this will probably be the third book I tackle, after Rift Walker a
 * Idiot IoT: Book that teaches how to use the Nerves to create simple but useful hardware based on the Raspberry Pi and the Beagle Boards
 * MBA Sketchnotes: A compilation of my notes and sketches from my time in the BYU MBA program.
 
-[mba_essentials]: /mba_essentials/
+[mba_notebook]: /mba_notebook/

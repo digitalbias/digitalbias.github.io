@@ -1,8 +1,8 @@
 ---
 layout: single
 sitemap: true
-permalink: /mba_essentials/
-title: MBA Essentials
+permalink: /mba_notebook/
+title: The MBA Notebook
 tags: [writing, mba]
 ---
 
@@ -11,9 +11,10 @@ tags: [writing, mba]
 _**Years of learning in a compact size**_
 
 #### Everybody is Busy
+
 You have very little time to dig through those notes you took ages ago. And then even after finding those notes, finding that bit of information you remember from class can be impossible. That's when you turn to the MBA Notebook.
 
-The MBA Notebook contains all notes and some brief descriptions for each of the topics taught in the MBA program in one easy to read volume. With both words and pictures, your memory can be jogged and you'll find your self quickly recalling what you learned in the program. You'll be on your way, taking those well honed skills and back into the work in no time.
+The MBA Notebook contains all notes and some brief descriptions for each of the topics taught in the MBA program in one easy to read volume. With both words and pictures, your memory can be jogged and you'll find yourself quickly recalling what you learned in the program. You'll be on your way, taking those well honed skills and back into the work in no time.
 
 <img src="/images/lead_gen_2.png" style="max-width: 100%;height:309px;width:412.5px;display:inline;border: 1px solid #ddd;border-radius: 4px;padding: 5px;">
 
@@ -21,9 +22,7 @@ And if you haven't been in the program? No problem. The text and pictures give a
 
 <img src="/images/lead_gen_3.png" style="max-width: 100%;height:309px;width:412.5px;display:inline;border: 1px solid #ddd;border-radius: 4px;padding: 5px;">
 
-The current version contains one year of MBA lectures and notes distilled into an easy to read, searchable format. When you sign up you will get the chapter 1 sample in the following formats: ePub, Kindle & PDF. There are ePubs formated for the following devices: iBooks, Kobo, Nook, Google Play & a "Generic" format.
-
-Finally, as I get closer to publishing it, if there is enough interest I will publish a physical copy of the book as well.
+The current version contains one year of MBA lectures and notes distilled into an easy to read, searchable format. When you sign up you will get the chapter 1 sample in the following formats: ePub, Kindle & PDF. There are ePubs formatted for the following devices: iBooks, Kobo, Nook, Google Play and a "Generic" format.
 
 ### Sign up to stay informed
 
