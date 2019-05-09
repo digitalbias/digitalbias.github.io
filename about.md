@@ -4,7 +4,6 @@ sitemap: true
 permalink: /about/
 title: About
 ---
-
 I'm something of a productivity and self improvement nerd (in addition to just being a general sci-fi/fantasy nerd). I played D&D in High School, collected comic books and hung out with the rest of the people in my school who were interested in that kind of stuff. I ran track and cross country as well, but my real interest was just in reading books and imagining new worlds with my friends.
 
 I was so into the nerd culture that my friends and I designed comic books and other science fiction stories which still bounce around in my brain, looking for a way to get out. [I still work on some of those ideas](/author) and I split my time between reading science-fiction/fantasy books and reading self-help/productivity/business books.
