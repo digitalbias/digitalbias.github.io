@@ -8,7 +8,7 @@ btn_label: "Read now"
 ---
 ![flower][image]
 
-Sometimes an existing technology can be leveraged to solve a business problem you didn't know you had. Usually when I think of the virtual reality space I think about games and bulky headsets. VR is certainaly not the first thing I think about when I consider office productivity and innovation. Augmented reality, sure, but not virtual reality. Until recently I did not see how VR could be applied well in a business environment.
+Sometimes an existing technology can be leveraged to solve a business problem you didn't know you had. Usually when I think of the virtual reality space I think about games and bulky headsets. VR is certainly not the first thing I think about when I consider office productivity and innovation. Augmented reality, sure, but not virtual reality. Until recently I did not see how VR could be applied well in a business environment.
 
 Virtual reality games are very immersive and can be cool to play. They give you a sense of reality and make it just that much more life-like. If you can get past the headset on your face and engage in the experience then it can be a fun couple hours before you have to step away either because of motion sickness or because your face is just too hot from the headset.
 
