@@ -27,7 +27,7 @@ Finally, it can create some isolation and look goofy to all the other people aro
 While I think the Immersed VR is a great application and have started to use it at home, it is going to be a while before I even think about suggesting we get more of them for the office.
 
 ---
-The image, titled "6/365", was taken by "UmmZ". You can find it on [flickr][flickr].
+The image, titled "Woman Using a Samsung VR Headset at SXSW", was taken by "Nan Palmero". You can find it on [flickr][flickr].
 
 [image]: /images/post_images/virtual_reality.jpg
-[flickr]: https://www.flickr.com/photos/34143066@N08/3825748813
+[flickr]: https://www.flickr.com/photos/nanpalmero/16237219524/
