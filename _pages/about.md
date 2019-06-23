@@ -84,5 +84,5 @@ And you can see what I recently read and at least a rating on what I felt about 
 [mci]: https://www.microsoft.com/en-us/learning/mct-certification.aspx
 [padi]: https://www.padi.com/scuba-diving/padi-courses/course-catalog/advanced-open-water-diver-course/
 
-[goodreads_current]: https://www.goodreads.com/review/list/5605780-david-mitchell?shelf=currently-reading&sort=position
+[goodreads_current]: https://www.goodreads.com/review/list/5605780-david-mitchell?order=a&shelf=currently-reading&sort=position
 [goodreads_read]: https://www.goodreads.com/review/list/5605780-david-mitchell?order=d&shelf=read&sort=date_read
