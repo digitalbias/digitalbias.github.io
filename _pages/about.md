@@ -26,7 +26,7 @@ Together with my wife, we host a weekly podcast where we shared tips, tricks and
 
 I specialize in Software Development, Development Process, Personal and Team Leadership.
 
-In my free time I play games with my children, hike, camp, play soccer and mountain biking. I haven't done Aikido for a while, but want to pick it back up. I just need a place that is convenient to practice.
+In my free time I play games with my children, hike, camp, play soccer and mountain bike. I haven't done Aikido for a while, but want to pick it back up. I just need a place that is convenient to practice.
 
 ## Top 5 Board Games
 
