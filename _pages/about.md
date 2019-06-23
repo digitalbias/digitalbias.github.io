@@ -35,7 +35,7 @@ In my free time I play games with my children, hike, camp, play soccer and mount
 * Warmachine
 * Imperial Assault
 * Tiny Epic Galaxies (actually almost any game from the Tiny Epic line)
-* My Little Scythe (Bonus choice)
+* My Little Scythe (Bonus choice...good for family play with people who don't like other games like the ones above)
 
 ## Top 5 Video Games
 
@@ -56,9 +56,15 @@ In my free time I play games with my children, hike, camp, play soccer and mount
 * Most Recommended Novel: Alloy of Law, Steelheart or Legion (depends on the person)
 * Most Recommended Business/Self-Improvement book: Getting Things Done or How Will You Measure Your Life (depends on the person)
 
+## Reading
+
+You can see what I am currently reading on [Good Reads][goodreads_current].
+
+And you can see what I recently read and at least a rating on what I felt about it on [Good Reads][goodreads_read] as well.
+
 ## Degrees/Certifications/Awards
 
-* MBA from BYU in 2019 (expected)
+* MBA from BYU in 2019
 * BS in Computer Science from BYU in 1996
 * Shodan, Aikido, [Aikikai Foundation][aikikai]
 * Certified Scrum Master (License #: 358020), [Scrum Alliance][scrum_master]
@@ -77,3 +83,6 @@ In my free time I play games with my children, hike, camp, play soccer and mount
 [delphi]: https://groups.google.com/forum/#!topic/comp.lang.pascal.delphi.misc/mu5f2W4QSxI
 [mci]: https://www.microsoft.com/en-us/learning/mct-certification.aspx
 [padi]: https://www.padi.com/scuba-diving/padi-courses/course-catalog/advanced-open-water-diver-course/
+
+[goodreads_current]: https://www.goodreads.com/review/list/5605780-david-mitchell?shelf=currently-reading&sort=position
+[goodreads_read]: https://www.goodreads.com/review/list/5605780-david-mitchell?order=d&shelf=read&sort=date_read
