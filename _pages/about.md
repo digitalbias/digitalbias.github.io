@@ -20,13 +20,13 @@ I grew up as the child of an US Air Force officer and spent the first 14 years o
 
 I spent the next 20 years working for a variety of companies within the Salt Lake and Utah counties including as a partner in [nStar Global Services][nstar]. For a full resume you can look at my [linkedin profile][linkedin].
 
-In addition to his experience with software development, I has also been an active volunteer with the Boy Scouts of America Utah National Parks Council in a number of different positions including Council Advancement Chairman and Vice President of Program.
+In addition to my experience with software development, I have also been an active volunteer with the Boy Scouts of America Utah National Parks Council in a number of different positions including Council Advancement Chairman and Vice President of Program.
 
-Together with my wife, David hosted a weekly podcast where we shared tips, tricks and advice on how to raise and run an [organized family][organized_family].
+Together with my wife, we host a weekly podcast where we shared tips, tricks and advice on how to raise and run an [organized family][organized_family]. We put the podcast on pause while I worked on my MBA. I expect we'll start up again soon...just after the summer of crazy.
 
-I specializes in Software Development, Development Process, Personal and Team Leadership.
+I specialize in Software Development, Development Process, Personal and Team Leadership.
 
-In his free time I play games with his children, hikes, camps, plays soccer and has recently begun mountain biking.
+In my free time I play games with my children, hike, camp, play soccer and mountain biking. I haven't done Aikido for a while, but want to pick it back up. I just need a place that is convenient to practice.
 
 ## Top 5 Board Games
 
