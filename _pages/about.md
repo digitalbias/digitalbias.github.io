@@ -56,6 +56,8 @@ In my free time I play games with my children, hike, camp, play soccer and mount
 * Most Recommended Novel: Alloy of Law, Steelheart or Legion (depends on the person)
 * Most Recommended Business/Self-Improvement book: Getting Things Done or How Will You Measure Your Life (depends on the person)
 
+(Yup, it's only 4...making up for the video games ;-) )
+
 ## Reading
 
 You can see what I am currently reading on [Good Reads][goodreads_current].
