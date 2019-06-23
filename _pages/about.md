@@ -33,8 +33,9 @@ In his free time I play games with his children, hikes, camps, plays soccer and 
 * Legendary
 * Genesys RPG/Star Wars RPG
 * Warmachine
-* Imperial Assult
-* Tiny Epic Galaxies
+* Imperial Assault
+* Tiny Epic Galaxies (actually almost any game from the Tiny Epic line)
+* My Little Scythe (Bonus choice)
 
 ## Top 5 Video Games
 
@@ -44,6 +45,9 @@ In his free time I play games with his children, hikes, camps, plays soccer and 
 * Divinity: Original Sin
 * The Legend of Zelda: Breath of the Wild
 * Overcooked
+* Final Fantasy VI
+
+(Yup, it's more than 5...)
 
 ## Top 5 Random Stuff
 
@@ -51,7 +55,6 @@ In his free time I play games with his children, hikes, camps, plays soccer and 
 * Most Recommended Author: Brandon Sanderson
 * Most Recommended Novel: Alloy of Law
 * Most Recommended Business/Self-Improvement book: Getting Things Done
-* 
 
 ## Degrees/Certifications/Awards
 

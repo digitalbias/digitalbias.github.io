@@ -82,6 +82,5 @@ Fiction-wise, this will probably be the third book I tackle, after Rift Walker a
 ## Project Ideas
 
 * Idiot IoT: Book that teaches how to use the Nerves to create simple but useful hardware based on the Raspberry Pi and the Beagle Boards
-* MBA Sketchnotes: A compilation of my notes and sketches from my time in the BYU MBA program.
 
 [mba_notebook]: /mba_notebook/
