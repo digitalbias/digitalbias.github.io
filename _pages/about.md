@@ -53,8 +53,8 @@ In my free time I play games with my children, hike, camp, play soccer and mount
 
 * Star Wars vs Star Trek -> Old Star Wars, New Star Trek
 * Most Recommended Author: Brandon Sanderson
-* Most Recommended Novel: Alloy of Law
-* Most Recommended Business/Self-Improvement book: Getting Things Done
+* Most Recommended Novel: Alloy of Law, Steelheart or Legion (depends on the person)
+* Most Recommended Business/Self-Improvement book: Getting Things Done or How Will You Measure Your Life (depends on the person)
 
 ## Degrees/Certifications/Awards
 
