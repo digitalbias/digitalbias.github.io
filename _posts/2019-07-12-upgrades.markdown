@@ -1,0 +1,29 @@
+---
+title: Upgrades
+tags: [personal development, productivity]
+image_path: post_images/upgrades.jpg
+alt: "Upgrades"
+excerpt: "Upgrades are both adding as well as removing features from products."
+btn_label: "Read now"
+---
+![upgrades][image]
+
+Typically when we think of upgrades we talk about adding more features or improving a system to increase performance. Rarely do we think that an upgrade may include removing a feature or functionality. Yet, that can sometimes be more effective and help improve the ability of a system to function faster.
+
+There are all kinds of reasons for removing features. The feature may not have been used that often. It could be causing confusion for users. It may be dragging other parts of the system down in terms of performance. It may have been written poorly and need to be refactored. It could have been replaced with something more efficient in doing the job it was originally supposed to do. I’m sure you could have thought of a number of others that are not listed here as well. The real question is: Do we have the courage to remove those features?
+
+It always feels awkward and almost like we are betraying our past self when we remove code. Maybe somebody will miss it. What if we need it there for the future? There is always a reason for keeping it, but the tough call is making the decision to take it out anyway and having the courage to say that if we need it we know where to find it, or we can design it again if we want and maybe even make that feature better. There is a good reason for thinking about removing it.
+
+And we are the same.
+
+We have features, ways of working, habits that may be dragging us down. There could be a relationship that is toxic or just not working out for us that takes more time and energy than it is worth. We need to consider what and how to remove those from our lives. The habits and the processes are the easy part, but the relationships? Those are much harder to abandon or put on hold. There is an entire category of literature about tragic breakups and how to deal with them.
+
+And yet they are a necessary part of life.
+
+The question is: Are you going to have the courage to pull the trigger and make the change you need in order to get out of life what you really want?
+
+---
+The image, titled “Rose", was taken by "UmmZ". You can find it on [flickr][flickr].
+
+[image]: /images/post_images/upgrades.jpg
+[flickr]: https://www.flickr.com/photos/34143066@N08/3825748813
