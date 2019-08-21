@@ -1,0 +1,29 @@
+---
+title: Planning
+tags: [productivity]
+image_path: post_images/planning.jpg
+alt: "Planning"
+excerpt: "Planning is good...usually."
+btn_label: "Read now"
+---
+![planning][image]
+
+Planning seems to always take longer than the actual activity does. And even if it does not, it sure feels like it. When I consider the amount of time it takes to plan a weekend campout, I’m surprised. There is the location to consider, the food, the activities and then there is the packing. If you are somebody who is really cautious, then you also plan for safety as well. Making sure you know where the nearest hospital is, if they take your insurance, making sure you have a first aid kit that can take care of possible injuries. The list can go on and on.
+
+When you think about it, planning is mostly an attempt to mitigate risk. What are the chances we will not have a place to sleep? Find and reserve a camp site. What are the chances we won’t be able to find food? Bring your own food. What kinds of injuries could occur? Bring a first aid kit for what you can handle and plan for how to handle the major ones. The list can be endless.
+
+When I was a kid we didn’t care about that kind of stuff. We just grabbed a sleeping bag and left. Of course what we didn’t see where the adults in the background taking care of the minutia and the details of the trip.
+
+Or not.
+
+If we went hungry for a night, that was no biggie and we remembered the next time.
+
+Having the chance to fail is okay, as long as it is failing in a small way. A way that does not risk serious injury or worse. Everything else can be seen as a teaching opportunity as long as we take the time to reflect on the experience and incorporate the learning into our current practices.
+
+Otherwise it just becomes a crazy story to tell later.
+
+---
+The image, titled "Girolimon Residence- Landscape Plan", was taken by "Jay@MorphoLA". You can find it on [flickr][flickr].
+
+[image]: /images/post_images/planning.jpg
+[flickr]: https://www.flickr.com/photos/53783050@N07/5694248921
