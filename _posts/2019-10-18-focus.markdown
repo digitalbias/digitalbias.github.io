@@ -1,0 +1,32 @@
+---
+title: What do you focus on?
+tags: [personal development, productivity]
+image_path: post_images/focus.jpg
+alt: "What do you focus on?"
+excerpt: "Too often we are so focused on what we are trying to do that we forget about enjoying the journey."
+btn_label: "Read now"
+---
+![focus][image]
+
+What we focus on is what ends up being tracked and what we work on the most.
+It appears to be a law of nature: What we focus on is what gets the most results. When you focus on loosing weight, you tend to see ways to eat healthier all over the place. You also see the things which can tempt you and cause you to fail in your efforts.
+
+Years ago, after it had been announced that there was going to be another Star Wars movie to follow up from the original trilogy, I was excited. I would see Star Wars stuff all over the place. Toys, stickers, cards, and books. My wife and I would be walking through the store and I would point out a couple things to her and she would just nod and say that I had Star Wars on the brain.
+
+And she was right.
+
+I was focused on it and because of that I would see it everywhere. Since that time I have tried to be more aware of what I was seeing in my environment and then ask myself if I was seeing it because I was focused on it or if there was some other reason for noticing it and why that was.
+
+More often than not, the reason I notice things has been because I have been focused on that particular topic. I may want to have something sweet to eat so all I see in the store are the cookies and fruit. I may be focused on trying to find a way to fix a problem on a bike and so all I may see are the tools and parts necessary to fix that tricky gear shifter. Unconsciously I tell my brain that I want something and then it points those things out to me during the course of my day.
+
+Putting the brain to work on problems in the background is a wonderful thing and I think if we were to do that more often we would find a lot of problems solved with much less effort.
+
+And here is the kicker: If we focus on positive, productive things, we will continue to see more positive, productive things in life. However, when we focus on the negative, degrading and depressing things, those too will continue to appear in our perception. It is no wonder that people are depressed and find lots of complain about. When that is all you think about and see in the world around you, you are bound to feel depressed.
+
+That makes it all the more important to see if you can chance your mind and change your perception of life and focus on the positive. Focus on the things that bring true happiness. Only then will life be enjoyable.
+
+---
+Photo by Michal Vrba on [Unsplash][unsplash]
+
+[image]: /images/post_images/focus.jpg
+[unsplash]: https://unsplash.com/photos/NFj60C46JA8
