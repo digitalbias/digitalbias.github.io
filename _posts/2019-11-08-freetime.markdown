@@ -1,0 +1,23 @@
+---
+title: Free time
+tags: [play, personal development]
+image_path: post_images/freetime.jpg
+alt: "Free time"
+excerpt: "Having nothing to do can be one of the best places to be in."
+btn_label: "Read now"
+---
+![freetime][image]
+
+Free time is important. It provides a needed break from the routine and regular activities you are engaged in. It also provides a time when you can work on projects you many have been neglecting. An added benefit is that when you reflect on what you use your free time to do, it can provide interesting insights on what is important to you and what you value more above the other things you could be doing but decided not to pursue.
+
+This added benefit to free time can then influence your regular activities. If you find that you spend your free time tinkering with code or working on home improvement projects, then you know what hobbies you could possibly use in the future for either an added income, or just what to focus your time on later when you have a more extended amount of free time. If it is only a couple hours a day that is one thing, but if your upcoming free time is more along the lines of a couple days that can also be insightful. For example, if you have a couple days and spend it outdoors hiking that says something different than spending that time working on the yard or taking a trip to another state. 
+
+They are booth good uses of downtime, but the activities are significantly different.
+
+Of course it is also worth considering that free time is different from vacation time. You may take a vacation to go to other obligations for family or friends. That is not necessarily free time, but just a different kind of obligation you are engaged in to help keep your life in balance. No, free time is what do you do when you have nothing scheduled or planned to do. When you look at what you do when there is “nothing to do” that really speaks to who you are and what you like to do.
+
+---
+Photo by Michael Martinelli on [Unsplash][unsplash].
+
+[image]: /images/post_images/freetime.jpg
+[unsplash]: https://unsplash.com/photos/MLIOmzv01FU
