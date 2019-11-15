@@ -1,0 +1,34 @@
+---
+title: Trigger Your Habits
+tags: [personal development, productivity]
+image_path: post_images/trigger.jpg
+alt: "Triggers and Habits"
+excerpt: "Triggers are a powerful way of kicking habits into high gear."
+btn_label: "Read now"
+---
+![trigger][image]
+
+There are times when you just don’t feel like doing anything. For instance you just do not want to get out of bed or that pile of dishes in the sink leeres at you from the corner of your eye, no matter how much you are stoically avoiding looking at it. The challenge isn’t so much an understanding that you need to do a particular thing, it is dredging up the willpower to begin executing or working on that specific thing. What can you do in order to launch yourself out of bed or at the dishes in order to make things happen? How do people who are have the will to do those things do it? How can you motivate yourself to do the hard things?
+
+There are any number of things a person can do in order to motivate themselves. In some cases, the idea of a reward is enough to motivate. In other cases the idea that you have people depending on you to deliver can be sufficient to get you moving. In yet other cases, an appeal to your personal higher motivations can be helpful. For example, telling yourself that you will be saving the ozone level by washing your dishes may be enough for you. However, the most effective, at least for me, has been building a trigger and a habit.
+
+Believe it or not, sometimes writing can be a chore. Thinking of an idea, putting words to “paper” and crafting logical progression from one idea to another can be a challenge, but each of those comes just that much easier when I incorporate a trigger. For writing my trigger is opening up Scrivener. There is just something about opening up that application that just starts me off. I see the blank screen and can just start typing. From there things just flow. Getting the words comes easier, the ideas come together and before I know it, my goal is completed.
+
+This, however, has taken time to create.
+
+When I was trying initially to create this habit I would get on the train, open up Sublime Text and write my goals for the day. Usually that was completed by the time I reached the next train station. From there I would save the file and then open up Scrivener and just look at the page for a bit. For a while I would consider brainstorming and planning my “writing” time. Every time I opened the app I would look at what ideas I had out there and think of more and if something struck me I would write, with the idea that 300 words was enough to consider my writing time a success.
+
+Then I didn’t need to plan anymore, I just sat down and started writing. The ideas would come and the planing was natural. But I created the habit over the course of almost 4 years.
+
+[James Clear][james_clear], in his book [Atomic Habits (affiliate link)][atomic_habits], talks about triggers and habit stacking. If you are interested in getting more done and being productive in your live, I recommend reading his book and finding things you can use as triggers to build habits that make your success automatic.
+
+It has worked for me because over the last 4 years I have written three books, over 100 blog posts and completed an MBA all while working a full time job, volunteering in the community and spending time with my family. It is just a matter of triggers and habits.
+
+---
+The image, titled "Rube Goldberg machine at LAX", was taken by "Nacho Facello". You can find it on [flickr][flickr].
+
+[image]: /images/post_images/trigger.jpg
+[flickr]: https://www.flickr.com/photos/nachof/2482912078
+
+[james_clear]: https://jamesclear.com/
+[atomic_habits]: http://www.amazon.com/dp/0735211299/?tag=digitalbias-20
