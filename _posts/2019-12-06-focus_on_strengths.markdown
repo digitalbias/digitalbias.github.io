@@ -19,8 +19,8 @@ If I were to focus my energy on Woo I would be working to overcome something tha
 So, focus on your strengths and find ways to expand them into areas and into situations where you would be naturally awkward or uncomfortable. In this way you can be an even stronger version of yourself. 
 
 ---
-The image, titled "Rose", was taken by "UmmZ". You can find it on [flickr][flickr].
+Photo by Vicky Sim on [Unsplash][unsplash].
 
 [image]: /images/post_images/strength.jpg
-[flickr]: https://www.flickr.com/photos/34143066@N08/3825748813
-[clifton]: dfdfd
+[unsplash]: https://unsplash.com/photos/mj51pZwan9c
+[clifton]: https://www.gallup.com/cliftonstrengths/en/252137/home.aspx
