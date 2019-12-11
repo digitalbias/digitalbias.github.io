@@ -1,0 +1,21 @@
+---
+title: Learning from feedback
+tags: [personal development]
+image_path: post_images/feedback.jpg
+alt: "Learning from feedback"
+excerpt: "there is no one list or universally accepted collection of attributes which make a “good” leader."
+btn_label: "Read now"
+---
+![feedback][image]
+
+I recently heard a phrase from a friend about him being in “permanent beta.” I thought this was a great way of looking at a person and how they want to change and improve as a person. One of the best ways to learn about what is needed to improve is to look at where you are right now and determine what you want to change. A great way ot doing this is to ask people to give you feedback on what you are doing now and what people see as a result and then determine what direction you want to go from there.
+
+One of the more challenging things I think is determining what aspects or fiends you want to look at in order to improve. For example, if you want to be better as a manager, what qualities do you work on that will make you a better manager? Even more difficult is determining what you need to work on as a leader because there is no one list or universally accepted collection of attributes which make a “good” leader. The best you can hope for is to take a look at some of the people you admire and determine what it is about them that you like and then work to grow in those qualities.
+
+Personally there are a number of people who I admire, but I don't want to be them, just incorporate aspects of them. The feedback you get shines a light on where you need to focus and the people who are strong in those areas are the examples you would then emulate. Feedback is the tool that lets you do just that.
+
+---
+Photo by Priscilla Du Preez on [Unsplash][unsplash].
+
+[image]: /images/post_images/feedback.jpg
+[unsplash]: https://unsplash.com/photos/F9DFuJoS9EU
