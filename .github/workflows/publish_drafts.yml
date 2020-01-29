@@ -1,4 +1,4 @@
-name: Publish Drafts
+name: autopublish
     
   on:
     schedule:
