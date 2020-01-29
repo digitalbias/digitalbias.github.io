@@ -12,7 +12,7 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - name: Jekyll Publish Drafts
-      uses: soywiz/github-action-jekyll-publish-drafts@master
+      uses: digitalbias/github-action-jekyll-publish-drafts@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         jekyll_path: ./
