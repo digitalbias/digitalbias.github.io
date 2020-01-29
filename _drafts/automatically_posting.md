@@ -9,5 +9,3 @@ date: 2020-01-29 08:00:00 -0700
 ---
 
 This is mostly being posted to see if I can get the autoposting feature to work.
-
-Just another update
