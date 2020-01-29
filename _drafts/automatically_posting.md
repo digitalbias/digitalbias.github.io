@@ -5,7 +5,7 @@ image_path: post_images/flower.jpg
 alt: "Enjoy the simple things"
 excerpt: "Too often we are so focused on what we are trying to do that we forget about enjoying the journey."
 btn_label: "Read now"
-date: 2020-01-29T08:00:00-0700
+date: 2019-01-29 08:00:00 -7000
 ---
 ![flower][image]
 
