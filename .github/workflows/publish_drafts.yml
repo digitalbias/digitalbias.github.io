@@ -2,7 +2,7 @@ name: autopublish
     
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/60 * * * *'
   
 jobs:
   build:
