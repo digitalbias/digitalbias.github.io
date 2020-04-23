@@ -14,7 +14,7 @@ Virtual reality games are very immersive and can be cool to play. They give you 
 
 Virtual reality tours are pretty cool. Being able to see what a place looks like without having to go there is nice. I’d rather be there, but it at least give a better idea than some pictures. I can see them being something that could be useful before visiting a place for a business trip or if you don't think you will be able to see some sights.
 
-For me, though, the thing that can have a major impact on how VR is adopted is Immersed VR. This is a pretty cool technology. Instead of needing to buy multiple monitors and then worry about placement for them, you can buy an Oculus Go, install Immersed VR on the machine and have multiple screens in a much smaller space.
+For me, though, the thing that can have a major impact on how VR is adopted is [Immersed VR][immersed_vr]. This is a pretty cool technology. Instead of needing to buy multiple monitors and then worry about placement for them, you can buy an Oculus Go, install Immersed VR on the machine and have multiple screens in a much smaller space.
 
 There are a few limitations, however.
 
@@ -31,3 +31,4 @@ The image, titled "Woman Using a Samsung VR Headset at SXSW", was taken by "Nan 
 
 [image]: /images/post_images/virtual_reality.jpg
 [flickr]: https://www.flickr.com/photos/nanpalmero/16237219524/
+[immersed_vr]: https://immersedvr.com/
