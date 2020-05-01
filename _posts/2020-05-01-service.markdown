@@ -1,0 +1,36 @@
+---
+title: Service
+tags: [leadership]
+image_path: post_images/help.jpg
+alt: "Service"
+excerpt: "Too often we are so focused on what we are trying to do that we forget about enjoying the journey."
+btn_label: "Read now"
+date: 2020-04-28T06:00:00-0700
+---
+![help][image]
+
+Intellectually I have always known that you love those you serve, but it was not until recently that I realized how true that is.
+
+I was thinking about those times when I have connected with the people around me. I asked myself “who do I feel the most camaraderie with? Who are the people I feel like I could call up and just talk to for a while? Who are the people I feel the most love or concern for, outside my family?”
+
+As I started answering those questions I looked for the next logical question, “Why? Why do I feel such a connection to these people? What is it about my experience with them that makes my continue to look at them with those same feelings?” The answer was that I felt that way because I was truly engaged in serving them. It was not just something I was doing. I was not just engaged with the service because it was a task I was assigned and I was performing my duty. It was something I wanted to do.
+
+I had learned to love those people and had connected with them because I was genuinely concerned for their welfare. I wanted the best for them and tried my hardest to make sure they were successful in whatever they were engaged in. I was all in.
+
+What’s interesting is that I can look at specific relationships within the same company and see that while I was engaged with one group, I may not have been engaged with another group to the same level and eventually I left that place because of that lack of engagement. 
+
+Which has led to another insight: You cannot be engaged with just one group, but instead you have to engage with everybody with that same intensity, dedication and caring. If there is one thing I have failed to do in my career and in my life as a whole, it is engage with everybody at the same level or intensity.
+
+Yet great people do just that. Not successful people, but great people. Great people engage with people in such a way that they know you care deeply for their personal success. You want the best for them and you have a genuine desire to help them in the best way you can for their best welfare. In one situation that may be giving them the $100 they need. In another case it may be helping them find a way to earn that $100. And in another it may be politely declining. But it is based on their circumstances and in a desire to help them as much as you can with what will best help them.
+
+You are genuinely interested in serving them and do so over an extended period of time. That is true service and it engenders a long-lasting, true, personal connection. A connection which never goes away.
+
+As I reflect back to on the people and situations where I felt most connected, it is that genuine desire to help, uplift and serve that has made the difference. As I consider what life looks like going forward I cannot help but think that I can do just a little better in serving all those around me in the same way I have served specific groups in the past. 
+
+My hope in sharing this is that maybe all of us can push a little more toward that same goal.
+
+---
+Photo by Austin Kehmeier on [Unsplash][unsplash].
+
+[image]: /images/post_images/help.jpg
+[unsplash]: https://unsplash.com/photos/lyiKExA4zQA
