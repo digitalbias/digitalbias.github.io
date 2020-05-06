@@ -1,0 +1,26 @@
+---
+title: Vision
+tags: [leadership]
+image_path: post_images/vision.jpg
+alt: "Vision"
+excerpt: "."
+btn_label: "Read now"
+date: 2020-05-10T08:00:00-0700
+---
+![vision][image]
+
+“Where there is not vision the people perish” (Proverbs 29:18). It is often cited as a reason why people lack direction or do not make progress in where they are trying to go within a company. What is incongruous with this sentiment is the next part of that verse in the Bible: “but he that keepeth the law, happy is he.”
+
+That makes no sense when talking about vision the way it is normally quoted in circles now days. What makes much more sense when considering that passage of scripture is that when a person does not focus on their overall goal of life or the vision of seeing themselves in heaven and does what is necessary to get there, then they will perish.
+
+For example, if a person neglects to obey the commandments and feast on the word of God, they lack the vision of the eternities. The lack the vision of the potential that is right there for them to lay hold on. 
+
+Vision can also, in this passage of scripture, refer to divine communication from God. A person’s openness to inspiration and changes they need to make in their individual lives can lead them to have a “vision” or can be termed “vision” in general. When people lack this inspiration, they fall away from the path, are lead to rationalization and justifications and eventually “perish.”
+
+And yet, we can still apply this phrase to business as well. If we lack the inspiration and direction we need to apply to the business, if we do not follow the current objectives for the company and how it aims to improve the lives of its customers, then the company itself will flounder and eventually perish. While the original intent of the verse is to focus people on the inspiration from God and obeying His commandments, if a company does not adhere to true principles and have a long term, inspiring goal for how they intend to leverage their strengths to serve their customers, then the company will spiral into oblivion.
+
+---
+Photo by Rahul Bhosale on [Unsplash][unsplash].
+
+[image]: /images/post_images/vision.jpg
+[unsplash]: https://unsplash.com/photos/yBgC-qVCxMg
