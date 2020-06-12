@@ -1,0 +1,30 @@
+---
+title: Systems are everywhere
+tags: [personal development]
+image_path: post_images/more_gears.jpg
+alt: "Systems are everywhere"
+excerpt: "If we take the time to look around, we can see systems all over."
+btn_label: "Read now"
+date: 2020-06-12T06:00:00-0700
+---
+![gears][image]
+
+I’m a systems guy. When I say something like that people automatically think computer systems, based on my background. The thing is that this is only partially the truth. The actual truth is that I was first attracted to computers because they ran systems, but it is far away from the only kind of system I am interested in.
+
+I find myself fascinated with game systems. Computer, board, card, social, etc. I like to read those rule books and find out how those games work. I enjoy learning about the game systems and so I have a ton of games which I rarely play, but whose rule books I have read and enjoyed.
+
+I also enjoy learning about human systems. The process a person goes through to create a painting, write a book, create a company, engage with a customer are all fascinating to me. The methods they use and the nuances they work in to accomplish their tasks are all interesting and I love to learn more about how they function and if there is any kind of special part of their process.
+
+And then I like to tinker with the processes and look for ways to improve them based on what they have told me are the key results and outcomes they are looking for. If a person tells me they are looking to improve their conversion ratio in their sales process, I start to look at the activities they are engaged in and see if they can improve that process by eliminating pain points for the users/prospects. What are they doing that is creating friction or dropping the ball or leads in their process? These are the kinds of questions I love to dig into and learn. 
+
+Then I enjoy brainstorming with them on what they feel are the potential solutions to the problem. When we can put some measurable items into the mix that makes it even more powerful because we can improve not just the process, but we can prove we have made it better. And that makes the experience even more satisfying for me…and hopefully for the person I am working with as well.
+
+If we take the time to look around, we can see systems all over. There are systems for how we make dinner in our home. How we pay bills. How we get ready for bed. How we get ready for the day. There may even be things in our systems which are extraneous. Things that were once necessary but no longer serve a purpose. If we take the time to reflect on these systems, we may find ways of making them more efficient and therefore help ourselves become more productive or have more time.
+
+When you get a chance today, take look at some of your more common habits and routines and see if there is something you can cut out.
+
+---
+Photo by Bill Oxford on [Unsplash][unsplash].
+
+[image]: /images/post_images/more_gears.jpg
+[unsplash]: https://unsplash.com/photos/-fGqsewtsJY
