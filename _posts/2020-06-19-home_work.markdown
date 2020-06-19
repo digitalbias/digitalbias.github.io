@@ -1,0 +1,31 @@
+---
+title: Working From Home
+tags: [health, career]
+image_path: post_images/work-from-home.jpg
+alt: "Just because we are working from home, it doesn't mean we should kill ourselves to be productive."
+btn_label: "Read now"
+date: 2020-06-19T06:00:00-0700
+---
+![work-from-home][image]
+
+For some reason, when we work from home or are self-employed we think that if we do not maximize every minute of an 8 hour day, we are not being productive and that the boss is going to find out, or that even if that does not happen, then we are robbing our clients, our company or that we are not being the best employee we possibly could. We end up working even more hours than we would if we were going into an office and we beat ourselves up for any spare time we are away from our desk.
+
+The fact is that even when we are are not working from home, not every minute is productive. Sometimes we are just walking from one meeting to another. In other cases we are talking with people about stuff that has nothing to do with the work we perform for our company. We might be talking about the weekend, the game from last night, or the delicious cookies our coworker brought in this morning.
+
+Does this mean that we are terrible employees for engaging in those activities when at work? No. Some of those are part of the glue that keeps us together as companies and makes the difficult conversations we have easier to hold.
+
+Does that mean that when we talk with our kids or step away from the desk to get a breath of fresh air in the back yard that we are not being good employees? No. People are not robots and a robot could not do what many of us do every day (no matter how advanced the AI and robots become). We need physical and mental breaks in order to function well and productively. Talking periodic breaks and getting out to enjoy nature can actually boost productivity and help you do well in your tasks.
+
+And that same thing goes on a daily basis. There are going to be some days when you are not feeling it. While showing up and doing the work may be hard, at least going through the motions and getting something out for the day can help. Every little bit of additional work you get done, even if it was just a small amount today, can help you tomorrow. 
+
+During this period of time I have had my own struggles with feeling like I am as productive as I would like, but I take comfort in the fact every night when I go to bed I tell myself, tomorrow will be better.
+
+And it usually is. Mostly because I needed that extra day to just let things percolate a bit longer before working on the critical issues I needed to resolve. That extra day of less productivity to let my mind work and come up with necessary solutions. 
+
+So, if you find you are beating yourself up because of a “lack of productivity” just be kind to that person in the mirror and tomorrow ask yourself what was holding you back. Chances are that extra day will bear unexpected fruit and propel you much farther than you would have if you just muscled through it.
+
+---
+Photo by Charles Deluvio on [Unsplash][unsplash].
+
+[image]: /images/post_images/work-from-home.jpg
+[unsplash]: https://unsplash.com/photos/n7Cq2rdd73E
