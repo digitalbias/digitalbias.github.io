@@ -1,0 +1,32 @@
+---
+title: WWSMD
+tags: [career, productivity]
+image_path: post_images/example.jpg
+alt: "WWSMD"
+excerpt: "As developers, I think one of the biggest problems we find ourselves falling into is doing the abstractions too soon."
+btn_label: "Read now"
+date: 2020-06-26T06:00:00-0700
+---
+![example][image]
+
+About three years ago out company hired Sandi Metz to come to our offices and provide some training on object oriented programming using Ruby. It was a good experience and we had a number of chances to interact with her. Today somebody made a comment about DRY and doing the wrong abstraction and it made me think about the training itself. They asked how the training influenced my programming style and process. 
+
+One of the biggest things I picked up from the training with Sandi Metz was not worrying about making things too perfect. Too often I think we, as developers, try to anticipate what is going to happen to the code in the future. For example, we look at the backlog and see what is coming down the pipe and decide that we should craft the code in a specific way so we can make things easier for ourselves when that feature comes.
+
+We take the opportunity to employ DRY concepts into our code and because we anticipate the new features we make abstractions too early. We change code and push it up into modules or object hierarchies too soon. Before the training with Sandi I found I wanted to do that a lot. I wanted to find the right abstraction and would go through the gang of 4 book looking for the right paradigm to employ in a specific situation. If I was refactoring some code I would look at Fowler for ideas and tips and then execute until I had very little, if any, duplication. It was a thing of wonder.
+
+Until product decided to pivot.
+
+Then all my beautiful abstractions were trashed. I had to take code and shift it around because the object hierarchy didn’t match the requirements. What could have been a quick change now became an exercise in major rewrite because the models were too tightly related. 
+
+Now I don’t even begin to think about moving code into a module or another object until I’ve seen it repeated 3 times. Only then do I begin to even ask if it makes sense to become a bit DRYer. 
+
+As developers, I think one of the biggest problems we find ourselves falling into is doing the abstractions too soon. We think we know the correct architecture and plan it out, only to find we made the wrong trade offs because we didn’t understand the domain or because the business changed underneath us. Sandi taught me to pull back the reins on the part of me that wants to make a good design and wait until the code absolutely calls for it. It’s more art than science in finding when that time is, and I find myself still doing it too soon sometimes.
+
+So, now, more often than not, I find myself asking What Would Sandi Metz Do. WWSMD
+
+---
+Photo by magnezis magnestic on [Unsplash][unsplash].
+
+[image]: /images/post_images/example.jpg
+[unsplash]: https://unsplash.com/photos/TW62wXQ6Omc
