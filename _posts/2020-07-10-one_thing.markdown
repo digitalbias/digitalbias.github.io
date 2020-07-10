@@ -1,0 +1,25 @@
+---
+title: One Thing
+tags: [productivity]
+image_path: post_images/one_thing.jpg
+alt: "One Thing"
+excerpt: "If you can just do the one thing, then you can call the rest of the day a success."
+btn_label: "Read now"
+date: 2020-07-10T06:00:00-0700
+---
+![one_thing][image]
+
+A friend of mine was recently in an accident. Due to the severity of the accident he lost his left leg. He is still recovering and part of what the doctors and physical therapist have counseled him to do is to just focus on getting one thing done every day. If he can just do the one thing, then he can call the rest of the day a success. Those are wise words even for those of us who are not dealing with a major life altering injury.
+
+If we focus on just getting that one thing done and make sure that we recognize that if that one thing is all we accomplish for the day, then it makes sure we focus on the absolute most important thing to do that day. Everything else becomes secondary. While some may say that is an essentialist way of thinking, in some cases it is all you can do to get that one thing done, but it may not be the highest leverage thing you could do. Sometimes you just have to take care of business.
+
+For example, the highest leverage thing you might be able to do could be working on hiring somebody to take care of phone calls for you, however, if you need money before you can hire that person, then you may have to take a couple steps back down the path and work on getting just a little bit more income before hiring that person. Maybe you need to sell some stuff, or cut some expenses. Maybe looking at your budget may be the higher leverage activity instead of the actual hiring process. Your eventual goal could be getting that person hired, but the steps before you can start that project have to be completed before you can tackle it, and that becomes the highest priority.
+
+Still, you should not feel bad if you spend your entire day combing through the expenses and finding the spare change to take on that new person. You did the one thing and moved in a positive direction to the ultimate goal. Be kind to yourself and recognize that you are making progress.
+
+And that is really all we can ask.
+
+---
+<span>Photo by <a href="https://unsplash.com/@freegraphictoday?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">AbsolutVision</a> on <a href="https://unsplash.com/s/photos/thing?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+
+[image]: /images/post_images/one_thing.jpg
