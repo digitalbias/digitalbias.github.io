@@ -5,7 +5,7 @@ image_path: post_images/fine_print.jpg
 alt: "Read the fine print"
 excerpt: "Try to understand the point of view and the frame of reference the person presenting you the story is coming from and then try and make you own, informed decision about how much you trust a source or not."
 btn_label: "Read now"
-date: 2020-07-30T06:00:00-0700
+date: 2020-07-31T06:00:00-0700
 ---
 ![fine_print][image]
 
