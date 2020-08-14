@@ -1,6 +1,6 @@
 ---
 title: Marginal Gains
-tags: [ personal development,]
+tags: [ personal development]
 image_path: post_images/marginal_gains.jpg
 alt: "Marginal Gains"
 excerpt: "In the hands of an expert what looks like a piece of junk can be transformed into a masterful performance."
