@@ -1,0 +1,30 @@
+---
+title: Mile Wide and an Inch Deep
+tags: [rant]
+image_path: post_images/inch_deep.jpg
+alt: "Mile Wide and an Inch Deep"
+excerpt: "Going an inch deep and a mile wide can be worthwhile as well."
+btn_label: "Read now"
+date: 2020-09-25T06:00:00-0700
+---
+![inch_deep][image]
+
+I’ve often heard the phrase go an inch wide in a mile deep. Usually that’s used in reference to creating products or learning information and trying to dig deep into specific topics so that you teach well and that you create things that specifically target a niche. And this is great advice and I think it’s it’s worthwhile and it’s something that that if you’re creating a product that’s what you want to do, but then there are other things which people want which aren’t necessarily that in-depth but they want to know just because they’re curious more than anything else.
+
+In that case then shows more like “dirty jobs “with Mike Rowe are viable sources of information and entertainment. I think one of the things that made that show so popular was the fact one of the main actors went out and did jobs that were just awful. People enjoyed watching him suffer. But another aspect of that program was the fact that people could see what other people had to do for employment and in many cases it made him grateful for the jobs they had.
+
+The most appealing aspect for me was learning about different jobs and what went into them. For example I learned what is involved in tanning a hide. I knew that you scraped off and kind of got the basic hide but then I didn’t realize was that there are multiple chemical baths involved and and how it really stunk. I kind of knew some of that but just seeing the videos and and hearing the reactions of people and all the intricacies that went into it was fascinating.
+
+The show was, for all intents and purposes, an inch deep and a mile wide. Mike Rowe gave us a smattering of information on one particular job. He didn’t go into a whole lot of detail. He didn’t become an expert in any of them. But he did a ton of different jobs and the rest of us got to be beneficiaries of that experience. 
+
+I miss shows like that. 
+
+You can keep your reality TV shows. You can keep your game shows.You can keep your serialized daily dramas. Just give me programs that educate and inform and I would be happy. 
+
+At least with television.
+
+---
+<span>Photo by <a href="https://unsplash.com/@bubo?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Lubo Minar</a> on <a href="https://unsplash.com/s/photos/chasm?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+
+[image]: /images/post_images/inch_deep.jpg
+
