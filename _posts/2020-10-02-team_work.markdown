@@ -1,0 +1,20 @@
+---
+title: Team Work
+tags: [leadership]
+image_path: post_images/valuing_people.jpg
+alt: "Team Work"
+excerpt: "People want to feel valued."
+btn_label: "Read now"
+date: 2020-10-02T06:00:00-0700
+---
+![valuing_people][image]
+
+Sometimes you have to do more than you signed up for. Some times it’s less than you thought it would be. Sometimes it is easier than you thought. But no matter what the level of effort, the important thing is that you keep up the communication and espre de corps. I think everybody wants to be successful and everybody feels like they are doing what they can. If there is somebody not pulling their weight, chances are there is a good reason for it. You just need to find out what that reason is. Once you address that reason, as soon as the reason goes away, they are likely to step up and want to contribute. Usually. Sometimes they are not and you have to make a change to the team, for the effectiveness of the team.
+
+People want to feel valued. They want to feel they are contributing. Often people feel guilty for not doing enough because they see how hard everybody else is working and they don’t feel like they have contributed enough. I know I have felt that way many times, but then I have to remember that there have been times when I have pulled the cart harder. It’s a trade off and as long as we all keep that in mind and have a willingness to step if and ask if somebody needs help with a task, then everything will be okay. What is more important is that the team feels they are doing everything they can. If the team has the right mix of people and they are willing to step up and do whatever work is necessary, then it doesn’t matter what the task is. The team can handle it because the resources will be divided, the work assigned and the follow up executed.
+
+---
+<span>Photo by <a href="https://unsplash.com/@sharonmccutcheon?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Sharon McCutcheon</a> on <a href="https://unsplash.com/s/photos/value?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+
+[image]: /images/post_images/valuing_people.jpg
+
