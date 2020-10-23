@@ -1,0 +1,30 @@
+---
+title: Think it? Ink it
+tags: [productivity]
+image_path: post_images/ink_it.jpg
+alt: "Think it? Ink it"
+excerpt: "The phrase 'if you think it, ink it' is actually a really good moto to live by. But it doesn’t just have to be 'ink.'"
+btn_label: "Read now"
+date: 2020-10-23T06:00:00-0700
+---
+![ink_it][image]
+
+I don’t know how many times I have had an idea and then have lost it because I forgot to write it down. Blog post ideas, story ideas, email messages and a host of other ideas have been lost, never to come back because I neglected to take notes on what I thought. Usually this happens while I am in the bathroom. And more often than not, it is while showering. I’ll have an idea and then go about my business and I get thinking about something else or I move on to another idea and neglect to take notes. By the time I am dressed and in a position to take notes, the idea is long gone.
+
+So how do you solve something like this?
+
+The phrase “if you think it, ink it” is actually a really good moto to live by. But it doesn’t just have to be “ink.” 
+
+There are any number of tools out there that you can use to take down some messages or ideas. The first most people use is a pen or pencil and paper. Go figure right? That one is so obvious that it really should not be worth mentioning. However there is a twist. When scuba diving talking is a difficult thing. So divers will typically employ hand signals to communicate what they want to say. However when those fail them, there is another stand by method that does not fail: the pencil and a white plastic board. 
+
+With the correct type of plastic a diver can write on the board and communicate with the other diver with no problems. The same kind of tool can be used in the bathroom to jot down those ideas that come to you while showering. We all have them, and now you have a tool to capture them before they wash down the drain along with your shampoo.
+
+Another tool you could use is your phone. Many phones now days are water resistant or water proof. You can speak a command and start dictating the idea to the phone. Problem solved. Its like having a stenographer right there in the bathroom with you, just not as awkward.
+
+Finally, the last thing you could do is use a grease pencil and write on the shower walls themselves. While not the most ideal solution and I really would not be the one who has the clean up the mess afterwards, it would still be effective.
+
+---
+<span>Photo by <a href="https://unsplash.com/@laurachouette?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Laura Chouette</a> on <a href="https://unsplash.com/s/photos/ink-it?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+
+[image]: /images/post_images/ink_it.jpg
+
