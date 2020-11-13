@@ -1,0 +1,27 @@
+---
+title: Timeout
+tags: [personal development,leadership]
+image_path: post_images/timeout.jpg
+alt: "Timeout"
+excerpt: "Too often we are so focused on what we are trying to do that we forget about enjoying the journey."
+btn_label: "Read now"
+date: 2020-11-13T06:00:00-0700
+---
+![timeout][image]
+
+When our children were younger and they fought with one another we would often send them to time out. Depending on the severity of the fight or the level of emotion involved in the scuffle we would lengthen or decrease the amount of time they were in time out, with a minimum amount of time based on how old they were. We would then check in with them to see how they were doing at the end of the time out. They had to explain why they were sent to time out and then they would be allowed to go on their way. Hopefully they were not return back to the same behavior as before, but there were some rare occasions when that happened as well.
+
+Wether you call it “Going to the Balcony” or “Taking a Break” or even “Vacation” adults need time outs as well. Usually we need vacation time to recharge and to get away from the regular grind associated with work. Sometimes we need to sit on a particularly thorny issue that needs finesse to solve. In some cases we just need to get away from the people, politics and problems before we say or do something we might regret later.
+
+In all these cases we are putting ourselves in time out. What I think we fail to do is do the reflection necessary before reengaging in the situation which caused us to put ourselves into time out. I better approach would be to ask ourselves a couple questions before fully coming back. For example:
+
+* “Do I still feel like this is as important an issue as I did before I disengaged?”
+* “What would I do if I were in the other persons shoes?”
+* “If future, wiser and more mature me were to give me advice on this, what would he say?”
+
+Using these as a guide, we can better prepare outselves to handle tough situations and problems which come up and thus make a better use of the timeouts we take.
+
+---
+<span>Photo by <a href="https://unsplash.com/@keagankharris?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Keagan harris</a> on <a href="https://unsplash.com/s/photos/timeout-chair?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+
+[image]: /images/post_images/timeout.jpg
