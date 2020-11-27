@@ -1,0 +1,23 @@
+---
+title: Quick Wins
+tags: [personal development]
+image_path: post_images/quick_win.jpg
+alt: "Quick Wins"
+excerpt: "By combining areas of focus with efficient goals, you can propel yourself to reaching difficult goals."
+btn_label: "Read now"
+date: 2020-11-27T06:00:00-0700
+---
+![quick_win][image]
+
+“What is the one thing you can do that will make everything easier or irrelevant?” That is the core question behind the book “The One Thing.” You just keep asking yourself that question until you have either cut everything out or have accomplished what you set out to do. You can even apply it to different areas of your life. For example, just ask, “What is the one thing I can do in my family that will make all the other things easier or irrelevant?” Hum. Maybe a better question would be “What is the one thing I can do that will improve my relationship with my family above all other things I could do?” That’s the essential question. You want to find those activities which will cut out the need for other activities. The most effective from a time and effort point of view. 
+
+Another article I read recently promoted the idea of finding ways to combine tasks. For example, if you are trying to improve your health, then find ways to do that, while also engaging co-workers and family in the effort. One example they used in their article was a CEO who wanted to run a marathon. He got a group of people from work to train with him and his wife went to the marathon with him and when she saw his flagging enthusiasm toward the middle of the race, she went out and ran with him for a while. Both his work and family were engaged in the effort.
+
+If you combine both of these ideas you then get the highest leverage activities you can find because you are combining areas of focus with the activities which are the most likely to give you the best results. For me, I have have mountain biking as a way to improve my health and to get outdoors. In addition I regularly invite my wife and son to go out with me. Finally, there are a number of people at work and in my neighborhood who bike. So, by incorporating this one activity into my life I can improve my health, my relationship with family members, with people at work and in my neighborhood.
+
+What activities do you do or what activities can you start that will hit multiple areas in your life?
+
+---
+<span>Photo by <a href="https://unsplash.com/@andreaelphotography?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Andrea Lightfoot</a> on <a href="https://unsplash.com/s/photos/quick-win?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+
+[image]: /images/post_images/quick_win.jpg
