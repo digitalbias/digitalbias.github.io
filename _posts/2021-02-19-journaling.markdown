@@ -11,11 +11,17 @@ date: 2021-02-19T06:00:00-0700
 
 I used to be a terrible journal writer. 
 
-If I did write, it was often just sporadic and lacked any kind of structure. Not that the lack of structure is a bad thing, I sometimes still do that, but I also felt like I need to write something of a novel for each day. 
+If I did write, it was often just sporadic and lacked any kind of structure. Not that the lack of structure is a bad thing, I sometimes still do that, but I also felt like I needed to write something of a novel for each day. 
 
-I still don’t write a novel every day, but my journal entries are much better now and I have a specific direction and I have only missed a couple days since June 2011. That’s when I discovered something called the [Five Minute Journal][five_minute_journal]. Combined with [TextExpander] writing a journal entry has become a fairly easy exercise. I take longer than 5 minutes, but that’s still okay.
+Now my journal entries are much better and I have a specific direction for what I write. With this system I have only missed a couple days since June 2011 because I have used the [Five Minute Journal][five_minute_journal] combined with [TextExpander] for helping add some consistency and automation to the process. Writing a journal entry has become an easy exercise. I admit that it takes longer than 5 minutes, but that’s still okay because I have added a few things to the original questions.
+
+Here's how the system works.
+
+### Overview
 
 Every morning I fill out a simple questionnaire that helps me focus for the day and then every night I fill out another that helps me think about what I have done for the day. Add this practice to the next day planning and I have a good idea of what I should be working on for the day.  My shortcuts “;5am” and “;5pm” are easy to type and the fillable form makes it easy for me. I don’t have to remember what the questions are, I just have to write my responses. That makes it easier because then I can just focus on writing well thought out responses. 
+
+### Details 
 
 I open a blank text file, type my shortcut for the morning and then answer the questions. At the end of the day I open the same file, type the evening shortcut and answer the questions. Then I rename the file from “draft_journal.txt” to the date using another [TextExpander] shortcut which I named “;journal_filename”. It puts in the current date in with “journal” at the front of the file. 
 
