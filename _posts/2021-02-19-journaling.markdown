@@ -23,9 +23,9 @@ Every morning I fill out a simple questionnaire that helps me focus for the day 
 
 ### Details 
 
-I open a blank text file, type my shortcut for the morning and then answer the questions. At the end of the day I open the same file, type the evening shortcut and answer the questions. Then I rename the file from “draft_journal.txt” to the date using another [TextExpander] shortcut which I named “;journal_filename”. It puts in the current date in with “journal” at the front of the file. 
+I open a blank text file, put in the date header for the day. Then I type my shortcut for the morning (;5am) and then answer the questions. At the end of the day I open the same file, type the evening shortcut (;5pm) and answer the questions. Then I rename the file from “draft_journal.txt” to the date using another [TextExpander] shortcut which I named “;journal_filename”. It puts in the current date in with “journal” at the front of the file (You can see the snippit below).
 
-I have another process on my computer called “Hazel” which takes that file and moves it to my journal archive, which is just a directory on my computer called “Journal” which has a folder under it for each month. If I ever want to see a particular entry I can go to that directory and find the month and then open the specific file in that folder. They are all text files so that makes it easy to use no matter what OS or device I am on. Everybody can read a text file.
+I have another process on my computer called “Hazel” which takes the renamed file and moves it to my journal archive. The Journal Archive is just a directory on my computer called “Journal” which has a folder under it for each month. If I ever want to see a particular entry I can go to the archive and find the month and then open the specific date file in that folder. They are all text files so that makes it easy to use no matter what OS or device I am on. Just about everything can read a text file these days, which is why I use that format.
 
 The system has taken a while to perfect, but I can write a journal entry on my phone, tablet or my computer easily and that is the point. Making the journaling process simple has made it much easier to be consistent.
 
