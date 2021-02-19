@@ -24,6 +24,81 @@ I have another process on my computer called “Hazel” which takes that file a
 The system has taken a while to perfect, but I can write a journal entry on my phone, tablet or my computer easily and that is the point. Making the journaling process simple has made it much easier to be consistent.
 
 ---
+
+### TextExpander snippits
+
+#### 5 AM Snippit
+
+```
+## Morning Five Minute Journal
+(Month: January) (Day: 1), (Year: 2001)
+(Hour: 1 (1-12)):(Minute: 01) (AM/PM)
+
+### I am grateful for...
+1. (grateful1)
+2. (grateful2)
+3. (grateful3)
+
+### What will I do to make today great?
+1. (great1)
+2. (great2)
+3. (great3)
+
+### Daily Affirmations
+(I am )
+
+### Emphasise Your Strengths
+
+Today I will be focusing on: **(strength1)**
+
+### I plan to use this strength by doing the following
+
+(strength2)
+
+```
+
+#### 5 PM Snippit
+
+```
+## Evening Five Minute Journal
+(Month: January) (Day: 1), (Year: 2001)
+(Hour: 1 (1-12)):(Minute: 01) (AM/PM)
+
+### 3 Amazing things that happened today...
+1. (amazing1)
+2. (amazing2)
+3. (amazing3)
+
+### How did I use my focused strength today?
+(focued_strength)
+
+### How could I have made today better?
+(better)
+
+### 3 things that got done today
+1. (things1)
+2. (things2)
+3. (things3)
+
+### Three word summary of the day:
+(summary)
+
+```
+#### Markdown Date
+
+```
+# (Year: 2001) (Month: January) (Day: 01)
+
+|
+```
+
+#### Journal Filename Snippit
+
+```
+journal_(Year: 2001).(Month: 01).(Day: 01).md.txt
+```
+
+---
 <span>Photo by <a href="https://unsplash.com/@aaronburden?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Aaron Burden</a> on <a href="https://unsplash.com/s/photos/pen?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 [image]: /images/post_images/pen.jpg
