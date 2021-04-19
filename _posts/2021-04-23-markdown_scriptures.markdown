@@ -29,5 +29,5 @@ Photo by <a href="https://unsplash.com/@aaronburden?utm_source=unsplash&utm_medi
 [notion]: https://www.notion.so/
 [obsidian]: https://obsidian.md/
 [scripture_extractor]: https://github.com/digitalbias/scripture_extractor
-[lds_markdown]: https://github.com/digitalbias/scripture_extractor/releases/tag/0.1
+[lds_markdown]: https://github.com/digitalbias/scripture_extractor/releases/tag/0.2
 [bomdb]: https://github.com/wordtreefoundation/bomdb
