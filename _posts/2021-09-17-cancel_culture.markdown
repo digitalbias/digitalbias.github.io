@@ -1,7 +1,7 @@
 ---
 title: Cancel culture
 tags: [politics,rant]
-image_path: post_images/hand.jpg
+image_path: post_images/hand.jpeg
 alt: "Cancel culture"
 excerpt: "Cancel culture is all about force."
 btn_label: "Read now"
@@ -21,4 +21,4 @@ As we do this, one by one. Conversation by conversation, maybe we can help influ
 Photo by <a href="https://unsplash.com/@kmaksimi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Krzysztof Maksimiuk</a> on <a href="https://unsplash.com/s/photos/talk-to-the-hand?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 
-[image]: /images/post_images/hand.jpg
+[image]: /images/post_images/hand.jpeg
