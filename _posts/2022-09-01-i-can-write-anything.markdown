@@ -5,7 +5,7 @@ image_path: post_images/freedom.jpg
 alt: "Freedom to write"
 excerpt: "this podcast host had unwittingly given me “permission” to break the rules I had made."
 btn_label: "Read now"
-date: 2022-09-01T22:00-0700
+date: 2022-09-01T22:00-0600
 ---
 ![freedom][image]
 
