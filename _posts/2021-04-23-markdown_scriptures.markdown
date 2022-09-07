@@ -17,6 +17,10 @@ Well, with a little bit of research I found a sqlite3 version of the [LDS Script
 
 As a note: I found [bomdb][bomdb] which was nice as a search app, and I still use it a bit, but overall, my markdown files are my primary sources right now.
 
+## Update
+
+There is a newer version of the markdown scriptures. It now contains block references for each paragraph in the LDS Standard Works (Old Testament, New Testament, Book of Mormon, Doctrine and Covenants, and Pearl of Great Price). You can get the latest version of it [here][new_version].
+
 ---
 Photo by <a href="https://unsplash.com/@aaronburden?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Aaron Burden</a> on <a href="https://unsplash.com/s/photos/bible?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
@@ -31,3 +35,4 @@ Photo by <a href="https://unsplash.com/@aaronburden?utm_source=unsplash&utm_medi
 [scripture_extractor]: https://github.com/digitalbias/scripture_extractor
 [lds_markdown]: https://github.com/digitalbias/scripture_extractor/releases/tag/0.2
 [bomdb]: https://github.com/wordtreefoundation/bomdb
+[new_version]: https://github.com/digitalbias/scripture_extractor/releases/tag/0.4
