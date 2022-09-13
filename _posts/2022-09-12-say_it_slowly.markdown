@@ -3,7 +3,7 @@ title: Say it Slowly
 tags: [politics,rant]
 image_path: post_images/bible.jpg
 alt: "Say it Slowly"
-excerpt: "."
+excerpt: "Saying it slowly can lead to a better understanding of lots of things."
 btn_label: "Read now"
 date: 2022-09-12T22:00-0700
 ---
