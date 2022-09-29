@@ -9,9 +9,9 @@ date: 2022-09-28T19:00-0600
 ---
 ![microphone][image]
 
-Last week, I was at a convention and was able to talk to an author named Martin Shoemaker. He co-wrote a book about dictation with Kevin J. Anderson, who has written a lot of and he does this by dictating.
+Last week, I was at a convention and was able to talk to an author named [Martin Shoemaker][martin]. He co-wrote a book about dictation with [Kevin J. Anderson][kevin], who has written a lot of and he does this by dictating.
 
-I've known this for a while, and I didn't know about Martin and that he co-wrote a book on dictation with Kevin.
+I've known this for a while, and I didn't know about Martin and that he co-wrote [a book on dictation][dictator] with Kevin.
 
 After one of the panels Martin was on I decided to approach him and see what kind of tips and ideas I could get from him on how to overcome some of the obstacles I have had with dictation in the past. Now, granted, I don't have a lot of resistance to diction, but my biggest challenge has been finding a space where I feel like I can dictate without being self-conscious.
 
@@ -42,3 +42,8 @@ Photo by <a href="https://unsplash.com/@jasonrosewell?utm_source=unsplash&utm_me
   
 
 [image]: /images/post_images/microphone.jpg
+
+
+[martin]: https://shoemaker.space/
+[kevin]: https://wordfire.com/
+[dictator]: https://www.amazon.com/Being-Dictator-Dictation-Million-Writing-ebook/dp/B07TYJLJNS/?&tag=digitalbias01-20
