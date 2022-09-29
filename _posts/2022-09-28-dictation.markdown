@@ -1,5 +1,5 @@
 ---
-title: dictation
+title: Dictation
 tags: [politics,rant]
 image_path: post_images/microphone.jpg
 alt: "dictation"
