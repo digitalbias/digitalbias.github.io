@@ -19,7 +19,7 @@ Usually, when I return home from work, I want to sit down and start writing. Thi
 
 However, things have changed recently, which has changed how I dictate and transcribe.
 
-The first thing is that OpenAI has released their new whisper engine, which will take a WAV or MP3 and read it to detect what language it is that you're speaking in and then transcribe it. The resulting file is a video text transcription file. This particular file format has timestamps where the transcription matches the original audio or video file so that it can display those words on the screen at the same time the words are spoken. Along with the timestamps, it has the exact words as detected by the trained AI.
+The first thing is that [OpenAI][openai] has released their new [whisper][whisper] engine, which will take a WAV or MP3 and read it to detect what language it is that you're speaking in and then transcribe it. The resulting file is a video text transcription file. This particular file format has timestamps where the transcription matches the original audio or video file so that it can display those words on the screen at the same time the words are spoken. Along with the timestamps, it has the exact words as detected by the trained AI.
 
 Since it is just a text file with timestamp information I can throw a regular audio file at it and have it do the transcription and then remove the timestamps, do some editing of the file, and "poof" a fairly good first draft of whatever I am working on at the time.
 
@@ -47,3 +47,5 @@ Photo by <a href="https://unsplash.com/@jasonrosewell?utm_source=unsplash&utm_me
 [martin]: https://shoemaker.space/
 [kevin]: https://wordfire.com/
 [dictator]: https://www.amazon.com/Being-Dictator-Dictation-Million-Writing-ebook/dp/B07TYJLJNS/?&tag=digitalbias01-20
+[openai]: https://openai.com/
+[whisper]: https://github.com/openai/whisper
