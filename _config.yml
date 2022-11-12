@@ -82,7 +82,7 @@ social:
 analytics:
   provider               : "google-gtag" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : AW-779042968
+    tracking_id          : G-2HXQH8LP0C
 
 # Site Author
 author:
