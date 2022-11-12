@@ -10,7 +10,7 @@ source "https://rubygems.org"
 # Happy Jekylling!
 gem "github-pages", group: :jekyll_plugins
 gem "jekyll", ">=3.6.3"
-gem "minimal-mistakes-jekyll"
+gem "minimal-mistakes-jekyll", group: :jekyll_plugins
 gem "concurrent-ruby"
 gem "i18n"
 
@@ -28,4 +28,3 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
-
