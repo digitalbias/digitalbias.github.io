@@ -1,3 +1,12 @@
+---
+title: MBA Essentials
+tags: [business]
+image_path: post_images/character.png
+alt: "MBA Essentials"
+excerpt: "MBA Essentials is all the businesss essentials in a visual form for your conveince"
+btn_label: "Read now"
+date: 2023-09-18T08:00-0700
+---
 # Unveiling "The Essential MBA"
 
 ## Introduction
