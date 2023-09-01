@@ -1,0 +1,13 @@
+---
+title: 12-Week Year Sketchnotes
+tags: [book, sketchnotes]
+image_path: post_images/.png
+alt: "12-Week Year"
+excerpt: "The 12-week year is a system to accomplish more in less time by being focused on what matters most."
+btn_label: "Read now"
+date: 2023-09-01T08:00-0700
+---
+
+![page 1](/images/book-notes/12week/Sketchnotes-p1.JPG) 
+
+![page 2](/images/book-notes/12week/Sketchnotes-p2.JPG)
