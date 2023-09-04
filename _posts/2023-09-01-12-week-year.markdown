@@ -8,6 +8,6 @@ btn_label: "Read now"
 date: 2023-09-01T08:00-0700
 ---
 
-![page 1](/images/book-notes/12week/Sketchnotes-p1.JPG) 
+[![page 1](/images/book-notes/12week/Sketchnotes-p1.JPG)](/images/book-notes/12week/Sketchnotes-p1.JPG) 
 
-![page 2](/images/book-notes/12week/Sketchnotes-p2.JPG)
+[![page 2](/images/book-notes/12week/Sketchnotes-p2.JPG)](/images/book-notes/12week/Sketchnotes-p2.JPG)
