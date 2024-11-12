@@ -10,6 +10,7 @@ Prepared by Jennifer Mitchell
 - [Introduction](introduction.pdf)
 - [Appetizers](appetizers.pdf)
 - [Beverages](beverages.pdf)
+- [Breads](breads.pdf)
 - [Cookies](cookies.pdf)
 - [Deserts](desserts.pdf)
 - [Eggs and Cheese](eggsCheese.pdf)
