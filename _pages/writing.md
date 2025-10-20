@@ -9,78 +9,88 @@ header:
   overlay_image: /images/writing.png
   caption: "Photo credit: [Cursive, by A. Birkan ÇAGHAN](https://www.flickr.com/photos/birkancaghan/24574037480)"
 ---
-Since I was in High School I've been writing one thing or another. I've only submitted to have anything I've written once, and that was because it was part of the assignment, however, I'm looking to change that.
+Since high school, I've been writing various works, primarily science fiction, fantasy, and superhero stories, alongside non-fiction. I recently earned an honorable mention from Writers of the Future, a significant milestone in my writing journey. I've only submitted work once before, as part of an assignment, but I'm now focused on sharing more of my writing.
 
-I mostly write science fiction and fantasy, with some super-hero stuff thrown in for good measure. However, I also enjoy writing non-fiction. Below you can see what I'm currently working on, and when I have time, I'll post another page with past works in case somebody wants to read the terrible stuff I've written in the past.
-
-I'd also like to write up an article on what I use and how I do my writing. Tools, process, habits. In other words "the works".
+Below are my current projects, with monthly updates to keep this page fresh. I also plan to write an article detailing my writing tools, process, and habits.
 
 ## Current Projects
 
-Below you can see what I'm currently working on and where they are at. I'll update these every month, just to keep this fresh.
+**Last update:** October 19, 2025
 
-**Last update:** 2019 March 19
+### The Manticore's Shadow
+
+**One-word summary**: Redemption
+
+**Single sentence description**: A fantasy thriller about an elven soldier defying orders to battle a magician controlling manticores and redeem his family's honor.
+
+- First draft: <progress value="51800" max="51800"></progress>
+- First edit: <progress value="0" max="66"></progress>
+
+First draft completed; preparing for initial editorial pass.
+
+### Faultline
+
+**Single sentence description**: A sci-fi thriller about ex-Ranger Cole McKnight using ley line powers to battle a corporate conspiracy involving portal attacks on an alien realm.
+
+- First draft: <progress value="60000" max="60000"></progress>
+- First edit: <progress value="0" max="66"></progress>
+
+First draft completed in October 2025; preparing for initial editorial pass. Submitted to ARK Press for consideration.
 
 ### MBA Essentials
 
-**Single sentence description**: Sketchnotes with commentary on what I learned while earning my MBA.
+**Single sentence description**: Sketchnotes with commentary on lessons learned during my MBA.
 
 - First draft: <progress value="250" max="300"></progress>
 
-Hard to judge the progress, but I'm reviewing the images. I've completed three of the classes for the first semester. That leaves three more semesters to edit. You can sign up for a [sample chapter][mba_notebook].
+Currently reviewing images, with three classes from the first semester completed. Three semesters remain for editing. Sign up for a [sample chapter][mba_notebook].
 
-What is still left: I have 2 more images to update and then the text for every one of the classes with their descriptions still to do.
+**Remaining tasks**: Update 2 more images and write text descriptions for all classes.
 
 ### Rift Walker
 
-**Single sentence description**: A science fiction-fantasy thriller about a twenty-something man who teams up with justice wielding dimension hoppers to rescue his brother's abducted newborn baby.
+**Single sentence description**: A sci-fi/fantasy thriller about a twenty-something man teaming up with dimension-hopping vigilantes to rescue his brother's abducted newborn.
 
 - First draft: <progress value="95500" max="95500"></progress>
-- First edit: <progress value="25" max="66"></progress>
+- First edit: <progress value="30" max="66"></progress>
+
+Editing is progressing; aiming to complete the first editorial pass soon.
 
 ### Growing in Faith
 
-**Single sentence description**: A gospel-centered book on practical ways we can increase our faith in Jesus Christ.
-
-I've sent this to an editor and I'm just waiting for her to get back to me.
+**Single sentence description**: A gospel-centered guide on practical ways to strengthen faith in Jesus Christ.
 
 - First draft: <progress value="30000" max="30000"></progress>
-- First edit: <progress value="0" max="66"></progress>
+- First edit: <progress value="10" max="66"></progress>
 
-
-<script async id='_ck_69719' src='https://forms.convertkit.com/69719?v=5'></script>
+Received feedback from the editor and started revisions.
 
 ### SOLID Finances
 
-**Single sentence description**: A principle centered book on how to organize your finances so you can weather the storms of life.
-
-Rift walker edit needs to complete before editing this.
+**Single sentence description**: A principle-based guide to organizing finances to withstand life's challenges.
 
 - First draft: <progress value="100" max="100"></progress>
 - First edit: <progress value="0" max="66"></progress>
+
+Awaiting completion of Rift Walker edits before starting this.
+
 
 ## Past Projects
 
 ### Imperial Champion
 
-**Single sentence description**: A fantasy thriller about a callow youth who struggles to prove his innocence after being framed for the murder of the emperor.
+**Single sentence description**: A fantasy thriller about a young man framed for the emperor's murder, fighting to prove his innocence.
 
-I began writing this when I was in Brandon Sanderson's writing class at BYU in 2013. I worked through about 50% of the story and then found I had written myself into a bit of a corner. It's totally salvageable, but I lost interest and decided to give it a bit of a rest from it. When the first draft of Rift Walker is completed I'll return to this, reread it and then begin working on it again.
-
-Once the first editorial pass is done on Rift Walker I'll do an editorial pass on this and see what I can do to make it workable.
+Started in Brandon Sanderson's 2013 BYU writing class. Wrote 50% but hit a plot snag. Plan to revisit after Rift Walker's first edit, reassess, and continue drafting.
 
 ### Change Reaction
 
-**Single sentence description**: A science-fiction/super hero action story about a college freshman who is plunged into a world of corporate suppression and human augmentation.
+**Single sentence description**: A sci-fi/superhero story about a college freshman entangled in corporate suppression and human augmentation.
 
-Came up with the idea with two friends of mine in high school. We co-wrote a number of chapters. After years in the drawer I pulled out the idea and wrote it for NaNoWriMo in 2004.
-
-Status? Needs a lot of polish before it's even decent. There are parts when I just summarized what I wanted to happened instead of actually writing the scenes.
-
-Fiction-wise, this will probably be the third book I tackle, after Rift Walker and Imperial Champion. I expect it to be somewhere around 80K words.
+Conceived with friends in high school, co-wrote chapters, and later revisited for NaNoWriMo 2004. Needs significant revision, with summarized sections requiring full scenes. Will tackle after Rift Walker and Imperial Champion, targeting ~80,000 words.
 
 ## Project Ideas
 
-* Idiot IoT: Book that teaches how to use the Nerves to create simple but useful hardware based on the Raspberry Pi and the Beagle Boards
+* Idiot IoT: A book teaching how to use Nerves for simple, practical hardware projects with Raspberry Pi and Beagle Boards.
 
 [mba_notebook]: /mba_notebook/
