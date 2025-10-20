@@ -1,5 +1,5 @@
 ---
-title:  "Activity Monitors"
+title:  "Writing Projects and Coaching Update"
 tags: [writing, coaching, writers of the future, novels]
 ---
 ## Writing and Coaching Update
