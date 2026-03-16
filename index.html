@@ -1,20 +1,102 @@
 ---
 header:
   overlay_image: /images/highrise.jpg
-  overlay_color: "#5e616c"
-  overlay_filter: rgba(0, 125, 255, 0.5)
+  overlay_color: "#17313a"
+  overlay_filter: rgba(23, 49, 58, 0.52)
   caption: "Photo by bruce mars on Unsplash"
   actions:
     - label: "<i class='fa fa-envelope'></i> Download a sample chapter"
       url: "/mba_notebook/"
 title: The Essential MBA
 layout: splash
-excerpt: "Get the knoweldge of an MBA in a fraction of the time."
+excerpt: "Practical writing, business thinking, and long-horizon projects from David Mitchell."
 author_profile: false
 ---
 
-<div class="grid__wrapper">
-  {% for post in paginator.posts %}
-    {% include archive-single.html type="grid" %}
-  {% endfor %}
+<div class="home-shell">
+  <section class="home-intro">
+    <div class="home-panel">
+      <div class="eyebrow">Builder. Writer. Systems thinker.</div>
+      <h2>A personal site with range, not sprawl.</h2>
+      <p>
+        This is where long-form essays, writing updates, MBA sketchnotes, and practical business resources live together.
+        The focus is applied thinking: ideas that survive contact with real work, real teams, and real projects.
+      </p>
+      <div class="home-actions">
+        <a class="btn btn--primary" href="/writing/">Explore Writing</a>
+        <a class="btn" href="/year-archive/">Browse Articles</a>
+      </div>
+    </div>
+
+    <div class="home-card">
+      <div class="eyebrow">Now</div>
+      <h3>Current focus areas</h3>
+      <div class="home-feature">
+        <strong>Fiction and nonfiction</strong>
+        <p>Monthly updates on novels, editing progress, and publishing experiments.</p>
+      </div>
+      <div class="home-feature">
+        <strong>MBA Essentials</strong>
+        <p>Sketchnotes and practical summaries designed to compress an MBA into something usable.</p>
+      </div>
+      <div class="home-feature">
+        <strong>Business resources</strong>
+        <p>Tools, frameworks, and notes for small business operators and technical leaders.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="home-grid">
+    <article class="home-card">
+      <div class="eyebrow">Writing</div>
+      <h3><a class="home-card-link" href="/writing/">Projects in motion</a></h3>
+      <p>Track current novels, nonfiction work, and the release cadence behind them.</p>
+    </article>
+    <article class="home-card">
+      <div class="eyebrow">Business</div>
+      <h3><a class="home-card-link" href="/business/">Useful over theoretical</a></h3>
+      <p>Collected resources for operators, builders, and leaders working with limited time.</p>
+    </article>
+    <article class="home-card">
+      <div class="eyebrow">About</div>
+      <h3><a class="home-card-link" href="/about/">A broader profile</a></h3>
+      <p>Technology, outdoors, leadership, family life, and the mix of interests behind the site.</p>
+    </article>
+  </section>
+
+  <section class="home-section">
+    <div class="home-section-head">
+      <div>
+        <div class="eyebrow">Recent posts</div>
+        <h2>Fresh thinking from the archive</h2>
+      </div>
+      <a href="/year-archive/">See all articles</a>
+    </div>
+
+    <div class="home-posts">
+      {% for post in paginator.posts limit:6 %}
+        <article class="home-post">
+          <div class="home-post-meta">{{ post.date | date: "%b %d, %Y" }}</div>
+          <h3><a class="home-card-link" href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+          {% if post.excerpt %}
+            <p>{{ post.excerpt | markdownify | strip_html | strip_newlines | truncate: 150 }}</p>
+          {% endif %}
+        </article>
+      {% endfor %}
+    </div>
+  </section>
+
+  <section class="home-section">
+    <div class="home-panel">
+      <div class="eyebrow">Newsletter</div>
+      <h2>Get the next release first.</h2>
+      <p>
+        Subscribe for new essays, fiction updates, and early looks at major projects. The list is also where beta reader opportunities show up first.
+      </p>
+      <div class="home-actions">
+        <a class="btn btn--primary" href="/subscribe/">Subscribe</a>
+        <a class="btn" href="/mba_notebook/">Sample MBA chapter</a>
+      </div>
+    </div>
+  </section>
 </div>
