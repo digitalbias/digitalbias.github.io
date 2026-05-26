@@ -416,3 +416,56 @@ a:focus {
     font-size: clamp(2.5rem, 11vw, 4rem);
   }
 }
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --site-bg: #0e1a1e;
+    --surface: rgba(18, 28, 33, 0.92);
+    --surface-strong: #1a2b32;
+    --surface-dark: #0a1215;
+    --ink: #f0ebe0;
+    --ink-soft: #8fa5ad;
+    --line: rgba(255, 255, 255, 0.08);
+    --brand: #d4724a;
+    --brand-dark: #b6542e;
+    --accent: #3d9e95;
+    --shadow: 0 22px 55px rgba(0, 0, 0, 0.45);
+  }
+
+  body {
+    background:
+      radial-gradient(circle at top left, rgba(182, 84, 46, 0.10), transparent 30%),
+      radial-gradient(circle at top right, rgba(47, 124, 116, 0.10), transparent 28%),
+      linear-gradient(180deg, #0e1a1e 0%, #101e24 42%, #0c1820 100%);
+  }
+
+  .masthead {
+    background: rgba(10, 18, 22, 0.88);
+    border-bottom-color: rgba(255, 255, 255, 0.07);
+  }
+
+  .home-panel,
+  .home-card,
+  .home-post,
+  .layout--single .page__content,
+  .layout--single .page__meta,
+  .layout--single .page__share,
+  .layout--single .page__comments,
+  .archive__item,
+  .pagination,
+  .page__related,
+  .sidebar,
+  .toc {
+    border-color: rgba(255, 255, 255, 0.06);
+  }
+
+  .page__footer {
+    background:
+      linear-gradient(180deg, rgba(8, 14, 16, 0.98), rgba(5, 10, 12, 0.99));
+    color: rgba(240, 235, 224, 0.75);
+  }
+
+  .page__footer a {
+    color: #ffa07a;
+  }
+}

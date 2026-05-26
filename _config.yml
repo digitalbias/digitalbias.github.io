@@ -19,6 +19,7 @@ teaser                   : # filename of teaser fallback teaser image placed in 
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 future                   : false # Don't show future posts
+lazy_load                : true
 # theme                    : minimal-mistakes-jekyll
 remote_theme             : "mmistakes/minimal-mistakes"
 comments:
@@ -227,22 +228,6 @@ defaults:
       layout: single
       author_profile: true
 
-# Plugins
-# gems:
-#   - jekyll-paginate
-#   - jekyll-sitemap
-#   - jekyll-gist
-#   - jekyll-feed
-#   - jemoji
-
-# mimic GitHub Pages with --safe
-# whitelist:
-#   - jekyll-paginate
-#   - jekyll-sitemap
-#   - jekyll-gist
-#   - jekyll-feed
-#   - jemoji
-
 
 # Archives
 categories:
@@ -251,16 +236,6 @@ categories:
 tags:
   type: liquid
   path: /tags/
-#jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: category-archive
-#     tag: tag-archive
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
 
 
 # HTML Compression
@@ -271,7 +246,5 @@ compress_html:
     envs: development
 
 head_scripts:
-  - https://code.jquery.com/jquery-3.3.1.min.js
-  - /assets/js/magnific.js
   - /assets/js/ga_opt_out.js
   - /assets/js/hotjar.js
