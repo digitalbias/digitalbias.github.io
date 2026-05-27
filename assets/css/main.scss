@@ -20,9 +20,9 @@ search: false
   --brand: #b6542e;
   --brand-dark: #7f3518;
   --accent: #2f7c74;
-  --shadow: 0 22px 55px rgba(21, 35, 41, 0.12);
-  --radius-lg: 28px;
-  --radius-md: 18px;
+  --shadow: 0 1px 3px rgba(21, 35, 41, 0.07), 0 4px 16px rgba(21, 35, 41, 0.06);
+  --radius-lg: 14px;
+  --radius-md: 10px;
 }
 
 body {
@@ -94,6 +94,9 @@ a:focus {
   display: flex;
   align-items: flex-end;
   background-position: center;
+  background-image:
+    radial-gradient(ellipse at 20% 60%, rgba(182, 84, 46, 0.45) 0%, transparent 55%),
+    radial-gradient(ellipse at 80% 20%, rgba(47, 124, 116, 0.40) 0%, transparent 50%);
 }
 
 .page__hero--overlay .wrapper {
@@ -180,7 +183,7 @@ a:focus {
 }
 
 .author__avatar img {
-  border-radius: 24px;
+  border-radius: 14px;
 }
 
 .author__content,
@@ -358,7 +361,7 @@ a:focus {
 }
 
 .archive__item-teaser {
-  border-radius: 16px;
+  border-radius: 10px;
   overflow: hidden;
 }
 
@@ -429,7 +432,7 @@ a:focus {
     --brand: #d4724a;
     --brand-dark: #b6542e;
     --accent: #3d9e95;
-    --shadow: 0 22px 55px rgba(0, 0, 0, 0.45);
+    --shadow: 0 1px 4px rgba(0, 0, 0, 0.30), 0 4px 20px rgba(0, 0, 0, 0.22);
   }
 
   body {
