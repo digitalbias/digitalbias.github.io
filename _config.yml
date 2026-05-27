@@ -53,13 +53,11 @@ atom_feed:
 repository               : digitalbias/digitalbias.github.io.
 
 # Giscus comments — https://giscus.app
-# Setup: 1) enable Discussions on this repo  2) install https://github.com/apps/giscus
-#        3) visit giscus.app to retrieve repo_id and category_id
 giscus:
   repo        : "digitalbias/digitalbias.github.io"
-  repo_id     : ""   # paste from giscus.app
+  repo_id     : "MDEwOlJlcG9zaXRvcnkzOTcyNDExNw=="
   category    : "Announcements"
-  category_id : ""   # paste from giscus.app
+  category_id : "DIC_kwDOAl4kVc4C99Hr"
 
 # SEO Related
 google_site_verification :
