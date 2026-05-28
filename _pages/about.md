@@ -2,89 +2,104 @@
 layout: single
 sitemap: true
 permalink: /about/
-title: About
+title: "About Dave"
+excerpt: "From software engineer to franchise owner to fractional COO—here's what I learned along the way."
+header:
+  overlay_image: /images/highrise.jpg
+  overlay_color: "#17313a"
+  overlay_filter: rgba(23, 49, 58, 0.62)
+author_profile: true
 ---
-I'm something of a productivity and self improvement nerd (in addition to just being a general sci-fi/fantasy nerd). I played D&D in High School, collected comic books and hung out with the rest of the people in my school who were interested in that kind of stuff. I ran track and cross country as well, but my real interest was just in reading books and imagining new worlds with my friends.
 
-I was so into the nerd culture that my friends and I designed comic books and other science fiction stories which still bounce around in my brain, looking for a way to get out. [I still work on some of those ideas](/author) and I split my time between reading science-fiction/fantasy books and reading self-help/productivity/business books.
+## From Software Engineer to Business Owner—Here's What I Learned
 
-Just to give you an idea, in High School I was reading Terry Brooks, David Eddings, Stephen Covey and Stephen Hawking. And that doesn't include Stan Lee . So, ya, nerd.
+I didn't set out to become a fractional COO or a business coach. I set out to build things—software, teams, systems. For 23 years, I did exactly that.
 
-Which brings me to today.
+But then I bought a franchise. And everything changed.
 
-Pretty much the same books, just branching out and reading people like Dan Wells, Brandon Sanderson, Jim Butcher and then reading other things from people like Tony Robbins, Jack Canfield and Pat Flynn.
+---
 
-## Brief History
+## The Journey
 
-I grew up as the child of an US Air Force officer and spent the first 14 years of my life traveling from one air force base to another. Eventually settled down in Utah after graduating from BYU with a Bachelors of Science in Computer Science.
+**The first chapter: 23 years in software**
 
-I spent the next 20 years working for a variety of companies within the Salt Lake and Utah counties including as a partner in [nStar Global Services][nstar]. For a full resume you can look at my [linkedin profile][linkedin].
+I grew up as the child of a US Air Force officer, moved around constantly, and eventually landed in Utah after earning a BS in Computer Science from BYU. I spent the next two decades in the trenches of software development—writing code, leading teams, managing projects, building products.
 
-In addition to my experience with software development, I have also been an active volunteer with the Boy Scouts of America Utah National Parks Council in a number of different positions including Council Advancement Chairman and Vice President of Program.
+Along the way I earned an MBA from BYU, became a Certified Scrum Master, led organizations as large as a few hundred people, and partnered in [nStar Global Services](http://www.nstarglobal.com). I specialized in software development, development process, and personal and team leadership.
 
-Together with my wife, we host a weekly podcast where we shared tips, tricks and advice on how to raise and run an [organized family][organized_family]. We put the podcast on pause while I worked on my MBA. I expect we'll start up again soon...just after the summer of crazy.
+I thought I knew how to run an operation.
 
-I specialize in Software Development, Development Process, Personal and Team Leadership.
+**The second chapter: Conserva Irrigation**
 
-In my free time I play games with my children, hike, camp, play soccer and mountain bike. I haven't done Aikido for a while, but want to pick it back up. I just need a place that is convenient to practice.
+In 2020, I bought a [Conserva Irrigation](https://conservairrigation.com/) franchise and started running it myself. No team. No safety net. Just me, a truck, and a set of systems I had to build from scratch.
 
-## Top 5 Board Games
+For six years, I grew the business to 1,500+ homes and a 95%+ customer retention rate. I was proud of it. But I was also wearing every hat—sales, operations, scheduling, customer service, accounting. I was the bottleneck.
 
-* Legendary
-* Genesys RPG/Star Wars RPG
-* Warmachine
-* Imperial Assault
-* Tiny Epic Galaxies (actually almost any game from the Tiny Epic line)
-* My Little Scythe (Bonus choice...good for family play with people who don't like other games like the ones above)
+I knew the theory of delegation and systems. I'd taught it, coached it, written about it. But actually living it, inside your own small business with real money on the line? That's different.
 
-## Top 5 Video Games
+**The turning point**
 
-* Heroes of the Storm
-* Starcraft II
-* Neverwinter Nights (The CRPG from the mid 2000s)
-* Divinity: Original Sin
-* The Legend of Zelda: Breath of the Wild
-* Overcooked
-* Final Fantasy VI
+I started building systems. Documenting processes. Finding tools that could automate the repetitive work. Figuring out which tasks actually needed me and which ones just needed clarity.
 
-(Yup, it's more than 5...)
+The business got better. I got my time back. I could take a week off without my phone lighting up constantly.
 
-## Top 5 Random Stuff
+That's when I started helping other business owners do the same.
 
-* Star Wars vs Star Trek -> Old Star Wars, New Star Trek
-* Most Recommended Author: Brandon Sanderson
-* Most Recommended Novel: Alloy of Law, Steelheart or Legion (depends on the person)
-* Most Recommended Business/Self-Improvement book: Getting Things Done or How Will You Measure Your Life (depends on the person)
+---
 
-(Yup, it's only 4...making up for the video games ;-) )
+## What I Believe
 
-## Reading
+**Systems beat heroics.** The business owner who works 80-hour weeks isn't a hero—they're a single point of failure. Build systems so your business can run without you.
 
-You can see what I am currently reading on [Good Reads][goodreads_current].
+**Your business should work without you.** Not someday. Now. If you left for a month, would the wheels come off? If so, that's not a time problem—it's a systems problem.
 
-And you can see what I recently read and at least a rating on what I felt about it on [Good Reads][goodreads_read] as well.
+**Balance is possible.** I'm an Aikido black belt (20+ years of practice), a science fiction and fantasy writer, a mountain biker, a scuba diver, and a tabletop RPG player. I practice what I preach about work-life balance because I've built the systems to make it possible.
 
-## Degrees/Certifications/Awards
+**Nerd culture wisdom applies to leadership.** Seriously. Aikido's principle of redirecting force rather than opposing it. Chess's emphasis on thinking several moves ahead. The team dynamics in a well-run tabletop campaign. These frameworks translate directly to business.
 
-* MBA from BYU in 2019
-* BS in Computer Science from BYU in 1996
-* Shodan, Aikido, [Aikikai Foundation][aikikai]
-* Certified Scrum Master (License #: 358020), [Scrum Alliance][scrum_master]
-* Certified Delphi 1.0 and 2.0 Instructor & Developer (1997-1999), [Borland][delphi]
-* Certified Advanced Open Water Diver, [PADI][padi]
-* [Microsoft Certified Instructor][mci] (1997-2000)
-* [Wood Badge][woodbadge] Course Director, 2013
-* BSA Silver Beaver
+---
 
-[organized_family]: http://www.organizedfamily.co
-[nstar]: http://www.nstarglobal.com
-[linkedin]: https://www.linkedin.com/in/digitalbias
-[aikikai]: http://www.aikikai.or.jp/eng/index.html
-[woodbadge]: https://en.wikipedia.org/wiki/Wood_Badge
-[scrum_master]: https://www.scrumalliance.org/
-[delphi]: https://groups.google.com/forum/#!topic/comp.lang.pascal.delphi.misc/mu5f2W4QSxI
-[mci]: https://www.microsoft.com/en-us/learning/mct-certification.aspx
-[padi]: https://www.padi.com/scuba-diving/padi-courses/course-catalog/advanced-open-water-diver-course/
+## The Writing Life
 
-[goodreads_current]: https://www.goodreads.com/review/list/5605780-david-mitchell?order=a&shelf=currently-reading&sort=position
-[goodreads_read]: https://www.goodreads.com/review/list/5605780-david-mitchell?order=d&shelf=read&sort=date_read
+I've been writing science fiction and fantasy since high school—when my friends and I were designing comic books and imagining worlds together. I still do. Current projects include *The Manticore's Shadow* (fantasy thriller), *Faultline* (sci-fi thriller), and *Rift Walker* (sci-fi/fantasy).
+
+In 2025, I received an **Honorable Mention from Writers of the Future**—a milestone I'm proud of after years of submitting work.
+
+I'm also working on *MBA Essentials*, a visual sketchnote guide compressing an entire MBA into something actually usable. [You can get a sample chapter here](/mba_notebook/).
+
+---
+
+## Certifications & Credentials
+
+- MBA, BYU (2019)
+- BS in Computer Science, BYU (1996)
+- Shodan (Black Belt), Aikido, [Aikikai Foundation](http://www.aikikai.or.jp/eng/index.html)
+- Certified Scrum Master, [Scrum Alliance](https://www.scrumalliance.org/)
+- Certified Advanced Open Water Diver, PADI
+- Microsoft Certified Instructor (1997–2000)
+- BSA Silver Beaver
+- Wood Badge Course Director, 2013
+
+---
+
+## Personal Interests
+
+When I'm not working on operations or writing, you'll find me:
+
+- **Aikido** — 20+ years of practice, black belt, still actively training
+- **Mountain biking** — Utah trails are exceptional
+- **Scuba diving** — certified Advanced Open Water Diver
+- **Tabletop RPGs** — Genesys, Star Wars RPG, and whatever's on the table
+- **Science fiction & fantasy** — Brandon Sanderson, Jim Butcher, Dan Wells are regular reads
+- **Board games** — Legendary, Warmachine, Imperial Assault, and anything from the Tiny Epic line
+
+---
+
+## Ready to Work Together?
+
+Whether you need operations help for your business or strategic coaching for your career, I'd love to talk.
+
+<div class="home-actions" style="margin-top: 1.5rem;">
+  <a class="btn btn--primary" href="/contact/">Schedule a Free Consultation</a>
+  <a class="btn" href="/services/">Explore My Services</a>
+</div>

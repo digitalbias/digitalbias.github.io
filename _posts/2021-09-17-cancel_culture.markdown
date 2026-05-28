@@ -1,11 +1,14 @@
 ---
-title: Cancel culture
-tags: [politics,rant]
+title: "Leadership Lessons from Cancel Culture: Why Force Fails"
+tags: [leadership, culture]
 image_path: post_images/hand.jpeg
-alt: "Cancel culture"
-excerpt: "Cancel culture is all about force."
+alt: "Leadership Lessons from Cancel Culture: Why Force Fails"
+excerpt: "Cancel culture is all about force—and force is exactly why it doesn't work. The Aikido principle applies here."
 btn_label: "Read now"
 date: 2021-09-17T06:00:00-0700
+redirect_from:
+  - /politics%20rant/cancel_culture/
+  - /cancel_culture/
 ---
 ![hand][image]
 

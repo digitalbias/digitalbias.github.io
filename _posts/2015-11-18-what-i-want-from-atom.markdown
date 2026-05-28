@@ -2,6 +2,8 @@
 title: What I Want From Atom
 excerpt: Atom is a great editor, but I'm not quite ready to jump in with both feet just yet.
 tags: [coding, text editor, atom editor, sublime text, markdown]
+sitemap: false
+search: false
 ---
 
 I really want [Atom][atom] to succeed as a mainstream text editor. I like the idea of an open sourced, powerful text editor that is extensible. I also like that it is something of a spiritual descendant of [Sublime Text][sublime]. The fact that it uses some of the most common technologies out there ([JavaScript][javascript] & [Chrome][chrome]) is also a great bonus.

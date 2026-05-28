@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "David C Mitchell"
+title                    : "David Mitchell · Fractional COO & Business Coach"
 title_separator          : "-"
 name                     : "David Mitchell"
-description              : ""
+description              : "Fractional COO consulting and career coaching for small business owners and professionals. Systems, operations, and strategic growth."
 url                      : http://www.davidcmitchell.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # url                      : http://localhost:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -88,7 +88,7 @@ analytics:
 author:
   name             : "David Mitchell"
   avatar           : "/images/bio-photo-dave.jpg"
-  bio              : "Experienced Technologist, Outdoorsman, Entrepreneur, Lifelong Learner"
+  bio              : "Fractional COO & Career Coach. 23 years in software + ops. Former Conserva Irrigation franchise owner. I help business owners reclaim their time."
   location         : "Lehi, UT"
   email            : david.c.mitchell@gmail.com
   uri              :

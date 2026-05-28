@@ -416,3 +416,377 @@ a:focus {
     font-size: clamp(2.5rem, 11vw, 4rem);
   }
 }
+
+/* ============================================
+   STORYBRAND SECTIONS
+   ============================================ */
+
+.sb-card {
+  background: var(--surface);
+  border: 1px solid rgba(255, 255, 255, 0.45);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow);
+  padding: 2.5rem 2rem;
+  margin-bottom: 1.5rem;
+}
+
+.sb-lead {
+  font-size: 1.15rem;
+  color: var(--ink-soft);
+  max-width: 52rem;
+  margin-top: 0.25rem;
+  margin-bottom: 1.25rem;
+}
+
+/* Problem section */
+.sb-problem {
+  background: var(--surface-dark);
+  border-color: rgba(255, 255, 255, 0.08);
+  color: rgba(255, 250, 240, 0.92);
+}
+
+.sb-problem-eyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  margin-bottom: 1rem;
+  color: #f0a87a;
+  font-size: 0.82rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.sb-problem h2 {
+  color: rgba(255, 250, 240, 0.97);
+  font-size: clamp(1.6rem, 3.5vw, 2.4rem);
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+}
+
+.sb-problem .sb-lead {
+  color: rgba(255, 250, 240, 0.72);
+}
+
+.sb-pain-list {
+  list-style: none;
+  padding: 0;
+  margin: 1.25rem 0 1.5rem;
+}
+
+.sb-pain-list li {
+  padding: 0.55rem 0 0.55rem 1.75rem;
+  position: relative;
+  color: rgba(255, 250, 240, 0.88);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.07);
+}
+
+.sb-pain-list li::before {
+  content: "\2192";
+  position: absolute;
+  left: 0;
+  color: #f0a87a;
+  font-weight: 700;
+}
+
+.sb-problem-close {
+  font-weight: 600;
+  color: rgba(255, 250, 240, 0.9);
+  margin-bottom: 0;
+  font-size: 1.05rem;
+}
+
+/* Guide section */
+.sb-guide {
+  background: var(--surface-strong);
+}
+
+.sb-guide h2 {
+  font-size: clamp(1.6rem, 3.5vw, 2.4rem);
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.sb-guide-inner {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 2.5rem;
+  align-items: start;
+}
+
+.sb-guide-content p {
+  color: var(--ink-soft);
+  line-height: 1.7;
+}
+
+.sb-guide-content p strong {
+  color: var(--ink);
+}
+
+.sb-guide-photo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  min-width: 180px;
+  max-width: 220px;
+}
+
+.sb-guide-photo img {
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 3px solid var(--line);
+  box-shadow: var(--shadow);
+}
+
+.sb-guide-cred {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  text-align: center;
+  font-size: 0.82rem;
+  color: var(--ink-soft);
+}
+
+.sb-guide-cred strong {
+  font-size: 1rem;
+  color: var(--ink);
+  font-family: "Fraunces", Georgia, serif;
+}
+
+/* Plan section */
+.sb-plan-section {
+  margin-bottom: 1.5rem;
+}
+
+.sb-plan-head {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.sb-plan-head h2 {
+  font-size: clamp(1.6rem, 3.5vw, 2.4rem);
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.sb-plan-head .eyebrow {
+  display: block;
+  text-align: center;
+}
+
+.sb-steps {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1.25rem;
+  margin-bottom: 2rem;
+}
+
+.sb-step {
+  background: var(--surface);
+  border: 1px solid rgba(255, 255, 255, 0.45);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow);
+  padding: 2rem 1.5rem;
+  position: relative;
+}
+
+.sb-step-number {
+  width: 2.5rem;
+  height: 2.5rem;
+  border-radius: 50%;
+  background: linear-gradient(135deg, var(--brand), #d88446);
+  color: #fff;
+  font-family: "Fraunces", Georgia, serif;
+  font-weight: 700;
+  font-size: 1.3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 1rem;
+}
+
+.sb-step h3 {
+  margin-top: 0;
+  margin-bottom: 0.65rem;
+  font-size: 1.25rem;
+}
+
+.sb-step p {
+  color: var(--ink-soft);
+  margin-bottom: 0;
+  line-height: 1.6;
+}
+
+.sb-plan-cta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+  justify-content: center;
+}
+
+/* Success section */
+.sb-success h2 {
+  font-size: clamp(1.6rem, 3.5vw, 2.4rem);
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.sb-success-list {
+  list-style: none;
+  padding: 0;
+  margin: 1rem 0 1.5rem;
+}
+
+.sb-success-list li {
+  padding: 0.6rem 0 0.6rem 1.75rem;
+  position: relative;
+  border-bottom: 1px solid var(--line);
+  color: var(--ink);
+}
+
+.sb-success-list li::before {
+  content: "\2713";
+  position: absolute;
+  left: 0;
+  color: var(--accent);
+  font-weight: 800;
+}
+
+.sb-success-close {
+  font-style: italic;
+  color: var(--ink-soft);
+  margin-bottom: 0;
+}
+
+/* CTA card */
+.sb-cta-card {
+  text-align: center;
+  background: linear-gradient(135deg, rgba(182, 84, 46, 0.08), rgba(47, 124, 116, 0.08));
+  border-color: rgba(182, 84, 46, 0.18);
+}
+
+.sb-cta-card h2 {
+  font-size: clamp(1.75rem, 4vw, 2.8rem);
+  margin-top: 0.5rem;
+}
+
+.sb-cta-card p {
+  color: var(--ink-soft);
+  max-width: 48rem;
+  margin: 0 auto 0.5rem;
+}
+
+.sb-cta-card .home-actions {
+  justify-content: center;
+}
+
+/* Services grid on services page */
+.sb-services-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.sb-service-detail {
+  padding: 2rem;
+}
+
+.sb-service-detail h2 {
+  font-size: clamp(1.4rem, 2.5vw, 2rem);
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.sb-service-detail h3 {
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+  font-size: 1.1rem;
+  color: var(--ink);
+}
+
+.sb-service-detail ul {
+  color: var(--ink-soft);
+  padding-left: 1.25rem;
+}
+
+.sb-service-detail li {
+  margin-bottom: 0.5rem;
+}
+
+.sb-service-pricing {
+  margin-top: 1.5rem;
+  padding: 0.75rem 1rem;
+  background: rgba(182, 84, 46, 0.07);
+  border-radius: var(--radius-md);
+  color: var(--brand-dark);
+  font-size: 0.95rem;
+}
+
+/* Service card on homepage */
+.sb-service-card {
+  display: flex;
+  flex-direction: column;
+}
+
+.sb-service-card p:last-of-type {
+  flex: 1;
+}
+
+.sb-service-tag {
+  font-size: 0.82rem;
+  color: var(--accent);
+  font-weight: 700;
+  margin-top: auto;
+  margin-bottom: 1rem !important;
+}
+
+/* Responsive adjustments for StoryBrand sections */
+@media (max-width: 1024px) {
+  .sb-steps,
+  .sb-services-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (max-width: 720px) {
+  .sb-card {
+    padding: 1.5rem 1.25rem;
+  }
+
+  .sb-guide-inner {
+    grid-template-columns: 1fr;
+  }
+
+  .sb-guide-photo {
+    flex-direction: row;
+    max-width: 100%;
+    align-items: center;
+  }
+
+  .sb-guide-cred {
+    text-align: left;
+  }
+
+  .sb-steps,
+  .sb-services-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .sb-plan-cta {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .sb-plan-cta .btn {
+    text-align: center;
+  }
+
+  .sb-cta-card .home-actions {
+    flex-direction: column;
+    align-items: stretch;
+  }
+}
