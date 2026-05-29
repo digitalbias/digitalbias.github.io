@@ -7,7 +7,7 @@ main:
     url: /about/
 
   - title: Blog
-    url: /year-archive/
+    url: /blog/
 
   - title: Resources
     url: /resources/

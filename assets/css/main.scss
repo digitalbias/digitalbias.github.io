@@ -745,6 +745,83 @@ a:focus {
   margin-bottom: 1rem !important;
 }
 
+/* LinkedIn share button */
+.btn--linkedin {
+  background: #0077b5 !important;
+  color: #fff !important;
+}
+
+.btn--linkedin:hover,
+.btn--linkedin:focus {
+  background: #005983 !important;
+}
+
+/* Nerd aside in guide section */
+.sb-nerd-aside {
+  font-style: italic;
+  font-size: 0.95rem;
+  color: var(--ink-soft);
+  border-left: 3px solid var(--accent);
+  padding-left: 0.85rem;
+  margin-top: 1rem;
+}
+
+/* Blog category grid */
+.blog-category-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.1rem;
+  margin-bottom: 2rem;
+}
+
+.blog-cat-card {
+  display: block;
+  background: var(--surface);
+  border: 1px solid rgba(255, 255, 255, 0.45);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow);
+  padding: 1.5rem;
+  text-decoration: none !important;
+  color: var(--ink) !important;
+  transition: box-shadow 0.15s ease, transform 0.15s ease;
+}
+
+.blog-cat-card:hover {
+  box-shadow: 0 8px 32px rgba(21, 35, 41, 0.14);
+  transform: translateY(-2px);
+  color: var(--ink) !important;
+}
+
+.blog-cat-eyebrow {
+  display: inline-flex;
+  margin-bottom: 0.5rem;
+  color: var(--accent);
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.blog-cat-card h2 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  font-size: 1.35rem;
+  line-height: 1.2;
+}
+
+.blog-cat-card p {
+  margin-bottom: 0;
+  color: var(--ink-soft);
+  font-size: 0.93rem;
+  line-height: 1.55;
+}
+
+@media (max-width: 600px) {
+  .blog-category-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
 /* Responsive adjustments for StoryBrand sections */
 @media (max-width: 1024px) {
   .sb-steps,

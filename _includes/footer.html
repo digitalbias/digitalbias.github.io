@@ -4,30 +4,17 @@
     <li>
       <strong>{{ site.data.ui-text[site.locale].follow_label }}</strong>
     </li>
-    {% endif %} {% if site.twitter.username %}
+    {% endif %}
+    {% if site.author.linkedin %}
+    <li>
+      <a href="https://linkedin.com/in/{{ site.author.linkedin }}">
+        <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a>
+    </li>
+    {% endif %}
+    {% if site.twitter.username %}
     <li>
       <a href="https://twitter.com/{{ site.twitter.username }}">
         <i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a>
-    </li>
-    {% endif %} {% if site.facebook.username %}
-    <li>
-      <a href="https://www.facebook.com/{{ site.facebook.username }}">
-        <i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a>
-    </li>
-    {% endif %} {% if site.author.github %}
-    <li>
-      <a href="https://github.com/{{ site.author.github }}">
-        <i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a>
-    </li>
-    {% endif %} {% if site.author.gitlab %}
-    <li>
-      <a href="https://gitlab.com/{{ site.author.gitlab }}">
-        <i class="fab fa-fw fa-gitlab" aria-hidden="true"></i> Gitlab</a>
-    </li>
-    {% endif %} {% if site.author.bitbucket %}
-    <li>
-      <a href="https://bitbucket.org/{{ site.author.bitbucket }}">
-        <i class="fab fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket</a>
     </li>
     {% endif %}
     <li>
@@ -42,6 +29,6 @@
   <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp;
   <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.
 
-<p class='small'>Writing updates, practical essays, and long-term projects collected in one place. Read the <a href="/about/privacy/">privacy policy</a>.</p>
+<p class='small'>Practical insights on operations, leadership, and building a business that doesn't depend entirely on you. Read the <a href="/about/privacy/">privacy policy</a>.</p>
 
 </div>
