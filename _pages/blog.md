@@ -5,8 +5,6 @@ permalink: /blog/
 title: "Blog"
 excerpt: "Essays on operations, leadership, nerd culture, and fiction writing."
 author_profile: false
-redirect_from:
-  - /year-archive/
 ---
 
 <div class="blog-category-grid">
