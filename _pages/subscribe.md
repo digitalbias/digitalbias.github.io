@@ -3,10 +3,47 @@ layout: single
 sitemap: true
 permalink: /subscribe/
 title: Subscribe
-tags: [writing]
+excerpt: "Get insights on operations, leadership, and growth in your inbox—plus ways to follow along wherever you spend time online."
+header:
+  overlay_image: /images/highrise.jpg
+  overlay_color: "#17313a"
+  overlay_filter: rgba(23, 49, 58, 0.62)
+author_profile: false
 ---
-I do a number of things, but one of the things I've done since High School is write. If you are interested in reading my fiction or some of the non-fiction I will be writing over the coming years, then I suggest you subscribe to my newsletter. I'll send you the first chapter of my current project and you'll be one of the first people to hear when I publish.
 
-I also intend to use people on my email list as <del>victims</del> <del>test subjects</del> beta readers for projects that are getting ready for a more general release. If you like what I have out there and are interested in getting more, then get on the list. But get on sooner than later. I'll only be asking for beta readers once and  I only want to have about six.
+## Get Insights on Operations, Leadership, and Growth
 
-<script async id="_ck_55478" src="https://forms.convertkit.com/55478?v=5"></script>
+New essays, frameworks, and practical business content—delivered to your inbox. MBA sketchnotes, operations lessons, and early access to new resources.
+
+<div id="email-signup">
+<script async data-uid="a8757c4c8d" src="https://davidcmitchell.kit.com/a8757c4c8d/index.js"></script>
+</div>
+
+---
+
+## Follow Along Elsewhere
+
+Prefer to keep up on social? Here's where I show up:
+
+<ul class="social-icons">
+  <li>
+    <a href="https://linkedin.com/in/digitalbias">
+      <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a>
+  </li>
+  <li>
+    <a href="https://twitter.com/digitalbias">
+      <i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a>
+  </li>
+  <li>
+    <a href="https://instagram.com/digitalbias">
+      <i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a>
+  </li>
+  <li>
+    <a href="https://youtube.com/@digitalbias">
+      <i class="fab fa-fw fa-youtube" aria-hidden="true"></i> YouTube</a>
+  </li>
+  <li>
+    <a href="/feed.xml">
+      <i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> RSS Feed</a>
+  </li>
+</ul>

@@ -17,6 +17,18 @@
         <i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a>
     </li>
     {% endif %}
+    {% if site.author.instagram %}
+    <li>
+      <a href="https://instagram.com/{{ site.author.instagram }}">
+        <i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a>
+    </li>
+    {% endif %}
+    {% if site.author.youtube %}
+    <li>
+      <a href="https://youtube.com/@{{ site.author.youtube }}">
+        <i class="fab fa-fw fa-youtube" aria-hidden="true"></i> YouTube</a>
+    </li>
+    {% endif %}
     <li>
       <a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}">
         <i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a>
