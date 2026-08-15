@@ -16,7 +16,7 @@ author_profile: false
 New essays, frameworks, and practical business content—delivered to your inbox. MBA sketchnotes, operations lessons, and early access to new resources.
 
 <div id="email-signup">
-<script async data-uid="a8757c4c8d" src="https://davidcmitchell.kit.com/a8757c4c8d/index.js"></script>
+<script async data-uid="30846a9d13" src="https://davidcmitchell.kit.com/30846a9d13/index.js"></script>
 </div>
 
 ---
