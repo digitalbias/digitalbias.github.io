@@ -5,7 +5,7 @@ permalink: /subscribe/
 title: Subscribe
 excerpt: "Get insights on operations, leadership, and growth in your inbox—plus ways to follow along wherever you spend time online."
 header:
-  overlay_image: /images/highrise.jpg
+  overlay_image: /images/hero-utah.jpg
   overlay_color: "#17313a"
   overlay_filter: rgba(23, 49, 58, 0.62)
 author_profile: false

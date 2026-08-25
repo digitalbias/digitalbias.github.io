@@ -1,3 +1,12 @@
+---
+layout: single
+published: false
+sitemap: false
+robots: noindex
+permalink: /post-ideas/
+title: Post ideas
+---
+
 ## Post Ideas
 
 - Devise

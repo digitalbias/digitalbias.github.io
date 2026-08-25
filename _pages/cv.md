@@ -1,6 +1,7 @@
 ---
 layout: single
-sitemap: true
+sitemap: false
+robots: noindex
 permalink: /cv/
 title: CV
 tags: [business, cv]

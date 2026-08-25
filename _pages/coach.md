@@ -1,6 +1,8 @@
 ---
 layout: single
-sitemap: true
+published: false
+sitemap: false
+robots: noindex
 permalink: /coaching/
 title: Hire me as a coach.
 tags: [coaching, resources, analysis]

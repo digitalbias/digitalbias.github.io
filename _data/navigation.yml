@@ -3,6 +3,9 @@ main:
   - title: Services
     url: /services/
 
+  - title: Contact
+    url: /contact/
+
   - title: About
     url: /about/
 
@@ -14,6 +17,3 @@ main:
 
   - title: Subscribe
     url: /subscribe/
-
-  - title: Contact
-    url: /contact/

@@ -5,8 +5,9 @@ permalink: /resources/
 title: "Resources"
 excerpt: "Practical tools, frameworks, and notes for small business operators and technical leaders."
 header:
-  overlay_image: /images/business.png
-  overlay_filter: rgba(22,37,59,0.5)
+  overlay_image: /images/hero-utah.jpg
+  overlay_color: "#17313a"
+  overlay_filter: rgba(23, 49, 58, 0.62)
 author_profile: false
 ---
 

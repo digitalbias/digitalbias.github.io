@@ -4,29 +4,36 @@ sitemap: false
 permalink: /about/privacy/
 title: Privacy Policy
 tags: [website, administrative]
-comments: true
+comments: false
 header:
-  overlay_image: /images/writing.png
-  caption: "Photo credit: [Cursive, by A. Birkan ÇAGHAN](https://www.flickr.com/photos/birkancaghan/24574037480)"
+  overlay_image: /images/hero-utah.jpg
+  overlay_color: "#17313a"
+  overlay_filter: rgba(23, 49, 58, 0.62)
+author_profile: false
 ---
-# Privacy Statement
 
-Simple, no-nonsence statement on your privacy and how this site uses your data.
+This is a simple account of what this site collects and why.
 
-If you have opted in for one of the email lists, then you have said you want to get information from me about that particular area. Those, at the time of this writing, are: Faith-based writing and Fiction-based writing. At some point I may start something else up, such as nerd or business stuff, but nothing yet. You've explicitly added your email to my list and should expect that I will tell you when I have something new out there for you to consume. In some cases you may need to pay for some of it. I try and make sure you get a lot of value from me before that happens and I hope you feel it's worth the exchange.
+## Email
 
-## What I Collect and Use
+If you subscribe, you are asking me to email you about operations, leadership, and related writing. I use [Kit](https://kit.com/) to send those emails. You can unsubscribe from any message.
 
-* Email address, first name, last name.
-* I use Discord for comments. They keep track of your personal data. I just have an embedded form and feed here to their site. I don't keep track of any comments outside of their site.
-* I use GoogleAnalytics. It tracks a host of information. You are welcome to opt-out of what we collect by going clicking [this link.][opt_out].
+I collect the email address and name you submit on a form.
+
+## Comments
+
+Some posts allow comments through [Giscus](https://giscus.app/), which uses a GitHub account. GitHub’s privacy policy applies to that login. I don’t store comments on this server.
+
+## Analytics
+
+I use Google Analytics to understand which pages people read. You can [opt out of Google Analytics on this site](javascript:gaOptout()).
 
 ## Cookies
 
-Yup, we use them, but only in connection with what Google Analytics uses. This is a static site. Not much else happens here. 
+This is a static site. Cookies here are from analytics and from third-party embeds (email forms, comments) if you use those features.
 
-## Forms
+## Contact
 
-The only forms we have are related to the collection of email addresses so we can send out notofications and let you know if there may be something you are interested in that we've created. If you don't want those emails, you are welcome to unsubscribe from them. There should be a link at the bottom of the email when you get it. Click it.
+If you email me, I keep that correspondence so I can reply and do the work. I don’t sell or rent your information.
 
-[opt_out]: javascript:gaOptout()
+Questions: [david.c.mitchell@gmail.com](mailto:david.c.mitchell@gmail.com)

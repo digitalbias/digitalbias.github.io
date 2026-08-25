@@ -1,6 +1,7 @@
 ---
 layout: single
-sitemap: true
+sitemap: false
+robots: noindex
 permalink: /play/
 title: Play
 tags: [games, sports, extra curricular activities]

@@ -5,11 +5,13 @@ permalink: /career-coaching/
 title: "Career Coaching"
 excerpt: "Your career is a chess game, not a ladder. Get a strategic thinking partner who's been in leadership roles and can help you think several moves ahead."
 header:
-  overlay_image: /images/highrise.jpg
+  overlay_image: /images/hero-utah.jpg
   overlay_color: "#17313a"
   overlay_filter: rgba(23, 49, 58, 0.62)
 author_profile: false
 ---
+
+<p class="sb-side-door" style="margin-top:0;">Own the company and need operations help instead? See <a href="/fractional-coo/">fractional COO consulting</a>.</p>
 
 ## Most Career Advice Is a Ladder. Yours Should Be a Chess Game.
 
@@ -67,6 +69,6 @@ The first step is a free 30-minute conversation to understand where you are and 
 ---
 
 <div class="home-actions" style="margin-top: 2rem;">
-  <a class="btn btn--primary" href="/contact/">Schedule a Free Consultation</a>
-  <a class="btn" href="/services/">View All Services</a>
+  <a class="btn btn--primary" href="/contact/">Book a free 30-minute call</a>
+  <a class="btn" href="/services/">All services</a>
 </div>

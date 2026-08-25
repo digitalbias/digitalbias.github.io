@@ -1,6 +1,7 @@
 ---
 layout: single
-sitemap: true
+sitemap: false
+robots: noindex
 permalink: /outdoors/
 title: Outdoors
 tags: [outdoors]

@@ -23,6 +23,12 @@ search: false
   --radius-md: 10px;
 }
 
+html,
+body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
 body {
   background:
     radial-gradient(circle at top left, rgba(182, 84, 46, 0.18), transparent 30%),
@@ -43,6 +49,7 @@ h6,
 .page__hero-title {
   font-family: "Fraunces", Georgia, serif;
   letter-spacing: -0.03em;
+  overflow-wrap: break-word;
 }
 
 a {
@@ -58,11 +65,15 @@ a:focus {
   background: rgba(255, 249, 240, 0.78);
   backdrop-filter: blur(18px);
   border-bottom: 1px solid var(--line);
+  max-width: 100%;
+  overflow: hidden;
 }
 
 .site-title {
   font-weight: 700;
   color: var(--ink) !important;
+  font-size: 1.15rem;
+  white-space: nowrap;
 }
 
 .greedy-nav {
@@ -91,7 +102,7 @@ a:focus {
   min-height: 18rem;
   display: flex;
   align-items: flex-end;
-  background-position: center;
+  background-position: center 78%;
   background-image:
     radial-gradient(ellipse at 20% 60%, rgba(182, 84, 46, 0.45) 0%, transparent 55%),
     radial-gradient(ellipse at 80% 20%, rgba(47, 124, 116, 0.40) 0%, transparent 50%);
@@ -116,9 +127,22 @@ a:focus {
 }
 
 .page__hero-title {
-  max-width: 10ch;
-  font-size: clamp(3rem, 7vw, 5.6rem);
-  line-height: 0.95;
+  max-width: min(16ch, 100%);
+  font-size: clamp(2.1rem, 6vw, 4.2rem);
+  line-height: 1.05;
+  overflow-wrap: break-word;
+}
+
+.page__hero--overlay .btn {
+  background: linear-gradient(135deg, var(--brand), #d88446);
+  color: #fff !important;
+  border: 0;
+  border-radius: 999px;
+}
+
+.page__hero--overlay .btn:hover,
+.page__hero--overlay .btn:focus {
+  background: linear-gradient(135deg, var(--brand-dark), var(--brand));
 }
 
 .page__lead {
@@ -145,6 +169,19 @@ a:focus {
 .btn--inverse:hover,
 .btn--inverse:focus {
   background: linear-gradient(135deg, var(--brand-dark), var(--brand));
+}
+
+.btn--ghost {
+  background: transparent;
+  color: #fff !important;
+  border: 1px solid rgba(255, 250, 240, 0.35);
+  box-shadow: none;
+}
+
+.btn--ghost:hover,
+.btn--ghost:focus {
+  background: rgba(255, 250, 240, 0.08);
+  color: #fff !important;
 }
 
 .initial-content,
@@ -202,10 +239,18 @@ a:focus {
 }
 
 .home-shell {
-  width: min(1150px, calc(100% - 2rem));
+  width: min(1150px, 100%);
   margin: -2.5rem auto 4rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  box-sizing: border-box;
   position: relative;
   z-index: 2;
+  max-width: 100%;
+}
+
+.home-shell--solo {
+  margin-top: 1.5rem;
 }
 
 .home-intro {
@@ -418,7 +463,12 @@ a:focus {
   }
 
   .page__hero-title {
-    font-size: clamp(2.5rem, 11vw, 4rem);
+    font-size: clamp(2rem, 10vw, 3.2rem);
+    max-width: 100%;
+  }
+
+  .site-title {
+    font-size: 1rem;
   }
 }
 
@@ -870,5 +920,227 @@ a:focus {
   .sb-cta-card .home-actions {
     flex-direction: column;
     align-items: stretch;
+  }
+}
+
+/* ============================================
+   HOMEPAGE HERO, STATS, BOOKING
+   ============================================ */
+
+.sb-hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1.45fr) minmax(14rem, 0.7fr);
+  gap: 2rem;
+  align-items: center;
+  background: var(--surface-dark);
+  color: rgba(255, 250, 240, 0.92);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow);
+  padding: 2.75rem 2.25rem;
+  margin-bottom: 1.5rem;
+}
+
+.sb-hero--contact {
+  grid-template-columns: 1fr;
+}
+
+.sb-hero-copy {
+  min-width: 0;
+}
+
+.sb-hero p,
+.sb-hero li,
+.sb-card p,
+.sb-card li {
+  overflow-wrap: break-word;
+}
+
+.sb-hero-eyebrow {
+  display: block;
+  margin-bottom: 1rem;
+  color: #f0a87a;
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  max-width: 100%;
+}
+
+.sb-hero h1 {
+  margin: 0 0 1rem;
+  color: rgba(255, 250, 240, 0.97);
+  font-size: clamp(2rem, 4.6vw, 3.35rem);
+  line-height: 1.08;
+  max-width: min(18ch, 100%);
+}
+
+.sb-hero .sb-lead {
+  color: rgba(255, 250, 240, 0.74);
+  max-width: 38rem;
+}
+
+.sb-hero .home-actions {
+  margin-top: 1.6rem;
+}
+
+.sb-hero-photo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.85rem;
+  justify-self: end;
+}
+
+.sb-hero-photo img {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  object-position: center 20%;
+  border-radius: 50%;
+  border: 3px solid rgba(240, 168, 122, 0.55);
+  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.28);
+}
+
+.sb-hero .sb-guide-cred {
+  color: rgba(255, 250, 240, 0.7);
+}
+
+.sb-hero .sb-guide-cred strong {
+  color: rgba(255, 250, 240, 0.95);
+}
+
+.sb-stats {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.sb-stat {
+  background: var(--surface);
+  border: 1px solid rgba(255, 255, 255, 0.45);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow);
+  padding: 1.2rem 0.85rem;
+  text-align: center;
+}
+
+.sb-stat-value {
+  font-family: "Fraunces", Georgia, serif;
+  font-size: clamp(1.5rem, 3vw, 1.9rem);
+  font-weight: 700;
+  color: var(--brand-dark);
+  letter-spacing: -0.03em;
+  line-height: 1.1;
+}
+
+.sb-stat-label {
+  margin-top: 0.35rem;
+  color: var(--ink-soft);
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+}
+
+.sb-service-card--featured {
+  padding: 2rem;
+}
+
+.sb-side-door {
+  margin-top: 1.1rem;
+  color: var(--ink-soft);
+  font-size: 0.98rem;
+}
+
+.sb-secondary-offer {
+  margin-top: 1.5rem;
+}
+
+.sb-secondary-offer h2 {
+  font-size: clamp(1.4rem, 2.5vw, 1.9rem);
+  margin-top: 0.35rem;
+}
+
+.sb-booking {
+  display: grid;
+  grid-template-columns: minmax(0, 1.15fr) minmax(0, 0.95fr);
+  gap: 1.25rem;
+  margin-bottom: 1.5rem;
+}
+
+.sb-booking-action {
+  background: var(--surface-strong);
+}
+
+.sb-booking-email {
+  margin-top: 1rem;
+  margin-bottom: 0;
+  color: var(--ink-soft);
+  font-size: 0.92rem;
+}
+
+.sb-calendar {
+  margin-top: 1.25rem;
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  min-height: 420px;
+  border: 1px solid var(--line);
+}
+
+.sb-calendar iframe {
+  width: 100%;
+  height: 640px;
+  border: 0;
+}
+
+@media (max-width: 1024px) {
+  .sb-hero,
+  .sb-booking,
+  .sb-stats {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .sb-hero--contact {
+    grid-template-columns: 1fr;
+  }
+
+  .sb-stats {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 720px) {
+  .sb-hero,
+  .sb-booking,
+  .sb-stats {
+    grid-template-columns: 1fr;
+  }
+
+  .sb-hero {
+    padding: 1.75rem 1.25rem;
+  }
+
+  .sb-hero h1 {
+    max-width: 100%;
+    font-size: clamp(1.7rem, 8.4vw, 2.35rem);
+  }
+
+  .sb-hero-photo {
+    justify-self: start;
+    flex-direction: row;
+    max-width: 100%;
+  }
+
+  .sb-hero-photo img {
+    width: 96px;
+    height: 96px;
+  }
+
+  .sb-hero .sb-guide-cred {
+    text-align: left;
+  }
+
+  .sb-stat-value {
+    font-size: 1.45rem;
   }
 }
