@@ -38,15 +38,15 @@ author_profile: false
       <div class="home-actions">
         <a class="btn btn--primary" href="{{ site.scheduling_url }}" target="_blank" rel="noopener">Book a free 30-minute call</a>
       </div>
-      <p class="sb-booking-email">Prefer email? Write <a href="mailto:david.c.mitchell@gmail.com">david.c.mitchell@gmail.com</a> or <a href="https://www.linkedin.com/in/digitalbias">message me on LinkedIn</a>.</p>
+      <p class="sb-booking-email">Prefer email? Write <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a> or <a href="https://www.linkedin.com/in/digitalbias">message me on LinkedIn</a>.</p>
       {% else %}
       <h2>Email two times that work</h2>
       <p>Send me two windows that work this week and a sentence about what’s stuck. I typically reply within a day and we’ll lock a time.</p>
       <div class="home-actions">
-        <a class="btn btn--primary" href="mailto:david.c.mitchell@gmail.com?subject=Free%2030-minute%20consultation&amp;body=Hi%20Dave%2C%0A%0AI'd%20like%20to%20book%20a%2030-minute%20call.%0A%0ATwo%20times%20that%20work%20for%20me%20this%20week%3A%0A-%20%0A-%20%0A%0AWhat%20I'm%20stuck%20on%3A%0A">Email two times that work</a>
+        <a class="btn btn--primary" href="mailto:{{ site.author.email }}?subject=Free%2030-minute%20consultation&amp;body=Hi%20Dave%2C%0A%0AI'd%20like%20to%20book%20a%2030-minute%20call.%0A%0ATwo%20times%20that%20work%20for%20me%20this%20week%3A%0A-%20%0A-%20%0A%0AWhat%20I'm%20stuck%20on%3A%0A">Email two times that work</a>
         <a class="btn" href="https://www.linkedin.com/in/digitalbias">Message on LinkedIn</a>
       </div>
-      <p class="sb-booking-email">Or write <a href="mailto:david.c.mitchell@gmail.com">david.c.mitchell@gmail.com</a> directly.</p>
+      <p class="sb-booking-email">Or write <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a> directly.</p>
       {% endif %}
     </div>
   </section>

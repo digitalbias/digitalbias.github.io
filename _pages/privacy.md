@@ -36,4 +36,4 @@ This is a static site. Cookies here are from analytics and from third-party embe
 
 If you email me, I keep that correspondence so I can reply and do the work. I don’t sell or rent your information.
 
-Questions: [david.c.mitchell@gmail.com](mailto:david.c.mitchell@gmail.com)
+Questions: [dave@davidcmitchell.com](mailto:dave@davidcmitchell.com)

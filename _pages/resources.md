@@ -27,7 +27,7 @@ Years of business education compressed into visual notes you can actually use. C
 
 A curated list of tools for small business owners—bookkeeping, CRM, communication, time tracking, payment systems, and more. Focused on practical, affordable options that actually work for small teams.
 
-[Browse the Business Tools Guide](/business-tools/)
+[Browse the Business Tools Guide](/business/)
 
 ---
 
