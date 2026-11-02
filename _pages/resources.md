@@ -31,6 +31,14 @@ A curated list of tools for small business owners—bookkeeping, CRM, communicat
 
 ---
 
+## Magic: The Gathering
+
+Guides I've built while learning Magic: prerelease guides for the Star Trek, Reality Fracture and Hobbit sets, plus notes on ReplayCoach, the MTG Arena game coach I'm building.
+
+[Browse Magic resources](/resources/magic/)
+
+---
+
 ## Blog: Business & Operations
 
 Essays on building systems, managing teams, and running a small business. Drawn from 23 years in software development and 6 years running a franchise.
