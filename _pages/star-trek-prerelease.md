@@ -18,11 +18,9 @@ Heading to a Star Trek prerelease (November 6 to 12, 2026)? This page has everyt
 
 Five bombs, the traps that lose games, and a five-step checklist that turns any pool into a solid deck. Nine pop quizzes along the way, so keep score.
 
-<!-- Add the YouTube video ID once the video is uploaded:
-{% raw %}{% include video id="YOUTUBE_ID" provider="youtube" %}{% endraw %}
--->
+{% include video id="RZP2HrdLcMM" provider="youtube" %}
 
-*Video coming soon.*
+[Watch on YouTube](https://youtu.be/RZP2HrdLcMM) (8 minutes, with captions and chapters).
 
 ## Use these while you sort and build
 
