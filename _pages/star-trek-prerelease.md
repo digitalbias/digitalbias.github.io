@@ -12,7 +12,7 @@ author_profile: false
 toc: false
 ---
 
-Heading to a Star Trek prerelease (November 6 to 12, 2026)? This page has everything you need at the table: the video, a card-by-card review of the set, and a reference guide you can keep open while you build.
+Heading to a Star Trek prerelease (November 6 to 12, 2026)? This page has everything you need at the table: the video, a card-by-card review of the set, a reference guide you can keep open while you build, and a cheat sheet to fill in at the table.
 
 ## The video
 
@@ -32,6 +32,9 @@ The same 151 cards with pictures, ready to print or save for a store with bad Wi
 
 **[Prerelease Reference Guide (PDF)](/files/star-trek-prerelease/Star_Trek_Prerelease_Reference_Guide.pdf)**
 The step-by-step build process, all ten archetypes, key synergies, and quick reminders for between rounds. Built from the full 306-card set.
+
+**[Prerelease Help Cheat Sheet (PDF)](/files/star-trek-prerelease/Star_Trek_Prerelease_Cheat_Sheet.pdf)**
+A quarter-page worksheet for the table: count your bombs, removal and playables by color, check the top archetypes (and the ones to avoid), and fill in your curve against the targets. Prints four to a page.
 
 ## The short version
 
