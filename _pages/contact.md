@@ -56,7 +56,7 @@ author_profile: false
     <h2>Get a feel for how I think</h2>
     <ul>
       <li><a href="/fractional-coo/">Fractional COO consulting</a> — what it is and what you walk away with</li>
-      <li><a href="/about/">About Dave</a> — the Conserva story and how I work</li>
+      <li><a href="/about/">About Dave</a> — my story and how I work</li>
       <li><a href="/blog/">The blog</a> — essays on operations, leadership, and systems</li>
       <li><a href="/mba_notebook/">MBA sketchnotes</a> — practical business frameworks in visual form</li>
     </ul>

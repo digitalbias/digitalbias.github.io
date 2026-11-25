@@ -19,13 +19,13 @@ header:
 - LinkedIn: https://www.linkedin.com/in/digitalbias/
 
 ## Professional Summary
-Accomplished leader with over 25 years of experience in software development, product management, and entrepreneurship. Expert in leading high-performing teams to deliver innovative technical solutions, including scalable applications and data systems, while solving complex problems and driving operational efficiency. Founded Conserva Irrigation of Traverse Mountain, achieving a 95% customer retention rate through strategic leadership and process optimization. Skilled in collaborative, fast-paced environments, with a proven track record in managing large-scale projects and fostering team morale. Award-winning writer with an Honorable Mention in the 2025 Writers of the Future contest.
+Accomplished leader with over 25 years of experience in software development, product management, and entrepreneurship. Expert in leading high-performing teams to deliver innovative technical solutions, including scalable applications and data systems, while solving complex problems and driving operational efficiency. Founded and grew an irrigation service business to 1,500+ homes through strategic leadership and process optimization. Skilled in collaborative, fast-paced environments, with a proven track record in managing large-scale projects and fostering team morale. Award-winning writer with an Honorable Mention in the 2025 Writers of the Future contest.
 
 ## Work Experience
 ### Owner
-Conserva Irrigation Of Traverse Mountain · Self-employed  
+Irrigation franchise · Self-employed  
 May 2020 - Present · Lehi, Utah, United States  
-- Founded and manage irrigation business, specializing in sprinkler system care (95% customer retention rate).  
+- Founded and manage irrigation business, specializing in sprinkler system care; grew it to 1,500+ homes.  
 - Served on Franchise Advisory Committee (FAC), contributing to strategic initiatives and franchisee support.  
 - Implemented technician compensation plans, training programs, and efficiency metrics, improving performance by 20%.
 
@@ -164,11 +164,11 @@ Brigham Young University, Provo, Utah
 - Recruitment  
 - Irrigation Services  
 - Technical Training  
-- Accounting (Conserva Irrigation Of Traverse Mountain)  
-- Sales (Conserva Irrigation Of Traverse Mountain)  
-- Finance (Conserva Irrigation Of Traverse Mountain)  
-- Marketing (Conserva Irrigation Of Traverse Mountain)  
-- Business Strategy (Conserva Irrigation Of Traverse Mountain)
+- Accounting  
+- Sales  
+- Finance  
+- Marketing  
+- Business Strategy
 
 ## Certifications and Awards
 - Writers of the Future Honorable Mention, 2025  

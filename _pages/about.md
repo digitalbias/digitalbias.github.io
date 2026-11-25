@@ -3,7 +3,7 @@ layout: single
 sitemap: true
 permalink: /about/
 title: "About Dave"
-excerpt: "I ran a franchise solo to 1,500 homes. Then I built the systems so I didn’t have to."
+excerpt: "I grew a service business to 1,500 homes. Then I built the systems so it didn’t depend on me."
 header:
   overlay_image: /images/hero-utah.jpg
   overlay_color: "#17313a"
@@ -19,11 +19,11 @@ Then I bought a franchise. And the theory met the truck.
 
 ---
 
-## The Conserva years
+## The irrigation years
 
-In 2020 I bought a [Conserva Irrigation](https://conservairrigation.com/) franchise and ran it myself. No team. No safety net. Just me and a set of systems I had to build from scratch.
+In 2020 my wife and I bought an irrigation franchise and ran it together, with a team of techs. The franchise gave us a solid sales playbook and some operational basics, but not nearly enough to run the day-to-day. We had to fill in the rest ourselves.
 
-Over six years I grew it to 1,500+ homes and a 95%+ customer retention rate. I was proud of it. I was also wearing every hat—sales, operations, scheduling, customer service, accounting. I was the bottleneck.
+Over six years we grew it to 1,500+ homes. I was proud of it. Between the two of us we covered sales, operations, scheduling, customer service and accounting, and too much of it ran through me. I was the bottleneck.
 
 I knew how to teach delegation. Living it inside a small business with real money on the line is different.
 

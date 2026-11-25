@@ -15,7 +15,7 @@ Are you a business owner struggling to scale your operations, motivate your team
 
 You've tried tactics that fall flat, leaving you overwhelmed and stuck in the day-to-day grind.
 
-I'm David Mitchell, your experienced guide—a tech leader turned entrepreneur who's built successful companies like Conserva Irrigation, achieving 95% customer retention through smart strategies and team optimization.
+I'm David Mitchell, your experienced guide—a tech leader turned entrepreneur who's grown a service business to 1,500+ homes through smart strategies and team optimization.
 
 My proven plan for you:
 1. Assess your challenges with data-driven insights.
